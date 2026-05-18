@@ -1,0 +1,11 @@
+location_id,city,country,tourist_season,tourism_type,average_temperature,annual_tourists
+1,Mumbai,India,Peak,Religious,28,2177249
+2,Pune,India,Peak,Religious,24,3385313
+3,Delhi,India,Off Season,Beach,25,1959058
+4,Goa,India,Off Season,Religious,31,1166184
+5,Jaipur,India,Off Season,Religious,35,3366569
+6,Bangalore,India,Off Season,Religious,42,2125347
+7,Hyderabad,India,Off Season,Business,31,1647833
+8,Chennai,India,Peak,Adventure,31,435331
+9,Kolkata,India,Off Season,Business,34,830902
+10,Ahmedabad,India,Off Season,Business,29,1813170

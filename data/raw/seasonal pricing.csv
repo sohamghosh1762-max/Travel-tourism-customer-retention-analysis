@@ -1,0 +1,501 @@
+pricing_id,hotel_id,season,room_type,seasonal_price,demand_level,occupancy_forecast,competitor_price
+1,5,Summer,Suite,20959,Low,66.94,4878
+2,12,Festival,Executive,19306,High,72.86,6743
+3,91,Monsoon,Suite,21888,High,84.16,6941
+4,30,Winter,Family Suite,29958,Medium,86.7,17264
+5,7,Summer,Suite,18549,High,68.74,22365
+6,27,Winter,Executive,28925,Medium,94.7,21623
+7,68,Summer,Family Suite,7649,Low,85.96,20766
+8,29,Festival,Family Suite,27414,Medium,55.43,17035
+9,29,Summer,Executive,29804,High,88.46,6820
+10,26,Monsoon,Deluxe,27253,High,71.77,12410
+11,53,Winter,Family Suite,26929,High,66.54,21363
+12,58,Winter,Deluxe,8825,Low,73.61,3932
+13,56,Festival,Standard,10185,Low,66.71,21934
+14,86,Monsoon,Family Suite,24322,High,72.16,3227
+15,73,Winter,Family Suite,29086,Low,94.95,17134
+16,58,Summer,Suite,19744,Low,50.46,9176
+17,64,Winter,Executive,19324,Medium,90.6,20864
+18,15,Summer,Family Suite,15600,High,85.52,7933
+19,72,Monsoon,Family Suite,13424,Low,82.39,24496
+20,18,Summer,Deluxe,5979,Medium,57.78,21882
+21,58,Festival,Executive,19547,Medium,77.66,13529
+22,48,Winter,Family Suite,24908,High,81.09,11045
+23,41,Festival,Suite,29651,Low,97.44,9221
+24,20,Summer,Standard,15563,Medium,54.6,4390
+25,21,Summer,Family Suite,29977,High,77.77,6388
+26,89,Summer,Family Suite,19172,Medium,76.3,13285
+27,75,Monsoon,Suite,22169,High,85.26,6121
+28,1,Summer,Executive,29544,Medium,65.98,11952
+29,91,Festival,Suite,18413,Medium,61.98,11887
+30,54,Monsoon,Suite,12265,Low,99.45,7951
+31,19,Summer,Suite,28311,Medium,71.79,14615
+32,70,Monsoon,Deluxe,11522,High,97.61,10568
+33,98,Summer,Executive,21284,Medium,85.51,6072
+34,63,Festival,Family Suite,4939,Low,96.43,11271
+35,55,Festival,Executive,24072,High,86.84,14517
+36,94,Festival,Deluxe,20543,High,80.79,6077
+37,43,Festival,Suite,3533,Medium,74.9,16001
+38,6,Winter,Deluxe,25608,Low,63.66,10899
+39,90,Monsoon,Deluxe,17072,High,99.91,14231
+40,93,Summer,Deluxe,19234,Medium,62.01,13135
+41,46,Winter,Deluxe,16358,Medium,91.37,21771
+42,30,Monsoon,Standard,19882,Low,61.86,8131
+43,31,Winter,Executive,9169,Medium,85.84,14643
+44,7,Winter,Executive,19316,Low,76.8,9469
+45,9,Monsoon,Suite,29246,Low,79.28,12819
+46,79,Winter,Deluxe,7490,High,68.22,8317
+47,97,Monsoon,Standard,27325,High,78.59,3756
+48,95,Winter,Suite,3511,Low,65.67,10626
+49,30,Festival,Suite,23515,Low,96.28,5002
+50,29,Monsoon,Suite,17402,Medium,53.91,13163
+51,40,Festival,Executive,29110,High,83.47,18539
+52,91,Monsoon,Executive,24519,Low,62.44,24022
+53,22,Summer,Suite,14250,Low,84.91,16770
+54,96,Monsoon,Suite,24290,Low,72.46,17210
+55,14,Monsoon,Executive,22952,Medium,91.11,15389
+56,92,Festival,Executive,21196,High,73.99,16692
+57,73,Winter,Standard,15030,High,93.82,5983
+58,63,Festival,Standard,29585,High,84.76,24750
+59,60,Summer,Deluxe,18611,High,56.42,4548
+60,3,Festival,Family Suite,11844,Low,69.94,7109
+61,14,Summer,Executive,18631,Medium,80.95,16117
+62,30,Summer,Executive,19167,High,81.34,11590
+63,10,Monsoon,Family Suite,17157,Low,93.06,14445
+64,72,Monsoon,Suite,28446,Low,92.44,16743
+65,48,Festival,Family Suite,27011,High,75.44,9176
+66,9,Summer,Family Suite,23062,High,67.07,19548
+67,71,Monsoon,Standard,3867,Medium,88.28,4578
+68,64,Festival,Suite,29784,High,93.15,9959
+69,8,Festival,Family Suite,6114,High,84.9,8759
+70,60,Summer,Deluxe,26912,High,94.92,24540
+71,91,Festival,Executive,24354,Low,91.24,16772
+72,25,Monsoon,Suite,29723,Medium,91.6,13351
+73,4,Monsoon,Deluxe,10110,High,81.85,9430
+74,33,Festival,Standard,25015,Medium,87.53,21833
+75,79,Festival,Deluxe,9539,Low,54.38,11794
+76,55,Summer,Suite,28135,High,80.54,11642
+77,38,Monsoon,Executive,7059,High,80.72,21556
+78,88,Winter,Standard,27550,High,64.84,16363
+79,84,Monsoon,Deluxe,12030,Medium,69.09,9845
+80,40,Winter,Deluxe,17825,Medium,92.91,22605
+81,68,Monsoon,Deluxe,23106,Low,72.65,18118
+82,32,Festival,Family Suite,5241,Medium,71.95,23893
+83,36,Festival,Executive,23719,Medium,62.55,16103
+84,41,Festival,Executive,20852,Low,50.31,23010
+85,78,Winter,Standard,4864,Medium,77.76,12486
+86,67,Festival,Standard,14735,Low,89.89,22434
+87,99,Summer,Suite,27342,Medium,72.78,18335
+88,83,Winter,Executive,18035,Medium,74.88,23093
+89,49,Summer,Family Suite,22269,Low,72.03,18651
+90,57,Winter,Executive,10877,High,79.95,11268
+91,22,Summer,Executive,23708,High,75.13,16267
+92,95,Festival,Deluxe,13386,High,82.91,18241
+93,100,Summer,Standard,18685,High,58.52,11511
+94,20,Summer,Family Suite,17814,Medium,90.46,12615
+95,77,Winter,Family Suite,12614,High,75.1,16818
+96,18,Summer,Suite,26970,High,88.74,23977
+97,13,Festival,Executive,11155,Medium,70.48,13702
+98,34,Winter,Suite,5030,High,66.13,3000
+99,83,Monsoon,Standard,11131,Low,90.71,16521
+100,21,Festival,Standard,12014,Low,75.54,7307
+101,74,Winter,Executive,26172,High,80.9,11343
+102,28,Monsoon,Executive,25071,High,91.91,11918
+103,15,Winter,Standard,28184,Low,55.95,17621
+104,28,Summer,Deluxe,10238,High,62.51,5904
+105,15,Festival,Executive,8256,Medium,93.84,9017
+106,13,Summer,Executive,8998,Medium,91.74,23722
+107,32,Festival,Deluxe,5331,High,71.78,10451
+108,53,Monsoon,Deluxe,26534,High,55.44,12605
+109,30,Monsoon,Executive,26630,High,86.74,7861
+110,2,Monsoon,Deluxe,6925,Low,72.86,18529
+111,6,Winter,Standard,14273,Low,85.8,4884
+112,29,Monsoon,Standard,14194,Medium,86.78,24960
+113,44,Summer,Standard,25509,Medium,57.4,23040
+114,72,Summer,Deluxe,4952,Low,62.5,6283
+115,100,Summer,Suite,25341,Low,85.94,24688
+116,85,Winter,Executive,12815,Low,51.64,12679
+117,76,Festival,Suite,8327,Low,98.17,11450
+118,82,Winter,Standard,28334,High,67.6,6102
+119,82,Winter,Standard,29956,Medium,69.33,3684
+120,77,Monsoon,Family Suite,13632,Low,65.62,6041
+121,48,Summer,Executive,16420,Low,82.64,22818
+122,55,Monsoon,Executive,20758,Low,73.33,13722
+123,87,Winter,Family Suite,4423,Medium,79.99,21384
+124,41,Summer,Deluxe,23128,Medium,85.92,23308
+125,82,Winter,Suite,20927,Low,59.3,24566
+126,95,Winter,Executive,23618,Low,98.68,20331
+127,16,Monsoon,Executive,10934,High,78.84,6853
+128,63,Winter,Family Suite,11782,Low,97.95,24822
+129,67,Festival,Executive,9000,Low,98.1,15688
+130,3,Festival,Executive,24791,Medium,54.3,16930
+131,20,Monsoon,Executive,20185,Low,54.67,20864
+132,79,Winter,Standard,23702,Low,52.43,20247
+133,17,Monsoon,Suite,25820,High,77.63,3813
+134,74,Festival,Family Suite,24055,High,56.71,21154
+135,13,Summer,Deluxe,5880,Low,72.6,16974
+136,14,Monsoon,Executive,12388,Medium,55.18,19712
+137,51,Monsoon,Executive,24264,Medium,71.69,9655
+138,64,Festival,Family Suite,5971,High,54.67,22634
+139,85,Festival,Executive,20318,High,66.28,11997
+140,42,Summer,Standard,4057,High,83.38,20600
+141,65,Festival,Suite,7071,High,63.76,17357
+142,38,Summer,Suite,24165,High,56.88,21512
+143,17,Monsoon,Standard,8795,Low,75.41,22614
+144,72,Winter,Standard,23205,Low,99.1,22844
+145,39,Monsoon,Family Suite,19175,Low,57.65,4885
+146,62,Festival,Family Suite,3561,Low,99.3,16897
+147,63,Winter,Standard,29216,Low,84.2,18826
+148,37,Summer,Suite,29403,High,86.69,8940
+149,12,Winter,Deluxe,11406,Medium,66.53,23730
+150,98,Winter,Suite,29753,Medium,81.8,23730
+151,63,Summer,Suite,17471,Medium,63.78,20547
+152,74,Festival,Standard,4246,High,73.9,21089
+153,64,Festival,Suite,8791,Medium,61.57,20792
+154,69,Summer,Family Suite,9874,High,66.3,10705
+155,91,Monsoon,Executive,19275,Medium,52.67,14121
+156,98,Monsoon,Family Suite,12779,Medium,85.34,22953
+157,70,Winter,Family Suite,29711,High,51.81,5048
+158,60,Monsoon,Deluxe,10304,Low,79.9,23982
+159,11,Summer,Deluxe,14801,Medium,88.95,15713
+160,63,Festival,Suite,20745,Low,99.92,5768
+161,26,Monsoon,Suite,12174,Low,91.03,7420
+162,52,Summer,Suite,15609,Low,97.23,19981
+163,54,Monsoon,Standard,16129,High,56.09,5984
+164,28,Summer,Standard,11423,Low,55.81,5069
+165,1,Summer,Suite,13840,Medium,57.4,22154
+166,38,Winter,Standard,16076,Medium,82.01,10108
+167,23,Summer,Family Suite,25967,Medium,95.26,5300
+168,29,Festival,Suite,28651,Medium,77.95,8456
+169,84,Winter,Family Suite,3794,High,63.86,24932
+170,11,Summer,Standard,9430,Medium,58.28,23948
+171,3,Summer,Family Suite,18223,High,89.96,17049
+172,37,Winter,Family Suite,17126,High,68.06,5119
+173,73,Winter,Executive,12184,High,55.52,12596
+174,54,Winter,Family Suite,16983,High,74.94,24582
+175,92,Monsoon,Standard,9207,High,84.95,5331
+176,20,Winter,Deluxe,29395,Low,74.94,12291
+177,61,Monsoon,Family Suite,27335,High,55.08,23052
+178,12,Summer,Deluxe,28666,Medium,75.17,22956
+179,94,Monsoon,Family Suite,18796,High,68.19,11228
+180,43,Summer,Suite,9176,Low,96.26,24698
+181,50,Monsoon,Standard,26816,Medium,51.93,15925
+182,46,Winter,Standard,8578,Medium,85.26,13688
+183,71,Monsoon,Deluxe,8880,High,52.35,9247
+184,55,Monsoon,Executive,23750,High,71.71,9711
+185,86,Festival,Deluxe,8285,High,96.84,16715
+186,34,Winter,Executive,25688,High,77.9,9530
+187,7,Summer,Suite,14053,Low,73.38,24130
+188,100,Summer,Executive,24779,Low,52.93,13073
+189,81,Monsoon,Family Suite,6570,Low,51.69,22522
+190,16,Festival,Executive,15999,Medium,94.82,4387
+191,69,Monsoon,Deluxe,4029,Low,58.46,14627
+192,9,Festival,Standard,14485,Low,74.22,9193
+193,75,Monsoon,Family Suite,17626,Medium,70,15021
+194,31,Festival,Standard,17645,Medium,86.39,19004
+195,16,Festival,Deluxe,19422,Low,72.93,5428
+196,68,Monsoon,Standard,17575,High,68.58,22616
+197,33,Festival,Suite,12576,Low,90.47,14445
+198,28,Monsoon,Suite,18814,Low,73.55,14537
+199,2,Festival,Family Suite,20578,High,86.23,24708
+200,13,Winter,Family Suite,22496,Low,55.46,21679
+201,91,Summer,Family Suite,11544,Low,61.46,13236
+202,54,Monsoon,Standard,18025,Medium,57.14,8049
+203,32,Monsoon,Family Suite,21342,Low,70.11,10739
+204,70,Winter,Executive,18389,High,58.76,8652
+205,51,Monsoon,Executive,7354,Medium,93.07,11420
+206,42,Winter,Executive,11240,Medium,88.85,18124
+207,34,Summer,Family Suite,15830,High,57.77,11595
+208,28,Summer,Executive,3867,Low,86.23,11773
+209,80,Winter,Family Suite,9697,High,66.98,7644
+210,15,Monsoon,Family Suite,23688,Medium,68.83,9541
+211,53,Monsoon,Family Suite,23259,Medium,63.98,20602
+212,3,Winter,Family Suite,24009,High,67.23,7607
+213,22,Winter,Executive,7850,Medium,68.81,5004
+214,24,Winter,Suite,23690,Medium,56.44,18655
+215,47,Winter,Suite,9786,High,64.03,18588
+216,75,Summer,Executive,13647,High,74.25,8379
+217,78,Winter,Family Suite,12832,Low,81.58,21316
+218,56,Summer,Executive,14949,Low,97.61,9635
+219,16,Summer,Executive,21103,Medium,80.44,23689
+220,61,Summer,Deluxe,7808,High,73.39,7753
+221,31,Winter,Deluxe,22820,Low,75.45,18071
+222,88,Festival,Family Suite,15872,High,55.27,11141
+223,20,Monsoon,Family Suite,4551,High,55.25,11970
+224,18,Summer,Deluxe,28996,Low,91.09,8942
+225,89,Festival,Family Suite,16490,Low,77.39,21598
+226,62,Winter,Deluxe,22946,Medium,54.01,8109
+227,32,Monsoon,Family Suite,25821,High,92.85,8299
+228,98,Winter,Deluxe,28080,Medium,89.26,12301
+229,32,Summer,Executive,28489,Low,84.09,4983
+230,10,Monsoon,Suite,26915,High,54.6,15540
+231,42,Monsoon,Suite,29759,High,99.41,12689
+232,11,Summer,Suite,22571,Medium,58.68,8332
+233,93,Festival,Suite,9270,Medium,70.46,12669
+234,62,Festival,Family Suite,11529,Medium,86.6,3883
+235,10,Summer,Executive,21824,High,91.66,13173
+236,25,Monsoon,Family Suite,3649,Low,84.87,7432
+237,72,Monsoon,Family Suite,28540,Low,95.23,10979
+238,14,Winter,Deluxe,6499,Medium,95.93,15564
+239,86,Winter,Executive,8540,High,69.89,20796
+240,43,Summer,Family Suite,26321,High,71.14,10461
+241,30,Winter,Family Suite,13686,Low,86.92,3839
+242,16,Summer,Standard,22690,Medium,79.2,20304
+243,21,Summer,Family Suite,17109,High,82.18,17170
+244,44,Festival,Standard,6682,High,75.19,4667
+245,19,Monsoon,Executive,19141,Low,72.88,18813
+246,73,Summer,Family Suite,9691,Low,80.45,14544
+247,25,Winter,Family Suite,13086,High,94.04,5793
+248,86,Summer,Executive,14137,Medium,99.87,4919
+249,18,Summer,Standard,16276,Medium,98.07,13678
+250,69,Festival,Standard,24860,Low,57.58,20617
+251,40,Summer,Standard,27761,High,58.07,9242
+252,81,Monsoon,Deluxe,27046,Medium,83.52,15438
+253,53,Summer,Suite,14431,High,78.29,17384
+254,66,Monsoon,Executive,19875,Medium,85.31,12269
+255,52,Festival,Executive,7667,High,97.87,17259
+256,56,Monsoon,Standard,27035,Medium,76.11,7009
+257,65,Summer,Deluxe,16457,Medium,83.5,10602
+258,27,Winter,Deluxe,22275,High,92.29,22984
+259,24,Winter,Suite,21064,Low,78.05,12087
+260,95,Monsoon,Suite,11919,High,87.24,20317
+261,69,Summer,Deluxe,7167,Low,81.88,3873
+262,96,Monsoon,Executive,29461,Low,71.31,10305
+263,23,Monsoon,Suite,15244,Medium,62.16,14527
+264,91,Summer,Standard,22166,Medium,64.2,16737
+265,83,Winter,Suite,27999,Low,51.98,11550
+266,83,Monsoon,Standard,23514,Medium,98.73,17875
+267,53,Winter,Suite,22906,Medium,80.87,15617
+268,90,Monsoon,Family Suite,4974,Medium,82.4,19967
+269,2,Festival,Family Suite,17325,High,83.63,21196
+270,21,Winter,Suite,10091,Low,80.1,8148
+271,93,Monsoon,Standard,29967,High,85.72,8679
+272,17,Winter,Standard,17311,High,64.33,21489
+273,62,Winter,Suite,13903,Medium,69.25,22859
+274,36,Monsoon,Executive,10668,Medium,56.29,4518
+275,64,Winter,Deluxe,29103,Medium,91.84,18427
+276,91,Summer,Deluxe,12124,Medium,92.38,20518
+277,47,Monsoon,Executive,16871,High,82.22,15982
+278,15,Festival,Family Suite,29010,Low,76.74,3725
+279,55,Monsoon,Family Suite,5411,Low,60.38,13185
+280,91,Monsoon,Standard,23155,High,71.26,4370
+281,53,Winter,Suite,6072,Medium,73.4,22333
+282,97,Monsoon,Deluxe,6846,High,60.37,11280
+283,100,Monsoon,Executive,10819,High,77.38,21322
+284,81,Festival,Family Suite,19686,High,70.46,8349
+285,59,Monsoon,Family Suite,11773,Medium,78.41,5755
+286,25,Festival,Executive,11920,Low,63.43,20011
+287,36,Winter,Suite,8710,Medium,64.54,7470
+288,81,Monsoon,Family Suite,24554,High,82.7,23004
+289,5,Winter,Deluxe,15246,Low,53.52,7417
+290,15,Monsoon,Executive,5736,Low,98.5,13991
+291,5,Monsoon,Standard,7621,High,66.79,15186
+292,8,Winter,Executive,18426,High,78.61,24789
+293,2,Monsoon,Standard,14160,Low,67.05,3693
+294,27,Winter,Standard,3674,Medium,96.12,19875
+295,93,Winter,Standard,11868,High,82.9,13414
+296,64,Winter,Deluxe,11399,Low,54.22,8371
+297,76,Winter,Executive,10460,High,64.55,13861
+298,93,Monsoon,Deluxe,10740,High,52.55,15350
+299,94,Monsoon,Suite,20801,High,85.61,15259
+300,56,Monsoon,Deluxe,15613,Low,73.41,15677
+301,70,Festival,Deluxe,16993,Medium,78.25,21755
+302,47,Winter,Executive,7761,High,81.06,8647
+303,14,Summer,Deluxe,8229,Low,61.47,10416
+304,27,Winter,Deluxe,25594,High,57.16,21624
+305,74,Summer,Deluxe,10328,Medium,92.5,9446
+306,45,Monsoon,Executive,14248,Low,59.95,4703
+307,64,Winter,Deluxe,19899,High,98.73,3979
+308,92,Monsoon,Suite,13421,Low,87.55,3687
+309,16,Monsoon,Executive,19944,Low,63.21,19801
+310,59,Festival,Suite,17725,Medium,98.37,6527
+311,30,Festival,Family Suite,21978,High,77.83,23599
+312,25,Festival,Executive,27127,High,94.27,6552
+313,60,Monsoon,Executive,28693,Low,77.45,14871
+314,2,Festival,Executive,5526,High,81.16,23899
+315,81,Festival,Family Suite,19420,Low,55.5,4502
+316,89,Festival,Executive,16536,Low,52.26,8776
+317,87,Festival,Deluxe,22398,Medium,85.85,3493
+318,100,Summer,Family Suite,5512,Low,51.99,20656
+319,7,Monsoon,Family Suite,20686,High,59.18,8230
+320,21,Festival,Suite,15872,Medium,96.48,21810
+321,83,Monsoon,Deluxe,14497,Medium,84.59,19799
+322,28,Festival,Family Suite,24531,Low,78.7,6160
+323,33,Summer,Deluxe,13903,High,80.78,10517
+324,17,Festival,Deluxe,25733,High,56.69,19286
+325,27,Winter,Executive,23844,Low,97.44,9961
+326,93,Festival,Executive,19843,Low,83.94,21724
+327,70,Monsoon,Suite,23681,High,69.46,14496
+328,69,Festival,Suite,18586,Medium,59.07,10739
+329,76,Festival,Standard,22246,Medium,67.81,17120
+330,87,Summer,Family Suite,29835,Medium,71.43,13973
+331,6,Summer,Family Suite,8208,Low,96.17,14507
+332,11,Winter,Deluxe,22088,Medium,59.81,23672
+333,2,Winter,Family Suite,24918,Low,68.92,11071
+334,92,Winter,Deluxe,7986,Low,80.31,15560
+335,4,Monsoon,Family Suite,21349,Low,95.54,17045
+336,74,Winter,Standard,11599,Low,69.9,14974
+337,77,Summer,Executive,22622,Medium,79.18,3564
+338,97,Summer,Family Suite,26624,Low,95.6,9745
+339,3,Festival,Executive,15557,High,72.88,20038
+340,94,Monsoon,Suite,7165,Low,99.83,11550
+341,95,Summer,Executive,28748,Medium,84.31,23609
+342,98,Festival,Executive,23409,High,91.49,19339
+343,42,Winter,Suite,24867,Low,55.18,6976
+344,6,Festival,Family Suite,10266,Low,90.74,13832
+345,22,Summer,Suite,20029,Medium,79.01,3962
+346,33,Monsoon,Deluxe,22581,High,80.38,7021
+347,16,Winter,Deluxe,9348,Low,77.03,20719
+348,72,Summer,Suite,11929,Medium,79.83,9244
+349,73,Summer,Executive,20818,High,91.84,18061
+350,93,Summer,Deluxe,9142,Low,62.85,9349
+351,19,Summer,Deluxe,9540,Medium,61.94,17387
+352,17,Winter,Standard,9909,Medium,95.79,14442
+353,78,Summer,Deluxe,12112,High,51.16,11533
+354,20,Winter,Family Suite,6047,High,86.07,21089
+355,19,Winter,Family Suite,24013,Medium,82.02,3524
+356,50,Summer,Deluxe,5912,Low,63.25,5592
+357,95,Monsoon,Executive,4580,Low,51.44,13983
+358,56,Monsoon,Suite,5874,Medium,68.11,13192
+359,86,Festival,Executive,8392,Medium,66.92,13780
+360,93,Festival,Deluxe,25497,Medium,90.94,11124
+361,42,Winter,Suite,24767,Low,55.55,17601
+362,43,Monsoon,Family Suite,26427,Medium,72.56,23956
+363,33,Winter,Executive,14342,Low,97.61,17731
+364,39,Winter,Family Suite,18982,Low,90.01,4826
+365,1,Summer,Executive,27229,Medium,66.01,21148
+366,67,Summer,Family Suite,19752,Low,67.97,5952
+367,14,Winter,Executive,25020,High,70.62,9052
+368,29,Festival,Standard,15731,High,86.91,17087
+369,86,Monsoon,Suite,4682,High,86.06,17745
+370,60,Festival,Suite,16212,Medium,66.64,19027
+371,42,Summer,Suite,4270,High,67.59,18529
+372,99,Summer,Family Suite,9424,High,71.82,13167
+373,18,Winter,Standard,14547,Medium,66.51,8941
+374,94,Festival,Suite,3701,Medium,60.9,16185
+375,56,Winter,Suite,14355,Low,95.48,20533
+376,62,Festival,Executive,23776,Medium,85.99,24956
+377,68,Festival,Standard,21237,Medium,69.02,9255
+378,22,Festival,Suite,18183,High,85.75,9922
+379,21,Festival,Standard,21957,Medium,54.53,23760
+380,95,Summer,Deluxe,7029,Low,80.67,18934
+381,7,Summer,Family Suite,4983,High,55.41,16797
+382,3,Festival,Deluxe,24615,Medium,76.5,3987
+383,26,Summer,Deluxe,22161,Low,98.61,12498
+384,70,Monsoon,Suite,25666,Medium,74.48,4524
+385,97,Summer,Family Suite,8256,Medium,60.44,23870
+386,55,Summer,Executive,22567,Low,81.36,21285
+387,13,Festival,Standard,23455,High,94.45,15626
+388,24,Monsoon,Executive,9918,Medium,92.83,23400
+389,57,Winter,Deluxe,23640,Medium,99.56,8834
+390,42,Festival,Suite,9088,Low,83.36,23361
+391,33,Festival,Executive,4180,Medium,67.71,21294
+392,88,Monsoon,Executive,13820,High,55.48,6837
+393,1,Summer,Deluxe,26186,High,79.65,5397
+394,89,Festival,Family Suite,28592,Low,90.36,9375
+395,50,Festival,Standard,12438,High,93.56,4121
+396,53,Monsoon,Family Suite,6764,Low,66.08,7381
+397,85,Festival,Family Suite,24768,Medium,96.42,6343
+398,80,Monsoon,Standard,10154,Low,74.05,12439
+399,28,Festival,Suite,11596,High,75.04,15433
+400,96,Summer,Deluxe,8857,Medium,90.54,5038
+401,46,Summer,Executive,20073,High,60.69,16114
+402,80,Winter,Family Suite,17316,Medium,65.38,22136
+403,83,Summer,Executive,12425,Low,84.13,8845
+404,65,Winter,Deluxe,15825,Low,72.6,9234
+405,77,Winter,Executive,11271,High,52.45,14779
+406,50,Festival,Deluxe,22716,Medium,77.32,17218
+407,80,Summer,Suite,29140,Medium,57.68,21512
+408,1,Monsoon,Executive,23371,High,59.86,10315
+409,31,Summer,Executive,23289,Low,82.64,19597
+410,93,Winter,Executive,8443,Medium,95.49,7460
+411,93,Monsoon,Executive,16886,High,67.35,12065
+412,3,Summer,Standard,28158,Low,75.04,10999
+413,77,Monsoon,Standard,4861,Medium,86.46,23920
+414,97,Monsoon,Suite,5756,Medium,75.62,5152
+415,89,Monsoon,Executive,24681,High,56.37,23060
+416,44,Winter,Family Suite,7744,Medium,74.8,4829
+417,88,Summer,Standard,18407,Medium,59.79,7347
+418,7,Winter,Standard,19842,Low,69.31,5346
+419,77,Monsoon,Executive,9503,High,75.64,16146
+420,19,Winter,Deluxe,25976,High,54.13,13291
+421,100,Winter,Deluxe,3991,Medium,76.02,22932
+422,64,Festival,Deluxe,23305,Low,57.84,7527
+423,57,Monsoon,Suite,5670,High,78.7,7960
+424,48,Monsoon,Standard,29968,Medium,60.45,20204
+425,77,Winter,Standard,19986,Low,82.55,7351
+426,59,Monsoon,Family Suite,4430,Low,80.37,14129
+427,52,Monsoon,Executive,3727,High,87.89,17453
+428,50,Festival,Suite,18669,Medium,72.75,9440
+429,44,Monsoon,Family Suite,21831,Low,55.59,23546
+430,16,Festival,Suite,25273,High,79.86,5772
+431,10,Summer,Standard,15607,High,89.55,17440
+432,42,Festival,Executive,11543,High,99.75,21374
+433,11,Monsoon,Family Suite,21769,Low,84.78,24478
+434,79,Winter,Standard,20929,High,89.35,5323
+435,9,Festival,Suite,29485,Medium,51.45,14563
+436,74,Festival,Deluxe,28194,High,55.75,18040
+437,94,Festival,Standard,7064,Low,96.9,12456
+438,12,Winter,Family Suite,5361,High,75.8,19495
+439,74,Winter,Standard,7912,Low,66.71,17156
+440,43,Summer,Standard,11354,Low,74.48,21333
+441,33,Winter,Executive,25008,Low,72.16,13528
+442,77,Monsoon,Deluxe,13408,Low,70.35,18037
+443,18,Winter,Executive,27533,Medium,60.96,19502
+444,32,Summer,Family Suite,4228,High,66.19,14680
+445,82,Monsoon,Executive,20019,Low,67.94,7266
+446,59,Festival,Executive,21213,Medium,99.06,18607
+447,100,Summer,Family Suite,13029,High,74.58,3561
+448,67,Monsoon,Standard,22633,Low,63,6282
+449,84,Summer,Standard,8854,Medium,79.23,20756
+450,91,Monsoon,Standard,24772,Medium,79.69,19174
+451,73,Winter,Family Suite,5477,Medium,54.99,17394
+452,63,Festival,Suite,9223,Low,91.13,8696
+453,54,Summer,Suite,23861,Medium,78.45,11921
+454,42,Summer,Deluxe,10637,Low,61.72,3628
+455,2,Monsoon,Deluxe,10191,High,90.78,5688
+456,92,Winter,Family Suite,15110,Medium,91.08,22922
+457,12,Summer,Suite,26940,High,95.31,15671
+458,5,Monsoon,Family Suite,5339,High,61.4,9641
+459,32,Summer,Executive,14869,Medium,57.43,19058
+460,12,Winter,Deluxe,9504,Medium,52.4,3561
+461,55,Festival,Standard,15357,Medium,66.7,17928
+462,12,Festival,Suite,12450,Medium,56.37,14060
+463,5,Winter,Deluxe,4101,Low,90.47,17300
+464,90,Festival,Family Suite,13229,Low,60.06,5330
+465,50,Monsoon,Standard,7972,Medium,59.38,8480
+466,18,Summer,Deluxe,29428,High,73.09,15971
+467,20,Summer,Executive,13949,High,96.47,6571
+468,60,Summer,Executive,15353,Medium,75.53,16661
+469,1,Festival,Suite,6007,Medium,65.42,19714
+470,18,Festival,Suite,20993,Medium,57.95,14644
+471,62,Monsoon,Standard,23298,Medium,52.91,15344
+472,43,Winter,Suite,27228,Low,82.36,22533
+473,74,Festival,Standard,8210,Low,80.9,14886
+474,4,Summer,Family Suite,26018,Low,64.28,15390
+475,89,Summer,Deluxe,22775,Medium,59.82,3061
+476,47,Monsoon,Suite,21300,Low,65.45,21967
+477,24,Winter,Deluxe,16205,High,77.89,13241
+478,64,Festival,Suite,24934,High,73.32,21780
+479,58,Winter,Executive,10059,Low,68.14,18714
+480,85,Winter,Standard,23018,Low,92.14,9083
+481,8,Festival,Executive,3718,High,97.5,20383
+482,78,Festival,Executive,7510,Low,92.33,19921
+483,80,Monsoon,Deluxe,12902,Medium,99.26,14021
+484,14,Winter,Executive,9361,Medium,99.26,8464
+485,78,Winter,Deluxe,12321,Low,69.37,13786
+486,79,Monsoon,Standard,6021,High,88.23,22259
+487,45,Festival,Deluxe,23251,Medium,98.98,15114
+488,38,Summer,Standard,10485,Low,88.97,20434
+489,53,Monsoon,Executive,20519,High,69.16,11323
+490,91,Winter,Family Suite,18355,Low,59.38,22387
+491,31,Summer,Family Suite,12261,Medium,76.55,5700
+492,86,Summer,Standard,11743,Medium,80.05,6838
+493,12,Winter,Family Suite,11159,High,61.83,8138
+494,98,Winter,Suite,9069,Low,66.18,12969
+495,16,Festival,Suite,26038,Low,89.61,22330
+496,16,Summer,Standard,13443,Medium,70.13,20311
+497,64,Monsoon,Standard,11479,High,62.59,20336
+498,80,Winter,Executive,14703,Low,78.42,11082
+499,72,Summer,Family Suite,21170,Low,57.57,15590
+500,54,Summer,Executive,3583,High,93.8,19101

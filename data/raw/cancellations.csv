@@ -1,0 +1,3001 @@
+cancellation_id,booking_id,cancellation_date,cancellation_reason,refund_amount,refund_status,cancellation_source
+1,1159,2024-07-22,Personal Issue,9669,Processed,Hotel
+2,4122,2026-01-01,Emergency,43589,Processed,Customer
+3,8997,2025-06-23,Price Change,46572,Processed,System
+4,8893,2025-05-16,Travel Restriction,4544,Processed,System
+5,7543,2025-09-07,Schedule Conflict,47253,Pending,Customer
+6,5170,2025-11-27,Schedule Conflict,33552,Pending,Customer
+7,214,2025-10-31,Travel Restriction,35475,Processed,Customer
+8,10881,2024-11-14,Health Issue,19967,Processed,Hotel
+9,11227,2025-03-07,Price Change,38579,Processed,System
+10,2847,2025-05-18,Travel Restriction,20801,Pending,Customer
+11,9745,2026-01-11,Emergency,13024,Pending,System
+12,460,2025-11-14,Travel Restriction,3957,Pending,Customer
+13,2086,2026-02-11,Travel Restriction,30911,Pending,System
+14,9915,2024-08-09,Emergency,25301,Processed,Customer
+15,8483,2025-06-24,Health Issue,38066,Pending,System
+16,4927,2024-12-03,Travel Restriction,28965,Processed,System
+17,6958,2024-09-30,Emergency,31206,Pending,Hotel
+18,10910,2026-05-05,Health Issue,42472,Pending,Hotel
+19,6961,2026-02-04,Personal Issue,25536,Processed,Customer
+20,1141,2024-12-17,Health Issue,32257,Processed,Customer
+21,5196,2024-09-16,Emergency,47595,Pending,Hotel
+22,1159,2024-09-26,Health Issue,45801,Processed,Customer
+23,1408,2026-04-11,Schedule Conflict,34939,Pending,System
+24,1468,2025-12-28,Schedule Conflict,2867,Processed,System
+25,1398,2026-01-15,Health Issue,34862,Processed,Hotel
+26,9420,2024-08-04,Health Issue,8262,Processed,Hotel
+27,7072,2024-12-11,Emergency,10316,Processed,Hotel
+28,8923,2024-07-27,Travel Restriction,28809,Processed,Hotel
+29,2889,2026-03-12,Price Change,39694,Processed,Hotel
+30,3279,2024-05-27,Price Change,4681,Processed,Customer
+31,11056,2025-12-24,Personal Issue,20819,Processed,Customer
+32,751,2025-10-30,Personal Issue,38225,Processed,Hotel
+33,11771,2024-06-30,Emergency,19351,Pending,Customer
+34,7057,2026-01-10,Emergency,26335,Pending,Customer
+35,2857,2025-06-27,Schedule Conflict,47271,Processed,Customer
+36,10225,2026-04-18,Health Issue,49633,Pending,Customer
+37,5243,2025-12-23,Emergency,13514,Processed,Hotel
+38,3130,2025-02-09,Travel Restriction,4334,Pending,System
+39,3094,2025-02-23,Health Issue,49776,Processed,Customer
+40,1003,2025-08-06,Emergency,10244,Processed,System
+41,11096,2025-08-10,Travel Restriction,38783,Processed,System
+42,5697,2026-02-10,Travel Restriction,22981,Pending,Hotel
+43,1513,2026-03-16,Travel Restriction,20349,Pending,Customer
+44,7091,2025-06-11,Travel Restriction,10908,Processed,Hotel
+45,1063,2025-01-14,Emergency,23117,Pending,Hotel
+46,9047,2025-06-09,Personal Issue,23771,Pending,Hotel
+47,6651,2024-09-21,Schedule Conflict,25916,Processed,Hotel
+48,1197,2025-08-08,Schedule Conflict,4854,Pending,Hotel
+49,6524,2025-08-20,Price Change,5803,Pending,System
+50,11174,2025-08-04,Schedule Conflict,4670,Pending,Customer
+51,4816,2024-08-06,Price Change,38606,Processed,System
+52,4079,2024-12-21,Travel Restriction,5609,Processed,Customer
+53,6979,2024-06-27,Emergency,2222,Pending,System
+54,8039,2026-03-11,Travel Restriction,31385,Pending,System
+55,5150,2024-05-29,Emergency,43948,Processed,Hotel
+56,9448,2025-02-19,Health Issue,33463,Pending,System
+57,3871,2026-03-10,Price Change,27011,Processed,Customer
+58,11187,2025-08-17,Price Change,22653,Processed,Hotel
+59,9057,2024-07-11,Personal Issue,4465,Processed,Customer
+60,7511,2026-02-22,Travel Restriction,1021,Processed,Customer
+61,1048,2025-01-06,Emergency,10007,Pending,Customer
+62,4545,2025-06-04,Travel Restriction,21420,Pending,System
+63,4752,2025-01-06,Price Change,39913,Pending,Customer
+64,4946,2024-05-31,Schedule Conflict,21031,Pending,System
+65,4227,2026-01-11,Personal Issue,42011,Processed,Hotel
+66,3702,2025-08-12,Price Change,46181,Pending,Hotel
+67,7177,2024-12-01,Personal Issue,5029,Processed,System
+68,11859,2026-05-05,Emergency,36341,Processed,System
+69,635,2024-10-17,Travel Restriction,12444,Processed,Hotel
+70,5153,2025-07-28,Price Change,25792,Pending,System
+71,11002,2025-01-09,Personal Issue,3071,Processed,Customer
+72,10007,2024-12-14,Health Issue,4533,Pending,System
+73,10831,2026-04-28,Emergency,27395,Pending,Hotel
+74,2549,2025-07-11,Price Change,47251,Processed,Hotel
+75,738,2024-07-03,Schedule Conflict,44310,Processed,Hotel
+76,1290,2024-09-23,Travel Restriction,44617,Pending,Hotel
+77,4137,2025-01-19,Schedule Conflict,23606,Processed,Hotel
+78,7145,2026-01-19,Price Change,43815,Processed,Hotel
+79,8853,2024-12-11,Personal Issue,37976,Pending,System
+80,2887,2026-01-21,Travel Restriction,41707,Processed,Hotel
+81,3844,2026-04-24,Price Change,33079,Pending,Customer
+82,2381,2024-09-22,Travel Restriction,15658,Pending,Customer
+83,9383,2025-11-27,Schedule Conflict,42844,Processed,System
+84,10288,2026-04-20,Health Issue,23011,Pending,System
+85,6838,2024-10-20,Schedule Conflict,12416,Processed,Customer
+86,5044,2025-05-06,Health Issue,45090,Processed,Customer
+87,7391,2024-11-15,Personal Issue,20432,Pending,Hotel
+88,6935,2025-08-17,Schedule Conflict,36155,Pending,Hotel
+89,5283,2025-01-15,Emergency,11988,Pending,System
+90,3399,2024-09-11,Personal Issue,10426,Processed,Hotel
+91,9101,2026-03-12,Health Issue,17805,Pending,System
+92,2293,2024-10-11,Price Change,40568,Pending,System
+93,8960,2024-12-26,Emergency,39356,Pending,System
+94,10464,2025-04-04,Personal Issue,9199,Pending,Hotel
+95,4039,2026-01-24,Emergency,35173,Processed,Customer
+96,11588,2026-02-13,Travel Restriction,16183,Processed,System
+97,11840,2025-07-21,Schedule Conflict,36630,Pending,Hotel
+98,11815,2025-05-19,Personal Issue,18599,Pending,Customer
+99,6464,2024-09-30,Schedule Conflict,44608,Pending,System
+100,1072,2024-10-20,Emergency,10041,Processed,System
+101,5472,2025-05-12,Emergency,36226,Pending,System
+102,8921,2025-02-11,Schedule Conflict,27984,Pending,Hotel
+103,11698,2024-11-12,Schedule Conflict,42342,Processed,System
+104,10053,2026-02-11,Emergency,39611,Processed,Hotel
+105,11396,2026-03-23,Travel Restriction,16988,Processed,System
+106,4361,2024-07-20,Health Issue,12095,Pending,Customer
+107,3581,2024-11-18,Emergency,38244,Pending,System
+108,8640,2025-03-20,Schedule Conflict,36421,Pending,Customer
+109,7570,2025-03-09,Health Issue,32736,Pending,System
+110,1582,2025-10-20,Price Change,16714,Processed,System
+111,11198,2026-03-27,Price Change,27490,Pending,Customer
+112,4735,2026-03-09,Health Issue,43705,Pending,Customer
+113,5614,2024-09-11,Emergency,47291,Processed,Customer
+114,527,2025-05-15,Travel Restriction,4727,Processed,Customer
+115,5148,2025-01-06,Travel Restriction,19708,Pending,Hotel
+116,6063,2025-12-21,Price Change,4493,Processed,System
+117,1433,2025-01-26,Personal Issue,14168,Processed,Hotel
+118,918,2024-11-10,Price Change,31836,Processed,Hotel
+119,5456,2026-04-02,Health Issue,45636,Processed,Hotel
+120,870,2025-05-25,Health Issue,1946,Pending,Hotel
+121,4675,2024-12-29,Travel Restriction,32929,Processed,System
+122,11919,2024-05-17,Health Issue,41431,Processed,System
+123,8875,2025-12-09,Personal Issue,33465,Pending,Customer
+124,10658,2026-01-07,Schedule Conflict,4288,Pending,System
+125,8031,2025-12-14,Travel Restriction,32523,Processed,Customer
+126,4806,2024-12-05,Health Issue,49689,Processed,System
+127,3792,2025-11-03,Travel Restriction,43663,Processed,Hotel
+128,7770,2025-05-06,Schedule Conflict,36844,Processed,System
+129,3332,2025-07-16,Price Change,24691,Pending,System
+130,7872,2026-04-19,Price Change,27684,Processed,System
+131,10954,2025-08-06,Emergency,5028,Pending,Customer
+132,3252,2025-07-20,Travel Restriction,10706,Processed,Hotel
+133,11825,2025-12-01,Personal Issue,44210,Processed,Customer
+134,11975,2024-08-21,Emergency,26439,Pending,System
+135,2494,2026-01-25,Emergency,47721,Pending,Customer
+136,7321,2025-08-15,Price Change,11266,Pending,Hotel
+137,9610,2025-07-14,Personal Issue,48210,Processed,System
+138,7086,2025-05-06,Schedule Conflict,37001,Processed,Customer
+139,170,2025-01-19,Travel Restriction,18035,Pending,System
+140,992,2024-11-04,Travel Restriction,32706,Pending,Customer
+141,10283,2025-05-08,Price Change,41146,Processed,Hotel
+142,1676,2026-04-19,Price Change,9094,Pending,System
+143,8265,2026-01-02,Travel Restriction,36014,Processed,Customer
+144,3946,2024-09-30,Health Issue,39574,Pending,Customer
+145,7827,2026-02-06,Travel Restriction,49896,Pending,Customer
+146,11217,2024-12-20,Travel Restriction,14017,Pending,System
+147,435,2025-07-31,Price Change,37686,Processed,Customer
+148,5564,2025-12-21,Schedule Conflict,11468,Pending,System
+149,11430,2025-03-19,Schedule Conflict,41009,Pending,Hotel
+150,7087,2025-02-15,Personal Issue,7127,Processed,Hotel
+151,5081,2024-05-17,Travel Restriction,17910,Processed,Hotel
+152,9448,2025-02-02,Personal Issue,37061,Pending,System
+153,11733,2025-05-24,Emergency,12982,Processed,System
+154,6955,2024-12-08,Schedule Conflict,43245,Processed,System
+155,10529,2024-08-27,Schedule Conflict,13405,Pending,Hotel
+156,11649,2026-03-01,Travel Restriction,33359,Pending,Hotel
+157,9384,2024-06-13,Emergency,20939,Processed,Hotel
+158,3304,2025-06-12,Personal Issue,25168,Pending,Hotel
+159,4278,2024-09-26,Travel Restriction,26909,Processed,System
+160,6119,2024-12-15,Personal Issue,36538,Pending,Hotel
+161,11598,2025-10-21,Price Change,34349,Pending,Hotel
+162,4309,2026-03-08,Personal Issue,39166,Processed,System
+163,10035,2024-07-09,Emergency,10527,Pending,System
+164,9818,2025-09-22,Personal Issue,14063,Pending,Customer
+165,2504,2025-10-23,Personal Issue,18751,Pending,Hotel
+166,11960,2025-05-06,Personal Issue,28465,Processed,Hotel
+167,4374,2025-03-11,Schedule Conflict,37181,Pending,Hotel
+168,7172,2024-09-16,Emergency,18183,Pending,Customer
+169,2216,2026-03-02,Health Issue,38570,Pending,System
+170,11964,2025-05-16,Schedule Conflict,39398,Processed,System
+171,5788,2024-07-28,Emergency,28084,Pending,Hotel
+172,7811,2025-03-10,Emergency,30467,Pending,Customer
+173,3674,2024-08-09,Personal Issue,31020,Pending,System
+174,7024,2024-06-13,Emergency,24245,Pending,Customer
+175,2306,2024-11-17,Travel Restriction,8145,Pending,Hotel
+176,1804,2026-04-21,Schedule Conflict,24512,Processed,Hotel
+177,4116,2025-10-23,Travel Restriction,28850,Processed,Hotel
+178,10819,2025-11-21,Travel Restriction,37037,Processed,System
+179,6725,2025-08-13,Schedule Conflict,22965,Pending,System
+180,485,2024-07-24,Emergency,38627,Processed,Hotel
+181,6185,2025-03-31,Emergency,43041,Processed,System
+182,4736,2025-03-28,Schedule Conflict,33217,Pending,Hotel
+183,5163,2025-10-07,Emergency,33824,Processed,Customer
+184,8620,2024-09-30,Emergency,19224,Processed,Customer
+185,10227,2025-05-22,Price Change,22447,Processed,System
+186,2087,2025-09-29,Schedule Conflict,21445,Pending,System
+187,11758,2025-01-09,Emergency,6071,Processed,Hotel
+188,87,2025-02-07,Schedule Conflict,47137,Pending,Hotel
+189,680,2025-01-26,Schedule Conflict,30782,Processed,Hotel
+190,5777,2025-09-28,Personal Issue,36184,Processed,Customer
+191,10924,2024-07-09,Emergency,13407,Processed,Hotel
+192,10611,2025-07-04,Schedule Conflict,21115,Pending,Customer
+193,8709,2024-09-26,Personal Issue,8224,Pending,Hotel
+194,5633,2025-11-11,Health Issue,29248,Pending,Customer
+195,1807,2025-10-09,Emergency,19583,Processed,Hotel
+196,406,2024-12-08,Schedule Conflict,41922,Processed,System
+197,3767,2025-03-19,Personal Issue,30261,Processed,Hotel
+198,11927,2025-06-07,Travel Restriction,17570,Processed,System
+199,8686,2024-10-27,Schedule Conflict,4181,Pending,Hotel
+200,7855,2024-12-05,Personal Issue,37303,Processed,Hotel
+201,3758,2024-08-28,Personal Issue,14622,Pending,System
+202,6095,2024-11-18,Price Change,31878,Processed,System
+203,9190,2026-02-05,Emergency,23994,Pending,System
+204,3428,2024-07-16,Emergency,29858,Pending,System
+205,2382,2024-10-22,Health Issue,45849,Processed,Hotel
+206,2086,2025-09-05,Travel Restriction,10538,Pending,System
+207,4261,2024-12-01,Price Change,41913,Pending,Customer
+208,8689,2026-01-24,Schedule Conflict,45323,Pending,Customer
+209,9964,2025-12-30,Travel Restriction,47773,Processed,Customer
+210,4135,2026-01-22,Health Issue,5366,Processed,System
+211,2551,2025-11-30,Personal Issue,8698,Pending,Hotel
+212,8820,2024-11-04,Schedule Conflict,39511,Pending,Customer
+213,3247,2025-12-26,Health Issue,47671,Pending,System
+214,5650,2026-03-23,Schedule Conflict,30403,Processed,Hotel
+215,10701,2024-07-14,Emergency,6924,Pending,Customer
+216,3771,2024-08-16,Price Change,8415,Processed,Hotel
+217,972,2024-12-15,Price Change,36290,Processed,Hotel
+218,3446,2025-12-25,Travel Restriction,16884,Pending,Hotel
+219,1162,2025-04-26,Travel Restriction,15649,Processed,Customer
+220,10719,2025-12-07,Emergency,27135,Pending,System
+221,5970,2024-09-05,Health Issue,27434,Processed,Hotel
+222,2549,2024-08-02,Price Change,18285,Processed,Hotel
+223,3391,2025-06-12,Travel Restriction,6485,Processed,Hotel
+224,264,2025-11-21,Price Change,26022,Processed,System
+225,7376,2025-03-24,Personal Issue,9280,Pending,Customer
+226,7813,2024-05-26,Travel Restriction,27524,Pending,Hotel
+227,659,2025-04-23,Personal Issue,43812,Pending,Customer
+228,11579,2025-05-08,Schedule Conflict,41418,Pending,Customer
+229,10257,2025-08-18,Health Issue,43115,Pending,System
+230,4553,2025-03-06,Travel Restriction,38317,Pending,System
+231,546,2024-07-08,Price Change,21396,Processed,Hotel
+232,348,2026-03-30,Schedule Conflict,44839,Pending,Customer
+233,11335,2024-08-14,Price Change,15900,Pending,Hotel
+234,8407,2025-03-17,Emergency,10909,Pending,System
+235,309,2025-01-14,Personal Issue,36939,Pending,Hotel
+236,2783,2026-04-26,Travel Restriction,24999,Processed,System
+237,1760,2025-08-04,Travel Restriction,32136,Pending,System
+238,7705,2024-08-28,Emergency,36608,Processed,Customer
+239,5609,2024-09-02,Personal Issue,25996,Processed,Hotel
+240,2566,2025-01-16,Price Change,37332,Pending,Hotel
+241,8023,2026-01-02,Schedule Conflict,36479,Pending,Customer
+242,3402,2025-12-24,Emergency,5010,Pending,Customer
+243,1580,2025-12-26,Personal Issue,48546,Processed,Hotel
+244,5220,2026-02-11,Emergency,33534,Pending,Customer
+245,2574,2024-08-13,Emergency,19451,Processed,System
+246,3761,2026-02-23,Health Issue,1169,Processed,Hotel
+247,10798,2025-03-11,Schedule Conflict,26522,Processed,Hotel
+248,4293,2025-10-01,Price Change,7745,Processed,Hotel
+249,562,2025-10-08,Travel Restriction,4378,Processed,Hotel
+250,3751,2025-02-15,Schedule Conflict,23274,Processed,Customer
+251,10132,2026-01-25,Travel Restriction,26851,Pending,System
+252,3005,2026-04-16,Emergency,10460,Pending,Hotel
+253,3456,2025-09-02,Travel Restriction,35870,Pending,System
+254,10387,2024-07-09,Personal Issue,40573,Pending,Hotel
+255,6171,2025-08-03,Schedule Conflict,15506,Processed,Customer
+256,1140,2025-05-29,Personal Issue,27830,Pending,Hotel
+257,7966,2024-08-04,Personal Issue,37070,Processed,Customer
+258,1449,2024-08-02,Emergency,5038,Pending,System
+259,10352,2024-11-23,Price Change,23688,Pending,Customer
+260,1184,2025-07-22,Health Issue,4118,Pending,Hotel
+261,7476,2026-03-31,Schedule Conflict,4742,Processed,Customer
+262,11154,2025-05-24,Health Issue,7073,Processed,System
+263,4120,2025-01-21,Personal Issue,3960,Processed,Customer
+264,4058,2024-06-27,Travel Restriction,25218,Processed,Customer
+265,11788,2024-11-27,Schedule Conflict,35461,Pending,Customer
+266,502,2024-10-02,Health Issue,23916,Pending,Hotel
+267,3127,2024-08-09,Price Change,38232,Processed,Customer
+268,4588,2024-07-15,Health Issue,14843,Processed,System
+269,2275,2025-05-28,Emergency,44102,Pending,Customer
+270,4698,2024-06-23,Health Issue,47008,Processed,System
+271,5280,2024-06-21,Health Issue,37080,Pending,Hotel
+272,11600,2025-06-08,Emergency,44496,Pending,Hotel
+273,968,2025-07-02,Travel Restriction,9217,Processed,Hotel
+274,11263,2025-02-01,Personal Issue,3345,Processed,Customer
+275,6122,2025-08-20,Schedule Conflict,22185,Pending,Customer
+276,4680,2026-05-07,Travel Restriction,42537,Pending,System
+277,9328,2025-01-30,Travel Restriction,8784,Processed,System
+278,4621,2025-09-29,Schedule Conflict,47310,Pending,Hotel
+279,7030,2025-08-30,Personal Issue,12976,Processed,System
+280,175,2025-08-09,Price Change,36745,Processed,Hotel
+281,4448,2024-12-02,Emergency,9502,Processed,Customer
+282,3601,2025-01-18,Personal Issue,46538,Pending,System
+283,7010,2025-11-01,Health Issue,16523,Processed,System
+284,11093,2025-05-22,Travel Restriction,19199,Processed,System
+285,5897,2025-12-07,Personal Issue,25676,Processed,Customer
+286,6657,2025-06-19,Price Change,22531,Processed,System
+287,6157,2025-03-27,Travel Restriction,3591,Pending,Customer
+288,2874,2025-07-20,Personal Issue,31923,Pending,System
+289,4432,2026-03-29,Health Issue,9161,Pending,System
+290,4603,2025-11-25,Health Issue,32339,Pending,Hotel
+291,3575,2026-01-22,Travel Restriction,43052,Processed,Hotel
+292,8018,2025-10-23,Travel Restriction,26116,Pending,Customer
+293,749,2024-11-22,Price Change,18292,Processed,Hotel
+294,11649,2025-03-04,Price Change,33168,Pending,Hotel
+295,3465,2025-02-10,Schedule Conflict,24510,Processed,Customer
+296,8197,2024-07-30,Travel Restriction,10039,Pending,System
+297,2107,2025-08-31,Health Issue,9461,Processed,System
+298,3832,2025-02-18,Health Issue,45827,Processed,Hotel
+299,4661,2024-08-18,Travel Restriction,24840,Pending,Hotel
+300,1175,2024-07-14,Health Issue,38357,Processed,Customer
+301,4881,2024-09-15,Personal Issue,41227,Processed,Customer
+302,11936,2025-10-12,Travel Restriction,34983,Processed,Hotel
+303,2412,2025-06-29,Schedule Conflict,23694,Processed,Customer
+304,3745,2024-06-25,Price Change,39361,Processed,Customer
+305,6107,2026-01-17,Health Issue,7734,Processed,Hotel
+306,5991,2025-12-30,Travel Restriction,32732,Pending,Customer
+307,11885,2024-11-14,Emergency,27691,Processed,Hotel
+308,445,2025-07-23,Travel Restriction,25507,Processed,Customer
+309,8569,2024-09-02,Schedule Conflict,42953,Processed,Hotel
+310,1970,2024-07-14,Emergency,26417,Pending,System
+311,10734,2026-04-11,Personal Issue,8907,Processed,Hotel
+312,7437,2024-10-30,Travel Restriction,4447,Pending,Customer
+313,3396,2025-11-15,Schedule Conflict,7904,Pending,Hotel
+314,5584,2025-03-13,Personal Issue,24779,Processed,Hotel
+315,8910,2025-09-10,Travel Restriction,2312,Pending,Hotel
+316,7858,2025-04-25,Health Issue,44516,Processed,System
+317,11937,2025-02-18,Personal Issue,14518,Processed,Hotel
+318,5035,2024-08-19,Schedule Conflict,36184,Processed,Customer
+319,7969,2025-07-02,Travel Restriction,29277,Pending,System
+320,3379,2024-06-28,Health Issue,28569,Processed,Hotel
+321,1128,2025-10-30,Travel Restriction,47302,Processed,Customer
+322,9755,2024-09-19,Travel Restriction,44624,Processed,System
+323,1226,2024-06-15,Travel Restriction,29892,Processed,Hotel
+324,8788,2025-07-28,Personal Issue,15696,Pending,Customer
+325,8336,2025-02-22,Health Issue,16469,Processed,Hotel
+326,6492,2025-07-30,Travel Restriction,30336,Processed,Customer
+327,7056,2026-02-07,Schedule Conflict,21925,Processed,Customer
+328,8479,2025-04-06,Emergency,33410,Processed,Hotel
+329,6150,2025-07-19,Price Change,9269,Processed,Customer
+330,8918,2026-02-08,Schedule Conflict,25660,Pending,System
+331,9601,2025-06-16,Personal Issue,18102,Processed,Hotel
+332,9087,2025-12-04,Health Issue,23921,Pending,System
+333,2267,2025-08-05,Personal Issue,39667,Processed,Customer
+334,6359,2025-10-11,Health Issue,37906,Pending,Customer
+335,2883,2024-06-08,Emergency,25993,Pending,System
+336,11690,2025-06-15,Travel Restriction,7412,Processed,Hotel
+337,1375,2024-12-12,Emergency,42080,Processed,System
+338,3080,2025-06-19,Travel Restriction,36535,Processed,System
+339,884,2025-09-24,Personal Issue,15775,Processed,Customer
+340,3621,2024-08-12,Travel Restriction,32658,Pending,System
+341,8220,2025-05-07,Price Change,17647,Processed,System
+342,5930,2025-07-24,Emergency,39933,Processed,Hotel
+343,2754,2025-09-20,Health Issue,35738,Processed,Hotel
+344,6521,2025-05-28,Personal Issue,31272,Processed,Customer
+345,10828,2025-12-07,Travel Restriction,2422,Pending,Hotel
+346,3644,2024-05-26,Emergency,41910,Pending,Customer
+347,10026,2025-11-29,Emergency,38155,Processed,System
+348,8290,2024-12-27,Price Change,10786,Processed,System
+349,2136,2026-05-07,Travel Restriction,22883,Processed,Hotel
+350,4058,2025-04-30,Schedule Conflict,41014,Processed,Customer
+351,3003,2024-10-12,Schedule Conflict,10152,Pending,Hotel
+352,8682,2025-10-28,Emergency,44817,Pending,Customer
+353,6530,2025-10-25,Health Issue,34160,Pending,Hotel
+354,1573,2025-05-05,Schedule Conflict,42621,Pending,Hotel
+355,8443,2024-07-06,Schedule Conflict,26423,Processed,Customer
+356,5552,2026-01-24,Price Change,9335,Pending,Customer
+357,2693,2026-03-02,Schedule Conflict,48317,Pending,Hotel
+358,7617,2025-01-10,Emergency,11888,Processed,Customer
+359,650,2025-12-31,Schedule Conflict,24229,Pending,System
+360,11959,2024-07-19,Travel Restriction,31122,Processed,Hotel
+361,10448,2024-06-08,Emergency,37518,Pending,System
+362,646,2024-07-06,Schedule Conflict,9662,Processed,Hotel
+363,7694,2025-07-25,Personal Issue,39910,Processed,Hotel
+364,3260,2025-11-05,Price Change,41708,Processed,Hotel
+365,559,2024-11-19,Schedule Conflict,2143,Processed,System
+366,10545,2025-09-14,Emergency,22261,Processed,Customer
+367,17,2026-03-30,Health Issue,21197,Pending,Customer
+368,10614,2024-11-24,Emergency,20050,Pending,Customer
+369,8471,2025-12-20,Health Issue,24228,Pending,Hotel
+370,6268,2025-11-02,Emergency,20376,Pending,Hotel
+371,2661,2024-10-04,Emergency,35938,Pending,Customer
+372,6660,2025-02-02,Health Issue,25001,Pending,System
+373,6315,2024-07-30,Personal Issue,7606,Processed,System
+374,1368,2025-11-25,Schedule Conflict,38061,Pending,System
+375,11880,2025-07-11,Emergency,2499,Processed,Hotel
+376,30,2026-05-04,Schedule Conflict,35065,Pending,Hotel
+377,1315,2024-12-11,Health Issue,5365,Processed,System
+378,4719,2026-01-28,Personal Issue,24995,Processed,Hotel
+379,424,2025-06-04,Personal Issue,46255,Processed,System
+380,568,2025-10-02,Price Change,39638,Processed,Customer
+381,4544,2024-11-03,Price Change,12210,Pending,Customer
+382,860,2024-05-27,Health Issue,14627,Processed,Hotel
+383,2326,2024-10-29,Personal Issue,23884,Pending,Hotel
+384,10242,2025-09-04,Personal Issue,31595,Pending,System
+385,10155,2025-05-09,Personal Issue,31730,Processed,Hotel
+386,2438,2025-10-27,Emergency,48351,Processed,System
+387,5076,2024-12-20,Emergency,36398,Pending,Customer
+388,8035,2026-02-02,Price Change,35615,Pending,Hotel
+389,6230,2024-09-04,Personal Issue,19491,Processed,Customer
+390,55,2026-01-26,Price Change,35875,Processed,Hotel
+391,5840,2025-01-13,Price Change,13074,Pending,System
+392,2840,2024-12-30,Health Issue,37300,Processed,System
+393,5414,2025-04-15,Price Change,18969,Pending,System
+394,6953,2025-01-12,Personal Issue,8395,Pending,Customer
+395,717,2025-02-06,Health Issue,35646,Pending,Hotel
+396,4575,2024-06-20,Schedule Conflict,23944,Processed,System
+397,2894,2024-09-25,Health Issue,39235,Processed,Customer
+398,8044,2025-02-04,Health Issue,16823,Processed,Customer
+399,8808,2025-02-06,Travel Restriction,22896,Processed,Customer
+400,5165,2024-10-31,Emergency,33549,Pending,Hotel
+401,2757,2025-11-26,Personal Issue,3366,Processed,System
+402,5041,2025-10-07,Schedule Conflict,27600,Processed,Customer
+403,11454,2025-06-23,Schedule Conflict,18688,Processed,Customer
+404,2251,2025-02-18,Travel Restriction,49919,Processed,Hotel
+405,4368,2026-02-26,Travel Restriction,6422,Processed,Customer
+406,767,2024-09-22,Schedule Conflict,45278,Pending,Hotel
+407,4427,2026-03-01,Personal Issue,44593,Processed,System
+408,3647,2025-01-28,Health Issue,14236,Pending,Customer
+409,4606,2025-04-29,Personal Issue,1115,Processed,System
+410,8079,2025-06-13,Travel Restriction,8242,Pending,System
+411,1479,2026-04-12,Price Change,2632,Processed,Hotel
+412,1327,2024-06-16,Price Change,45707,Processed,Customer
+413,6620,2024-08-02,Price Change,17602,Processed,Customer
+414,1363,2026-01-25,Price Change,8915,Processed,Hotel
+415,8043,2024-07-11,Personal Issue,33395,Pending,System
+416,772,2025-07-10,Price Change,23008,Processed,System
+417,2073,2024-11-21,Emergency,40223,Processed,System
+418,3030,2026-01-15,Emergency,27344,Processed,Customer
+419,651,2025-07-25,Schedule Conflict,37912,Pending,Customer
+420,4894,2025-03-20,Health Issue,14901,Processed,System
+421,8955,2025-06-18,Price Change,33536,Pending,Hotel
+422,5455,2025-05-25,Schedule Conflict,4254,Pending,Hotel
+423,8907,2024-06-22,Health Issue,49636,Pending,Customer
+424,11971,2025-01-20,Travel Restriction,45016,Pending,Customer
+425,9185,2025-11-27,Personal Issue,30032,Pending,Customer
+426,5133,2026-01-02,Schedule Conflict,28538,Processed,Hotel
+427,3423,2024-09-23,Emergency,18887,Processed,Hotel
+428,8525,2026-01-02,Emergency,2077,Pending,Customer
+429,3861,2024-12-17,Personal Issue,33802,Pending,Hotel
+430,1941,2025-10-01,Health Issue,22014,Pending,Customer
+431,2183,2025-07-07,Personal Issue,48696,Pending,Customer
+432,1779,2025-11-05,Personal Issue,28192,Pending,Hotel
+433,8251,2024-09-29,Schedule Conflict,12869,Pending,Customer
+434,11193,2025-08-19,Travel Restriction,4131,Processed,Customer
+435,10461,2024-11-15,Health Issue,20881,Pending,Hotel
+436,1141,2026-02-17,Price Change,17494,Pending,System
+437,7076,2024-09-03,Price Change,7450,Pending,System
+438,6318,2026-02-01,Travel Restriction,49716,Pending,Hotel
+439,615,2025-02-01,Price Change,8950,Pending,Hotel
+440,2116,2025-08-15,Travel Restriction,21504,Processed,Hotel
+441,10109,2025-10-13,Emergency,13467,Processed,Customer
+442,10040,2025-03-13,Personal Issue,8909,Processed,Hotel
+443,2924,2025-06-05,Health Issue,28134,Pending,Hotel
+444,461,2025-01-02,Schedule Conflict,5260,Processed,System
+445,5834,2025-03-28,Price Change,24625,Pending,Customer
+446,5348,2024-10-12,Health Issue,7206,Processed,Hotel
+447,151,2024-08-28,Personal Issue,3855,Pending,System
+448,7583,2026-05-03,Emergency,7265,Processed,System
+449,5930,2026-03-20,Personal Issue,23337,Processed,System
+450,5159,2025-01-19,Travel Restriction,16243,Processed,System
+451,10709,2024-10-03,Schedule Conflict,16566,Processed,Customer
+452,7009,2026-04-08,Emergency,34530,Processed,Hotel
+453,8260,2025-04-09,Health Issue,20238,Pending,Hotel
+454,7777,2025-09-30,Emergency,14835,Pending,Customer
+455,5693,2025-02-05,Emergency,7557,Processed,System
+456,96,2025-10-23,Health Issue,47156,Processed,Hotel
+457,11970,2025-03-19,Travel Restriction,12837,Processed,System
+458,1596,2025-08-03,Health Issue,15023,Processed,Customer
+459,6442,2026-04-30,Health Issue,47763,Processed,Hotel
+460,11521,2025-12-15,Schedule Conflict,3685,Pending,Customer
+461,197,2024-11-01,Price Change,16658,Pending,System
+462,3297,2025-05-29,Health Issue,33129,Processed,Hotel
+463,7969,2024-08-28,Personal Issue,47454,Processed,Hotel
+464,2087,2024-10-25,Schedule Conflict,25180,Processed,Customer
+465,4497,2025-04-28,Emergency,49968,Pending,Hotel
+466,6612,2025-07-09,Price Change,25271,Pending,Customer
+467,8837,2025-07-14,Travel Restriction,45564,Pending,Customer
+468,9677,2025-10-10,Schedule Conflict,43414,Pending,Customer
+469,5981,2025-01-01,Schedule Conflict,49156,Pending,Hotel
+470,11867,2025-11-13,Emergency,26262,Pending,System
+471,9330,2026-04-02,Schedule Conflict,34550,Pending,Hotel
+472,7753,2025-05-28,Price Change,15464,Pending,Customer
+473,4365,2025-01-04,Health Issue,8850,Pending,System
+474,8968,2024-08-10,Price Change,18328,Processed,System
+475,6785,2024-08-30,Personal Issue,14511,Processed,System
+476,6146,2025-07-26,Schedule Conflict,46077,Processed,Hotel
+477,4447,2026-02-08,Health Issue,29946,Processed,Hotel
+478,11856,2025-05-23,Price Change,1968,Pending,Hotel
+479,9372,2025-10-20,Personal Issue,14186,Processed,System
+480,7905,2024-12-06,Price Change,42717,Pending,System
+481,2583,2024-06-17,Travel Restriction,41588,Processed,Customer
+482,10162,2026-04-13,Price Change,8058,Processed,Hotel
+483,9909,2025-07-31,Personal Issue,49835,Processed,Customer
+484,11190,2025-05-26,Price Change,8295,Processed,Hotel
+485,1126,2024-08-07,Travel Restriction,35750,Processed,System
+486,7302,2025-08-28,Personal Issue,8465,Processed,Hotel
+487,1471,2024-07-17,Price Change,2224,Processed,Customer
+488,1115,2024-07-23,Schedule Conflict,42078,Pending,System
+489,6053,2026-02-01,Price Change,34653,Processed,Hotel
+490,11435,2024-07-09,Personal Issue,31938,Pending,System
+491,4168,2026-04-30,Emergency,13082,Pending,Customer
+492,3624,2026-01-20,Price Change,36683,Processed,Hotel
+493,7707,2026-03-18,Travel Restriction,15520,Pending,System
+494,3435,2025-11-14,Price Change,1796,Processed,Hotel
+495,2006,2026-01-10,Emergency,48236,Processed,System
+496,7302,2025-07-25,Price Change,11642,Pending,Customer
+497,5787,2025-11-02,Price Change,30705,Pending,System
+498,5681,2025-05-01,Health Issue,14902,Pending,Hotel
+499,5634,2025-03-19,Price Change,25355,Processed,System
+500,8176,2025-12-10,Emergency,10597,Pending,Hotel
+501,3379,2024-05-09,Health Issue,35811,Pending,Hotel
+502,11378,2026-04-13,Health Issue,6425,Pending,System
+503,7163,2025-04-06,Health Issue,48350,Pending,System
+504,1020,2025-02-26,Price Change,5066,Processed,Hotel
+505,1858,2024-10-23,Emergency,40402,Pending,Hotel
+506,7773,2024-06-05,Price Change,17484,Pending,Customer
+507,11713,2025-04-24,Travel Restriction,49605,Pending,Customer
+508,8933,2025-05-16,Schedule Conflict,47042,Pending,Hotel
+509,8845,2024-11-11,Price Change,39326,Pending,Hotel
+510,4260,2026-02-26,Personal Issue,26432,Pending,System
+511,10080,2024-07-13,Personal Issue,15530,Pending,Customer
+512,6855,2024-06-08,Emergency,40031,Pending,System
+513,2335,2024-11-16,Personal Issue,12397,Pending,System
+514,3286,2026-01-03,Price Change,25730,Pending,Customer
+515,4194,2026-01-26,Price Change,4550,Pending,Customer
+516,254,2025-03-18,Price Change,9484,Processed,Customer
+517,1911,2024-09-15,Travel Restriction,15677,Pending,System
+518,6522,2024-05-17,Emergency,10322,Processed,System
+519,6664,2024-10-10,Travel Restriction,33707,Pending,System
+520,835,2024-07-08,Health Issue,7637,Processed,System
+521,11451,2026-03-14,Schedule Conflict,44029,Pending,System
+522,8270,2025-10-04,Health Issue,11657,Processed,System
+523,2614,2024-12-05,Travel Restriction,42373,Processed,Hotel
+524,593,2025-08-23,Schedule Conflict,44014,Processed,Hotel
+525,11957,2026-01-24,Travel Restriction,38395,Pending,System
+526,2174,2025-09-22,Emergency,33770,Processed,Hotel
+527,4882,2025-11-02,Personal Issue,46102,Processed,Customer
+528,11291,2026-04-15,Emergency,27580,Processed,Hotel
+529,3948,2025-06-25,Personal Issue,49920,Processed,System
+530,2217,2025-10-10,Health Issue,46181,Pending,Customer
+531,10096,2025-09-30,Price Change,8063,Processed,Customer
+532,8957,2025-11-07,Emergency,11401,Pending,Hotel
+533,8252,2024-06-30,Schedule Conflict,8990,Processed,Hotel
+534,11608,2025-07-10,Travel Restriction,1980,Pending,Customer
+535,9468,2025-02-19,Health Issue,47483,Processed,System
+536,8807,2025-10-24,Personal Issue,20604,Pending,Hotel
+537,10554,2026-03-22,Emergency,47247,Pending,Hotel
+538,5872,2025-05-04,Price Change,21375,Pending,System
+539,152,2026-01-22,Health Issue,4556,Pending,Hotel
+540,3148,2024-08-13,Emergency,41544,Pending,Customer
+541,6055,2025-01-17,Health Issue,27168,Pending,Hotel
+542,8398,2025-06-28,Price Change,48570,Pending,Hotel
+543,2098,2025-01-23,Schedule Conflict,34999,Processed,System
+544,8351,2026-01-17,Emergency,22815,Pending,System
+545,7480,2025-12-22,Travel Restriction,8224,Pending,Hotel
+546,3585,2025-05-14,Health Issue,2099,Pending,Customer
+547,793,2025-02-03,Emergency,1098,Processed,System
+548,2085,2026-03-09,Schedule Conflict,34420,Processed,System
+549,1072,2025-05-30,Price Change,35462,Pending,Customer
+550,11752,2025-08-19,Schedule Conflict,42329,Pending,System
+551,6574,2025-10-04,Schedule Conflict,38865,Pending,Hotel
+552,161,2025-04-07,Personal Issue,21468,Pending,System
+553,6844,2024-05-30,Price Change,1750,Processed,System
+554,43,2026-04-18,Personal Issue,45444,Processed,System
+555,9974,2025-05-31,Schedule Conflict,26336,Processed,Customer
+556,416,2025-02-15,Price Change,1178,Pending,System
+557,2361,2025-01-25,Schedule Conflict,9286,Processed,Customer
+558,9483,2026-01-15,Price Change,28701,Pending,Customer
+559,4793,2025-12-17,Price Change,15484,Pending,Hotel
+560,4820,2025-03-15,Personal Issue,14770,Processed,System
+561,11702,2025-06-02,Emergency,33773,Pending,Customer
+562,5127,2024-05-13,Health Issue,27369,Pending,Hotel
+563,10683,2025-08-10,Travel Restriction,10229,Pending,Hotel
+564,11513,2024-05-31,Price Change,24987,Processed,Hotel
+565,4100,2024-08-14,Schedule Conflict,28470,Processed,Customer
+566,2049,2026-02-17,Travel Restriction,29388,Processed,Hotel
+567,11978,2025-10-31,Travel Restriction,35180,Pending,Customer
+568,6879,2026-03-23,Price Change,19313,Processed,System
+569,3589,2026-02-13,Travel Restriction,2135,Processed,Hotel
+570,8428,2025-12-03,Health Issue,39962,Pending,System
+571,10689,2025-04-10,Emergency,23192,Processed,Hotel
+572,1827,2025-01-30,Travel Restriction,27325,Pending,Customer
+573,6385,2024-05-31,Price Change,39170,Processed,System
+574,2303,2026-04-22,Price Change,48508,Pending,Customer
+575,10444,2025-11-17,Travel Restriction,21651,Processed,System
+576,4853,2026-03-18,Personal Issue,38316,Pending,System
+577,2565,2024-10-04,Health Issue,41987,Processed,System
+578,1672,2025-12-27,Health Issue,35429,Pending,Hotel
+579,76,2024-09-25,Price Change,9574,Processed,Hotel
+580,5722,2025-11-10,Personal Issue,9171,Pending,Customer
+581,2013,2025-07-25,Personal Issue,31492,Pending,System
+582,8851,2024-10-12,Personal Issue,44537,Pending,Hotel
+583,8295,2025-10-02,Personal Issue,16087,Processed,Customer
+584,9675,2024-09-27,Personal Issue,46053,Processed,Hotel
+585,2158,2025-11-22,Personal Issue,34444,Processed,Customer
+586,7827,2025-07-21,Schedule Conflict,43586,Processed,Hotel
+587,8258,2025-10-29,Travel Restriction,49997,Pending,Customer
+588,7331,2025-10-08,Emergency,43907,Pending,Customer
+589,5287,2024-06-29,Price Change,42502,Pending,Hotel
+590,3934,2024-06-12,Emergency,38318,Pending,Customer
+591,10783,2025-04-05,Price Change,4867,Pending,System
+592,7340,2025-11-15,Health Issue,33491,Pending,System
+593,4663,2024-10-11,Personal Issue,14021,Pending,System
+594,10607,2025-06-20,Health Issue,48177,Processed,System
+595,1468,2025-09-30,Travel Restriction,26726,Processed,Customer
+596,8445,2025-05-10,Schedule Conflict,28553,Processed,Customer
+597,2854,2026-03-06,Personal Issue,17759,Pending,Customer
+598,8421,2025-05-21,Emergency,42202,Processed,Hotel
+599,5484,2025-11-27,Schedule Conflict,29884,Processed,System
+600,5885,2025-03-01,Emergency,12156,Processed,System
+601,7165,2025-10-21,Personal Issue,31613,Processed,System
+602,8005,2024-12-25,Price Change,28080,Processed,Hotel
+603,735,2025-09-24,Travel Restriction,15295,Pending,System
+604,4901,2024-06-20,Emergency,42066,Processed,Customer
+605,4085,2025-11-07,Personal Issue,18799,Pending,Hotel
+606,2300,2025-06-23,Travel Restriction,38690,Pending,Hotel
+607,10973,2025-03-23,Emergency,46097,Processed,System
+608,1031,2025-03-25,Travel Restriction,33919,Processed,System
+609,45,2025-05-04,Health Issue,33164,Processed,Customer
+610,11087,2026-02-03,Emergency,33831,Pending,Hotel
+611,5061,2024-08-24,Price Change,3557,Processed,Hotel
+612,9581,2025-01-26,Price Change,3704,Processed,System
+613,7545,2024-07-17,Travel Restriction,20012,Pending,Customer
+614,436,2024-07-18,Emergency,20652,Processed,System
+615,11473,2025-10-28,Price Change,39490,Pending,Hotel
+616,2153,2025-08-11,Schedule Conflict,42114,Processed,Customer
+617,541,2025-10-27,Emergency,5644,Processed,Hotel
+618,10962,2024-10-12,Travel Restriction,13394,Pending,Customer
+619,11282,2024-09-27,Health Issue,6068,Processed,Customer
+620,4932,2024-12-27,Schedule Conflict,1010,Pending,Customer
+621,5043,2026-03-04,Health Issue,28308,Processed,Hotel
+622,8473,2024-06-24,Schedule Conflict,9250,Pending,Hotel
+623,10345,2025-06-26,Travel Restriction,6194,Pending,System
+624,2311,2024-09-13,Price Change,42082,Processed,Customer
+625,10557,2025-04-05,Travel Restriction,18865,Pending,Hotel
+626,2431,2026-03-15,Personal Issue,21847,Processed,Customer
+627,2537,2025-08-20,Travel Restriction,26125,Processed,System
+628,9331,2026-02-13,Schedule Conflict,35268,Pending,Customer
+629,4869,2025-10-20,Emergency,37229,Pending,Hotel
+630,3901,2026-01-09,Travel Restriction,39326,Pending,Customer
+631,96,2026-03-30,Price Change,10033,Pending,System
+632,8081,2026-01-29,Price Change,16442,Pending,Hotel
+633,9906,2025-08-08,Personal Issue,34207,Pending,System
+634,11299,2024-12-19,Health Issue,11255,Processed,System
+635,6314,2025-01-31,Emergency,48834,Processed,Customer
+636,1607,2025-02-19,Schedule Conflict,30063,Processed,System
+637,2658,2025-05-08,Schedule Conflict,19800,Pending,Hotel
+638,5322,2024-12-31,Emergency,36142,Processed,Customer
+639,63,2024-10-14,Emergency,44478,Pending,Customer
+640,1411,2024-10-02,Schedule Conflict,9764,Pending,Hotel
+641,10899,2025-10-14,Personal Issue,27779,Pending,Hotel
+642,10622,2025-11-06,Personal Issue,4167,Pending,Customer
+643,10412,2024-06-08,Emergency,19080,Pending,Hotel
+644,5747,2025-12-31,Personal Issue,37769,Processed,System
+645,3293,2025-12-09,Personal Issue,20675,Processed,Customer
+646,3144,2026-03-06,Travel Restriction,39949,Pending,Hotel
+647,3954,2025-03-26,Price Change,11161,Processed,Hotel
+648,6259,2025-03-27,Emergency,7092,Processed,System
+649,6889,2025-02-15,Health Issue,32520,Pending,System
+650,461,2026-04-18,Schedule Conflict,45125,Pending,Hotel
+651,9767,2026-05-07,Health Issue,10896,Pending,Customer
+652,4162,2025-05-07,Schedule Conflict,40268,Pending,Hotel
+653,3684,2024-07-23,Emergency,18315,Processed,System
+654,7054,2024-07-10,Travel Restriction,4686,Pending,Customer
+655,10098,2026-02-24,Emergency,11292,Processed,System
+656,7633,2025-02-22,Schedule Conflict,29919,Processed,Customer
+657,11770,2025-05-28,Health Issue,29953,Processed,System
+658,5835,2025-05-19,Health Issue,33935,Pending,System
+659,6703,2025-10-22,Travel Restriction,10357,Processed,System
+660,10752,2025-03-11,Emergency,23449,Processed,Customer
+661,5433,2024-09-26,Emergency,48596,Processed,Customer
+662,5885,2025-02-03,Personal Issue,27270,Pending,System
+663,9811,2025-09-05,Personal Issue,7124,Pending,Customer
+664,5882,2024-05-23,Emergency,45526,Processed,System
+665,5739,2025-07-06,Personal Issue,12508,Pending,Customer
+666,359,2024-09-26,Health Issue,12495,Pending,Hotel
+667,5791,2026-02-03,Health Issue,19607,Pending,Customer
+668,1880,2025-08-04,Personal Issue,39906,Processed,System
+669,3707,2025-09-02,Travel Restriction,21752,Processed,Hotel
+670,2603,2025-03-04,Personal Issue,5604,Processed,Hotel
+671,6415,2025-05-24,Travel Restriction,9296,Pending,Customer
+672,7653,2025-10-10,Price Change,39903,Pending,Hotel
+673,7238,2025-12-18,Price Change,1714,Processed,Hotel
+674,10791,2024-05-30,Emergency,33503,Processed,System
+675,5604,2025-06-07,Schedule Conflict,47048,Pending,Customer
+676,10253,2025-04-20,Emergency,12011,Processed,Hotel
+677,3637,2025-05-08,Travel Restriction,45548,Pending,Hotel
+678,8789,2025-03-19,Travel Restriction,18987,Processed,Customer
+679,1035,2025-06-24,Travel Restriction,2302,Processed,Customer
+680,6833,2024-11-13,Emergency,48357,Processed,System
+681,11340,2024-07-08,Schedule Conflict,16307,Pending,System
+682,6364,2026-04-23,Travel Restriction,21887,Pending,Hotel
+683,3230,2024-06-20,Emergency,7931,Pending,System
+684,4913,2025-09-23,Schedule Conflict,36683,Pending,Customer
+685,3215,2025-06-05,Health Issue,20419,Processed,Customer
+686,608,2024-07-14,Health Issue,48554,Processed,System
+687,2665,2024-06-11,Personal Issue,40262,Pending,System
+688,3704,2026-02-15,Personal Issue,6729,Pending,Customer
+689,11965,2025-07-24,Travel Restriction,16003,Processed,Hotel
+690,2085,2024-06-09,Personal Issue,19969,Pending,System
+691,4274,2024-05-20,Health Issue,7987,Processed,Hotel
+692,5905,2025-07-06,Travel Restriction,1617,Pending,Customer
+693,6260,2025-02-19,Travel Restriction,23943,Processed,Hotel
+694,7079,2024-07-25,Health Issue,14652,Processed,Hotel
+695,9010,2026-03-05,Schedule Conflict,20890,Pending,Customer
+696,6478,2025-12-20,Emergency,42985,Processed,Customer
+697,10117,2025-04-26,Travel Restriction,35254,Pending,Hotel
+698,10963,2024-08-23,Personal Issue,10232,Pending,Customer
+699,9382,2025-12-28,Personal Issue,14843,Pending,Hotel
+700,6534,2024-11-04,Emergency,29500,Pending,System
+701,6262,2026-03-10,Travel Restriction,4752,Processed,Hotel
+702,717,2025-01-17,Price Change,4186,Pending,Customer
+703,329,2025-11-23,Emergency,34552,Pending,Hotel
+704,1278,2026-04-19,Health Issue,28747,Processed,Hotel
+705,7809,2024-07-14,Health Issue,41976,Processed,Hotel
+706,5439,2026-01-29,Price Change,9510,Processed,Hotel
+707,9263,2026-03-16,Travel Restriction,34097,Pending,System
+708,5500,2024-05-12,Price Change,47521,Pending,Customer
+709,4570,2024-11-19,Schedule Conflict,19897,Processed,Hotel
+710,8788,2025-01-19,Price Change,34958,Pending,Hotel
+711,5871,2024-12-22,Price Change,43769,Pending,Customer
+712,4016,2024-05-14,Personal Issue,14427,Pending,Hotel
+713,8508,2025-11-01,Price Change,49692,Pending,Customer
+714,9924,2024-08-31,Schedule Conflict,48683,Processed,Hotel
+715,10844,2026-04-27,Emergency,37295,Processed,Customer
+716,4648,2025-08-21,Health Issue,19441,Pending,Hotel
+717,11671,2025-08-04,Schedule Conflict,49324,Pending,Hotel
+718,6147,2025-06-13,Schedule Conflict,28247,Pending,Hotel
+719,5235,2024-10-18,Health Issue,42453,Pending,System
+720,2628,2025-05-05,Health Issue,29497,Pending,System
+721,4323,2024-07-12,Personal Issue,2967,Processed,System
+722,3,2025-04-20,Schedule Conflict,12488,Pending,Hotel
+723,4930,2024-11-23,Emergency,40990,Processed,Customer
+724,10024,2025-08-02,Health Issue,33123,Processed,Customer
+725,2705,2025-05-12,Schedule Conflict,17445,Pending,Hotel
+726,896,2026-01-06,Travel Restriction,13037,Processed,System
+727,8337,2025-10-25,Price Change,4196,Processed,System
+728,10811,2025-04-13,Price Change,22823,Pending,System
+729,3025,2026-01-03,Health Issue,19413,Pending,Hotel
+730,9752,2025-07-13,Personal Issue,48514,Pending,Hotel
+731,8934,2026-01-26,Schedule Conflict,7608,Processed,Customer
+732,1558,2025-11-17,Emergency,47115,Pending,Customer
+733,8740,2026-01-14,Price Change,4825,Pending,Hotel
+734,11943,2024-07-22,Price Change,4784,Processed,Customer
+735,6792,2024-09-04,Price Change,12789,Processed,Customer
+736,1650,2025-07-25,Personal Issue,29505,Processed,System
+737,2540,2025-03-09,Travel Restriction,34858,Processed,Hotel
+738,11518,2026-02-10,Personal Issue,3864,Pending,Hotel
+739,10984,2024-09-10,Schedule Conflict,7420,Pending,Customer
+740,2347,2025-10-23,Schedule Conflict,36398,Processed,Hotel
+741,8238,2026-04-19,Travel Restriction,1482,Pending,System
+742,8679,2024-09-03,Schedule Conflict,5570,Processed,Hotel
+743,6697,2025-03-25,Personal Issue,34192,Processed,System
+744,6452,2025-08-18,Health Issue,9486,Pending,System
+745,8828,2025-10-22,Price Change,42801,Processed,Customer
+746,983,2025-12-25,Travel Restriction,24539,Processed,System
+747,4211,2024-09-01,Price Change,30080,Processed,Customer
+748,10708,2025-06-15,Travel Restriction,7567,Pending,Customer
+749,10995,2025-08-22,Travel Restriction,45880,Processed,Hotel
+750,178,2024-08-03,Personal Issue,2092,Processed,System
+751,3698,2024-11-18,Price Change,44413,Pending,System
+752,4193,2024-10-14,Personal Issue,30470,Pending,System
+753,9015,2025-06-26,Price Change,43297,Pending,Customer
+754,2654,2024-10-30,Travel Restriction,2569,Processed,Customer
+755,11383,2024-10-20,Schedule Conflict,22993,Processed,Customer
+756,6425,2025-04-22,Schedule Conflict,12020,Pending,System
+757,9421,2025-07-27,Health Issue,40805,Processed,Customer
+758,10403,2024-07-19,Price Change,38815,Processed,System
+759,5459,2025-11-28,Emergency,42814,Processed,Customer
+760,7768,2025-06-19,Price Change,5447,Processed,Customer
+761,7990,2025-12-19,Emergency,13535,Pending,Hotel
+762,2331,2025-03-02,Schedule Conflict,23772,Pending,Hotel
+763,8046,2025-07-17,Emergency,6074,Pending,System
+764,6003,2025-11-23,Travel Restriction,20433,Pending,Hotel
+765,3392,2025-06-23,Price Change,14408,Pending,Hotel
+766,1856,2025-12-14,Travel Restriction,8017,Pending,System
+767,11574,2024-05-20,Travel Restriction,21624,Pending,Customer
+768,3886,2024-10-15,Personal Issue,9072,Processed,System
+769,692,2025-01-01,Schedule Conflict,28924,Pending,Hotel
+770,4347,2025-12-01,Travel Restriction,16847,Pending,Customer
+771,3732,2025-04-11,Personal Issue,16020,Pending,System
+772,3082,2026-05-05,Travel Restriction,38497,Pending,System
+773,2634,2024-06-22,Health Issue,8377,Processed,Customer
+774,10609,2025-02-18,Personal Issue,26448,Pending,System
+775,9671,2024-07-07,Price Change,38054,Pending,Hotel
+776,5843,2025-06-24,Travel Restriction,30812,Processed,Customer
+777,11643,2026-04-29,Health Issue,43634,Processed,Hotel
+778,7642,2024-08-27,Emergency,38924,Pending,Customer
+779,6644,2025-02-09,Schedule Conflict,29472,Processed,System
+780,3372,2025-06-15,Personal Issue,21135,Processed,Customer
+781,243,2024-06-18,Price Change,32075,Pending,Customer
+782,7862,2026-04-23,Personal Issue,28379,Processed,Customer
+783,5394,2024-06-09,Schedule Conflict,28082,Pending,Customer
+784,4394,2026-05-04,Emergency,40135,Pending,System
+785,6545,2024-10-12,Emergency,27699,Processed,Customer
+786,2191,2025-03-12,Price Change,49494,Pending,Hotel
+787,4130,2025-02-08,Personal Issue,24208,Processed,Customer
+788,5562,2026-01-21,Price Change,45686,Processed,Customer
+789,3960,2025-05-26,Emergency,23329,Processed,Hotel
+790,7510,2025-11-24,Emergency,37862,Processed,System
+791,3948,2024-09-19,Emergency,16011,Pending,System
+792,7625,2024-05-27,Personal Issue,7840,Processed,Hotel
+793,3034,2025-07-03,Health Issue,2854,Pending,System
+794,11874,2024-06-11,Emergency,44147,Pending,Hotel
+795,3374,2024-10-27,Travel Restriction,17564,Processed,Hotel
+796,4706,2024-06-16,Schedule Conflict,17298,Processed,System
+797,2764,2025-09-04,Price Change,38560,Pending,System
+798,10568,2025-02-11,Price Change,47720,Pending,System
+799,8236,2024-07-15,Price Change,10619,Processed,System
+800,786,2024-05-26,Price Change,20104,Pending,Customer
+801,968,2025-02-06,Personal Issue,44213,Pending,Hotel
+802,10101,2026-03-08,Personal Issue,47854,Processed,Hotel
+803,7032,2024-07-15,Travel Restriction,41812,Pending,Hotel
+804,1638,2026-01-25,Personal Issue,30890,Pending,Customer
+805,7388,2025-09-21,Personal Issue,3393,Processed,Customer
+806,1086,2025-12-21,Price Change,12735,Processed,Customer
+807,2542,2025-08-16,Health Issue,13493,Pending,Hotel
+808,983,2024-11-02,Health Issue,43663,Pending,Customer
+809,11028,2024-07-22,Personal Issue,29894,Processed,Customer
+810,40,2024-10-08,Health Issue,3526,Processed,Hotel
+811,10258,2025-08-11,Schedule Conflict,26984,Pending,Customer
+812,6792,2025-07-31,Health Issue,33851,Pending,Hotel
+813,3536,2025-12-18,Emergency,20819,Pending,System
+814,11497,2026-02-03,Health Issue,42330,Processed,Hotel
+815,10676,2026-03-28,Schedule Conflict,12286,Pending,Customer
+816,8430,2025-03-12,Personal Issue,10480,Processed,Customer
+817,4910,2025-08-18,Health Issue,33229,Pending,Hotel
+818,6581,2026-03-21,Travel Restriction,5175,Processed,System
+819,9869,2024-11-12,Travel Restriction,30539,Processed,Customer
+820,2289,2025-12-17,Health Issue,42819,Pending,System
+821,4038,2026-01-26,Emergency,33556,Pending,Hotel
+822,4822,2025-09-07,Price Change,21786,Processed,System
+823,10552,2024-10-25,Schedule Conflict,25239,Pending,Hotel
+824,9691,2024-08-31,Travel Restriction,12361,Processed,System
+825,2528,2025-02-02,Schedule Conflict,19932,Processed,System
+826,229,2024-06-05,Emergency,49145,Processed,Customer
+827,11959,2025-04-02,Schedule Conflict,30906,Processed,Hotel
+828,3101,2024-12-27,Personal Issue,25771,Pending,Customer
+829,3883,2026-03-15,Price Change,25430,Processed,Hotel
+830,10168,2024-10-24,Health Issue,15825,Processed,Hotel
+831,1675,2024-12-08,Schedule Conflict,28930,Processed,Hotel
+832,2579,2024-09-06,Price Change,15330,Processed,Hotel
+833,11185,2025-01-15,Emergency,19822,Pending,Customer
+834,4359,2025-12-02,Health Issue,12489,Pending,Customer
+835,8456,2025-11-03,Personal Issue,6136,Pending,System
+836,5593,2025-11-17,Price Change,12928,Pending,System
+837,2383,2025-09-25,Health Issue,5134,Processed,System
+838,11808,2025-09-06,Schedule Conflict,20359,Processed,System
+839,9400,2026-01-22,Travel Restriction,35222,Pending,Customer
+840,6798,2026-01-10,Personal Issue,7627,Processed,Customer
+841,1506,2024-09-09,Price Change,35217,Processed,Hotel
+842,9538,2025-01-27,Travel Restriction,36679,Processed,Hotel
+843,6634,2025-01-29,Schedule Conflict,42639,Processed,System
+844,8076,2025-12-22,Personal Issue,3035,Processed,Customer
+845,8274,2024-11-15,Price Change,33485,Pending,Hotel
+846,3960,2025-08-03,Health Issue,37547,Pending,Customer
+847,2008,2025-06-05,Price Change,23157,Pending,Hotel
+848,1722,2026-01-18,Emergency,42448,Processed,Hotel
+849,6506,2025-10-20,Travel Restriction,8461,Pending,Hotel
+850,7900,2026-04-21,Price Change,7243,Processed,Customer
+851,1525,2024-12-22,Personal Issue,15403,Processed,Hotel
+852,6876,2025-08-19,Travel Restriction,11445,Pending,Hotel
+853,4721,2025-12-25,Personal Issue,10434,Processed,Hotel
+854,9264,2025-06-10,Travel Restriction,10799,Processed,System
+855,7517,2024-10-23,Personal Issue,7656,Pending,System
+856,246,2025-10-03,Emergency,16673,Pending,Hotel
+857,4690,2024-09-03,Schedule Conflict,20702,Pending,Customer
+858,4607,2025-06-29,Schedule Conflict,22114,Processed,System
+859,4722,2024-09-25,Health Issue,42341,Processed,Hotel
+860,799,2024-12-30,Travel Restriction,33690,Pending,System
+861,7734,2024-08-04,Health Issue,29445,Pending,Customer
+862,59,2026-04-12,Health Issue,32285,Pending,Hotel
+863,3930,2025-02-13,Health Issue,29374,Pending,Customer
+864,7075,2025-05-31,Health Issue,18041,Processed,System
+865,5262,2024-07-02,Health Issue,36584,Pending,System
+866,4729,2025-08-13,Travel Restriction,43312,Processed,Customer
+867,8215,2025-03-07,Emergency,37379,Processed,Customer
+868,2892,2024-11-14,Schedule Conflict,48619,Pending,System
+869,11036,2025-12-20,Schedule Conflict,22122,Pending,System
+870,4430,2024-10-10,Emergency,1969,Processed,System
+871,576,2025-08-31,Health Issue,19305,Pending,Customer
+872,6669,2025-09-01,Personal Issue,28019,Processed,System
+873,8861,2024-12-17,Health Issue,5786,Pending,System
+874,7330,2024-10-04,Emergency,2650,Pending,Hotel
+875,10868,2025-02-21,Travel Restriction,36631,Pending,Customer
+876,11628,2025-08-18,Price Change,9482,Pending,Hotel
+877,3499,2026-01-01,Schedule Conflict,4951,Processed,System
+878,5784,2026-04-23,Schedule Conflict,8705,Pending,Customer
+879,2599,2025-06-17,Emergency,12638,Pending,Hotel
+880,11712,2024-11-19,Price Change,16888,Pending,Customer
+881,5641,2024-11-08,Emergency,19183,Pending,Customer
+882,2228,2025-01-08,Travel Restriction,6791,Processed,Hotel
+883,9707,2025-04-11,Travel Restriction,1735,Pending,System
+884,8734,2025-12-24,Price Change,47683,Processed,Hotel
+885,5535,2024-11-25,Schedule Conflict,21422,Processed,Customer
+886,10040,2026-02-01,Emergency,19927,Processed,Hotel
+887,8579,2025-11-23,Health Issue,23295,Pending,System
+888,481,2026-01-03,Emergency,25795,Pending,Hotel
+889,1643,2025-05-19,Travel Restriction,5302,Pending,Customer
+890,8430,2025-12-24,Personal Issue,25616,Processed,System
+891,5505,2025-11-10,Price Change,24617,Processed,Hotel
+892,5226,2026-03-19,Health Issue,16566,Pending,Hotel
+893,2065,2026-03-22,Emergency,45900,Processed,Customer
+894,1182,2024-08-09,Price Change,44014,Pending,Hotel
+895,3412,2025-06-09,Price Change,44739,Pending,Hotel
+896,6573,2025-04-02,Schedule Conflict,26651,Pending,Hotel
+897,5421,2025-05-12,Personal Issue,25299,Processed,System
+898,9001,2026-01-26,Emergency,18781,Processed,Customer
+899,9972,2025-09-29,Travel Restriction,15222,Processed,Customer
+900,265,2025-05-19,Personal Issue,5123,Pending,Hotel
+901,322,2026-04-26,Travel Restriction,12371,Processed,Hotel
+902,6972,2025-06-26,Emergency,10416,Pending,Customer
+903,3427,2026-01-07,Travel Restriction,7592,Pending,Customer
+904,7941,2025-07-07,Emergency,15372,Processed,Customer
+905,3259,2025-04-26,Travel Restriction,28736,Pending,System
+906,8025,2024-09-11,Travel Restriction,19338,Processed,Hotel
+907,11261,2025-10-19,Emergency,24276,Processed,System
+908,8384,2024-06-25,Personal Issue,3832,Processed,Customer
+909,106,2025-09-23,Emergency,34404,Processed,System
+910,9951,2024-12-27,Health Issue,34250,Processed,Hotel
+911,220,2025-09-29,Price Change,45260,Pending,System
+912,7080,2025-12-24,Price Change,15471,Pending,Hotel
+913,9335,2025-07-06,Travel Restriction,25316,Pending,Customer
+914,8782,2026-02-04,Health Issue,39962,Processed,System
+915,1798,2025-02-05,Schedule Conflict,5220,Pending,Hotel
+916,6773,2024-08-25,Health Issue,35751,Pending,Customer
+917,1020,2024-09-30,Emergency,41768,Processed,System
+918,3106,2025-06-17,Personal Issue,16690,Pending,Customer
+919,10922,2024-10-16,Schedule Conflict,41258,Pending,System
+920,8048,2024-07-25,Health Issue,34079,Pending,Customer
+921,8729,2025-06-04,Price Change,25385,Pending,System
+922,3646,2025-06-10,Schedule Conflict,1372,Pending,Hotel
+923,6975,2025-01-18,Travel Restriction,14682,Processed,Customer
+924,9143,2025-04-07,Emergency,1290,Pending,Customer
+925,7637,2025-01-21,Schedule Conflict,41836,Pending,System
+926,3961,2025-04-15,Price Change,22927,Pending,System
+927,11963,2025-10-09,Travel Restriction,39752,Processed,Hotel
+928,1495,2024-09-22,Schedule Conflict,9649,Processed,System
+929,530,2025-04-10,Personal Issue,14779,Pending,System
+930,9950,2025-05-31,Schedule Conflict,26279,Processed,Customer
+931,4182,2025-06-06,Health Issue,31067,Pending,Hotel
+932,11483,2024-11-05,Travel Restriction,20505,Pending,System
+933,7099,2024-09-23,Emergency,14020,Processed,System
+934,7685,2025-11-03,Health Issue,33423,Pending,Customer
+935,7481,2025-03-01,Price Change,38077,Pending,Customer
+936,3172,2024-09-27,Emergency,46678,Pending,System
+937,6507,2024-12-22,Personal Issue,20285,Pending,Hotel
+938,4016,2024-10-06,Price Change,25918,Pending,System
+939,4795,2024-11-24,Health Issue,46804,Processed,Hotel
+940,1225,2026-04-27,Schedule Conflict,9410,Processed,System
+941,3016,2025-10-27,Schedule Conflict,36543,Pending,Hotel
+942,3179,2024-09-27,Price Change,7377,Processed,System
+943,5058,2025-02-07,Travel Restriction,32948,Processed,Customer
+944,5063,2026-03-06,Health Issue,5509,Processed,Customer
+945,10172,2024-10-23,Price Change,23521,Pending,Customer
+946,5769,2025-07-01,Travel Restriction,12525,Processed,System
+947,1386,2026-01-29,Personal Issue,11178,Pending,System
+948,1653,2024-08-26,Travel Restriction,25881,Pending,Hotel
+949,10291,2024-11-08,Health Issue,40617,Pending,Customer
+950,2276,2025-02-16,Travel Restriction,5032,Processed,Customer
+951,3356,2025-01-30,Schedule Conflict,1037,Pending,Hotel
+952,9743,2024-08-18,Emergency,33184,Processed,Hotel
+953,11383,2026-05-06,Travel Restriction,22542,Processed,System
+954,1611,2025-04-11,Schedule Conflict,22231,Pending,Hotel
+955,10261,2024-06-04,Health Issue,33775,Pending,System
+956,4120,2025-03-10,Emergency,36477,Processed,Customer
+957,11890,2024-11-30,Emergency,24926,Processed,System
+958,11399,2026-02-03,Personal Issue,22651,Processed,Customer
+959,6310,2025-06-18,Schedule Conflict,41835,Processed,Customer
+960,1342,2026-04-03,Health Issue,27262,Pending,Hotel
+961,387,2025-11-14,Price Change,37596,Pending,System
+962,3191,2025-10-23,Travel Restriction,26208,Pending,Customer
+963,10914,2024-05-17,Travel Restriction,34517,Pending,System
+964,9952,2024-11-24,Emergency,42835,Processed,Hotel
+965,8869,2025-06-05,Health Issue,45530,Pending,Customer
+966,8808,2025-07-18,Travel Restriction,4461,Pending,System
+967,2502,2024-05-28,Health Issue,5954,Processed,Customer
+968,8099,2025-08-29,Health Issue,27542,Processed,System
+969,6686,2025-02-24,Personal Issue,12597,Processed,Hotel
+970,3758,2025-06-13,Schedule Conflict,15830,Processed,Customer
+971,6432,2026-02-16,Schedule Conflict,9171,Pending,Customer
+972,6494,2024-06-07,Emergency,12396,Processed,Hotel
+973,4189,2025-07-24,Emergency,24940,Processed,System
+974,10895,2024-06-25,Personal Issue,37783,Pending,Customer
+975,1834,2024-12-31,Health Issue,2017,Pending,System
+976,8853,2024-08-12,Personal Issue,27943,Pending,System
+977,51,2024-07-10,Price Change,17689,Processed,System
+978,8106,2025-02-18,Price Change,6631,Pending,Hotel
+979,7131,2026-03-16,Schedule Conflict,14726,Processed,Hotel
+980,7462,2024-05-09,Travel Restriction,2500,Processed,System
+981,6727,2024-05-11,Personal Issue,43668,Processed,Hotel
+982,10168,2024-12-27,Health Issue,1070,Pending,System
+983,4688,2025-04-06,Personal Issue,43315,Pending,Hotel
+984,10589,2024-11-08,Travel Restriction,39949,Pending,Hotel
+985,10529,2025-01-04,Price Change,16872,Processed,System
+986,7642,2024-11-20,Price Change,15335,Processed,Customer
+987,3911,2025-06-30,Emergency,16663,Pending,Customer
+988,8232,2024-11-11,Price Change,47476,Pending,Customer
+989,7222,2025-02-25,Emergency,38593,Processed,Hotel
+990,5767,2025-01-11,Health Issue,42787,Pending,Hotel
+991,8684,2025-05-18,Personal Issue,49011,Processed,Hotel
+992,6977,2025-06-09,Price Change,35396,Processed,System
+993,10611,2025-04-20,Travel Restriction,35072,Pending,System
+994,3028,2025-02-17,Travel Restriction,7661,Pending,Hotel
+995,316,2025-02-12,Price Change,32400,Processed,Customer
+996,2451,2025-07-14,Travel Restriction,14738,Processed,Customer
+997,1112,2024-11-26,Health Issue,31355,Pending,Hotel
+998,4279,2025-09-28,Emergency,21789,Processed,Customer
+999,8221,2024-07-26,Personal Issue,10237,Processed,System
+1000,4325,2025-03-22,Emergency,14614,Pending,Hotel
+1001,11164,2025-12-11,Travel Restriction,40145,Processed,System
+1002,5389,2024-12-01,Travel Restriction,33847,Pending,Hotel
+1003,7047,2024-08-04,Personal Issue,10918,Processed,Hotel
+1004,401,2025-02-10,Schedule Conflict,21866,Pending,Customer
+1005,5235,2025-03-22,Travel Restriction,19563,Processed,Customer
+1006,11396,2026-02-13,Travel Restriction,49725,Pending,Hotel
+1007,10185,2024-11-26,Emergency,34431,Processed,Customer
+1008,4461,2024-12-27,Price Change,41486,Processed,Customer
+1009,4584,2025-02-01,Emergency,18447,Pending,System
+1010,4543,2025-12-04,Price Change,3324,Processed,Customer
+1011,575,2026-03-08,Schedule Conflict,46955,Processed,Customer
+1012,4712,2026-01-06,Health Issue,19858,Processed,System
+1013,10634,2025-06-15,Emergency,1778,Pending,System
+1014,11894,2025-05-10,Health Issue,46678,Processed,Hotel
+1015,10159,2026-04-30,Schedule Conflict,26750,Pending,System
+1016,297,2026-04-28,Schedule Conflict,21928,Processed,System
+1017,154,2024-08-13,Price Change,10937,Pending,Hotel
+1018,9734,2026-02-21,Price Change,7758,Pending,Customer
+1019,2008,2024-09-13,Travel Restriction,28718,Pending,System
+1020,4407,2025-11-25,Health Issue,6455,Pending,Customer
+1021,1271,2025-02-11,Emergency,15734,Pending,Customer
+1022,7755,2025-01-12,Emergency,43808,Pending,System
+1023,11063,2026-04-14,Personal Issue,23902,Pending,Customer
+1024,3703,2024-11-07,Price Change,20779,Processed,System
+1025,6414,2025-07-25,Health Issue,4625,Processed,Hotel
+1026,5444,2024-11-04,Schedule Conflict,22421,Pending,Hotel
+1027,9935,2025-03-01,Health Issue,42769,Processed,Hotel
+1028,1453,2025-05-11,Price Change,31972,Processed,Customer
+1029,9583,2025-09-08,Travel Restriction,11443,Pending,Hotel
+1030,3570,2025-05-30,Schedule Conflict,12311,Processed,Customer
+1031,9718,2025-01-06,Emergency,42792,Pending,System
+1032,3941,2025-11-18,Personal Issue,8035,Processed,Customer
+1033,9477,2025-04-19,Travel Restriction,13287,Pending,Customer
+1034,8654,2024-09-06,Schedule Conflict,47370,Processed,System
+1035,7310,2026-03-13,Personal Issue,23409,Processed,Customer
+1036,6645,2026-02-20,Health Issue,45033,Processed,System
+1037,1110,2026-04-14,Health Issue,13534,Pending,System
+1038,6216,2024-11-15,Emergency,24051,Processed,Hotel
+1039,11970,2025-06-20,Personal Issue,30751,Pending,Hotel
+1040,5638,2025-06-08,Emergency,27162,Processed,System
+1041,2166,2024-12-30,Personal Issue,7382,Processed,Hotel
+1042,8773,2025-07-07,Schedule Conflict,29373,Processed,System
+1043,167,2025-05-30,Price Change,35581,Pending,Customer
+1044,4194,2026-02-01,Personal Issue,39164,Processed,Hotel
+1045,3798,2024-07-12,Personal Issue,30002,Pending,Hotel
+1046,3525,2024-05-22,Schedule Conflict,22719,Pending,Hotel
+1047,6424,2024-09-16,Emergency,45390,Processed,Customer
+1048,4511,2025-12-14,Personal Issue,37153,Processed,Customer
+1049,6996,2026-02-17,Health Issue,15740,Pending,Hotel
+1050,5089,2024-10-21,Schedule Conflict,21466,Pending,Customer
+1051,7860,2024-06-16,Health Issue,18421,Processed,Customer
+1052,8983,2025-11-14,Price Change,39839,Processed,Hotel
+1053,8870,2024-06-15,Travel Restriction,6365,Processed,Customer
+1054,1703,2024-08-30,Price Change,27335,Pending,System
+1055,5883,2026-01-24,Price Change,20351,Pending,System
+1056,6818,2025-01-30,Travel Restriction,12623,Pending,Customer
+1057,10164,2024-08-05,Emergency,4112,Pending,Hotel
+1058,4086,2025-03-21,Price Change,9933,Processed,Customer
+1059,6308,2025-12-23,Schedule Conflict,45640,Pending,System
+1060,5490,2025-03-09,Emergency,30743,Pending,Customer
+1061,1753,2025-02-08,Health Issue,9311,Processed,Customer
+1062,2448,2025-07-27,Price Change,32230,Pending,Customer
+1063,9646,2024-06-29,Price Change,26173,Pending,Customer
+1064,3891,2026-04-29,Health Issue,21583,Pending,Customer
+1065,3237,2026-03-05,Health Issue,39988,Pending,Hotel
+1066,8938,2026-03-21,Personal Issue,10861,Pending,Hotel
+1067,6215,2025-12-29,Emergency,4241,Processed,Customer
+1068,5511,2025-07-03,Personal Issue,20182,Pending,System
+1069,3417,2024-08-16,Personal Issue,5550,Processed,Hotel
+1070,4698,2025-02-26,Travel Restriction,39809,Pending,Customer
+1071,8854,2025-11-23,Price Change,17355,Processed,Hotel
+1072,3526,2024-06-05,Health Issue,2615,Pending,System
+1073,7259,2024-08-23,Price Change,49263,Pending,System
+1074,7354,2025-12-15,Travel Restriction,39242,Pending,System
+1075,5368,2025-09-18,Personal Issue,40672,Processed,Hotel
+1076,8471,2024-09-24,Price Change,45809,Processed,Hotel
+1077,5377,2024-09-27,Schedule Conflict,8385,Pending,Customer
+1078,3778,2025-03-15,Personal Issue,30171,Pending,Customer
+1079,2062,2025-03-17,Personal Issue,25557,Processed,Customer
+1080,2684,2025-03-03,Travel Restriction,43805,Processed,System
+1081,4732,2024-05-12,Personal Issue,31707,Processed,Hotel
+1082,9762,2025-03-28,Travel Restriction,29755,Pending,Hotel
+1083,1868,2025-04-26,Travel Restriction,10565,Pending,System
+1084,1000,2026-02-05,Personal Issue,17691,Processed,System
+1085,3796,2025-06-11,Price Change,36570,Pending,Hotel
+1086,4651,2024-05-15,Travel Restriction,31509,Processed,Customer
+1087,6994,2025-04-15,Travel Restriction,27795,Processed,Customer
+1088,5367,2025-05-25,Travel Restriction,2519,Processed,System
+1089,3293,2025-03-02,Price Change,16377,Processed,Customer
+1090,7828,2024-12-14,Health Issue,20936,Pending,Customer
+1091,11435,2025-07-19,Health Issue,49456,Pending,Customer
+1092,8903,2025-12-26,Travel Restriction,34302,Pending,Customer
+1093,6282,2025-02-07,Health Issue,13278,Pending,Customer
+1094,1669,2025-09-13,Health Issue,30710,Processed,Customer
+1095,6490,2024-11-11,Health Issue,14639,Processed,System
+1096,132,2024-09-20,Schedule Conflict,10299,Pending,Customer
+1097,2719,2025-07-31,Travel Restriction,49167,Processed,Hotel
+1098,7080,2025-01-09,Travel Restriction,33927,Processed,Hotel
+1099,1746,2025-03-30,Price Change,9416,Pending,Customer
+1100,403,2025-09-14,Price Change,23203,Processed,System
+1101,5234,2024-11-27,Personal Issue,47357,Processed,Customer
+1102,2254,2024-09-24,Emergency,16845,Pending,System
+1103,6775,2025-08-01,Price Change,2181,Processed,Customer
+1104,10388,2025-11-02,Travel Restriction,40083,Pending,Hotel
+1105,6155,2026-04-20,Health Issue,34977,Pending,Customer
+1106,6596,2025-05-06,Personal Issue,12568,Processed,System
+1107,3302,2024-05-22,Price Change,37520,Processed,Customer
+1108,6204,2025-11-20,Schedule Conflict,28609,Processed,System
+1109,11067,2024-11-08,Personal Issue,38727,Pending,System
+1110,8559,2026-01-31,Travel Restriction,40385,Processed,System
+1111,7908,2024-05-12,Schedule Conflict,35701,Pending,System
+1112,2507,2024-11-20,Schedule Conflict,48096,Processed,System
+1113,11696,2025-02-08,Health Issue,27660,Pending,Customer
+1114,10646,2024-12-04,Schedule Conflict,26734,Processed,Customer
+1115,2069,2026-01-30,Personal Issue,14088,Processed,Hotel
+1116,9673,2024-07-26,Travel Restriction,40039,Pending,Customer
+1117,7273,2026-01-27,Personal Issue,46946,Pending,Hotel
+1118,10589,2025-05-06,Personal Issue,19632,Processed,Customer
+1119,506,2025-01-13,Travel Restriction,26238,Processed,System
+1120,9182,2024-11-02,Personal Issue,26069,Processed,Customer
+1121,2564,2024-09-29,Emergency,15505,Processed,Hotel
+1122,531,2025-11-10,Personal Issue,19380,Pending,System
+1123,8282,2025-04-03,Travel Restriction,21039,Processed,System
+1124,238,2026-01-28,Price Change,27555,Pending,Customer
+1125,10393,2025-08-03,Emergency,10751,Pending,System
+1126,2712,2024-09-16,Emergency,3483,Processed,Hotel
+1127,7164,2025-05-25,Price Change,16517,Pending,System
+1128,131,2026-03-13,Emergency,22155,Pending,Customer
+1129,10378,2026-02-11,Health Issue,32685,Processed,System
+1130,328,2025-06-26,Price Change,45510,Processed,Customer
+1131,1695,2025-10-26,Emergency,33534,Processed,Customer
+1132,8361,2026-04-08,Travel Restriction,13155,Processed,System
+1133,2083,2026-04-20,Health Issue,23049,Processed,System
+1134,6392,2024-05-22,Travel Restriction,19190,Pending,Hotel
+1135,3843,2025-06-25,Price Change,3843,Processed,System
+1136,11673,2026-03-29,Travel Restriction,39797,Pending,Hotel
+1137,9718,2024-08-16,Personal Issue,23659,Processed,System
+1138,11772,2025-11-19,Schedule Conflict,1650,Processed,Hotel
+1139,3737,2026-02-19,Schedule Conflict,20028,Pending,Hotel
+1140,7376,2025-07-22,Personal Issue,19127,Processed,Customer
+1141,3868,2025-01-03,Health Issue,26100,Processed,Customer
+1142,11568,2024-09-28,Travel Restriction,49819,Pending,Hotel
+1143,10994,2025-01-13,Health Issue,10232,Pending,Hotel
+1144,257,2025-07-26,Schedule Conflict,34131,Pending,Hotel
+1145,9009,2024-09-20,Schedule Conflict,12831,Processed,System
+1146,10714,2025-07-18,Price Change,48295,Pending,System
+1147,9914,2025-09-09,Travel Restriction,47975,Pending,Customer
+1148,4085,2025-12-05,Personal Issue,5088,Pending,Customer
+1149,855,2026-03-05,Schedule Conflict,29057,Processed,Hotel
+1150,7540,2026-02-04,Health Issue,30322,Pending,System
+1151,4526,2025-08-23,Personal Issue,45555,Pending,System
+1152,1845,2024-08-24,Schedule Conflict,42782,Processed,Customer
+1153,11549,2025-02-07,Personal Issue,8932,Pending,System
+1154,7441,2025-09-22,Schedule Conflict,34217,Pending,Hotel
+1155,4198,2025-03-09,Personal Issue,4538,Processed,Hotel
+1156,2357,2024-12-04,Emergency,18695,Processed,System
+1157,5381,2024-05-26,Price Change,30783,Pending,Hotel
+1158,11562,2024-11-30,Travel Restriction,39602,Pending,Customer
+1159,5285,2024-12-03,Travel Restriction,6997,Processed,Customer
+1160,10546,2026-04-15,Travel Restriction,15824,Pending,Customer
+1161,5842,2026-01-08,Price Change,30235,Pending,System
+1162,1330,2024-12-24,Price Change,34789,Processed,Customer
+1163,3717,2024-10-05,Travel Restriction,21909,Pending,System
+1164,10902,2025-03-26,Emergency,48360,Processed,Hotel
+1165,6566,2025-06-09,Personal Issue,10688,Processed,Hotel
+1166,2480,2025-12-01,Personal Issue,21678,Pending,Customer
+1167,6644,2025-02-27,Schedule Conflict,14738,Pending,System
+1168,13,2025-01-24,Travel Restriction,33624,Pending,System
+1169,6459,2025-07-29,Travel Restriction,35101,Processed,Customer
+1170,11226,2025-02-08,Health Issue,34493,Processed,Customer
+1171,5162,2025-10-13,Personal Issue,39971,Pending,Customer
+1172,8575,2025-07-31,Emergency,13758,Pending,Customer
+1173,7520,2024-08-02,Personal Issue,44240,Pending,Hotel
+1174,6988,2025-07-20,Emergency,10101,Processed,Customer
+1175,11219,2024-05-28,Price Change,23544,Processed,Hotel
+1176,5043,2025-03-18,Schedule Conflict,40896,Processed,Customer
+1177,9841,2024-10-14,Travel Restriction,16578,Processed,Customer
+1178,66,2025-05-28,Schedule Conflict,30267,Pending,Customer
+1179,10176,2024-10-21,Personal Issue,21973,Processed,Customer
+1180,2455,2025-08-20,Travel Restriction,36255,Pending,System
+1181,1013,2024-11-16,Price Change,25069,Processed,Customer
+1182,6594,2025-04-24,Personal Issue,3784,Pending,System
+1183,5848,2025-10-08,Schedule Conflict,13044,Processed,Hotel
+1184,1578,2024-09-27,Emergency,46281,Pending,System
+1185,5196,2025-10-12,Price Change,35072,Processed,Hotel
+1186,11360,2026-03-10,Personal Issue,14046,Pending,Hotel
+1187,2141,2024-12-01,Travel Restriction,44690,Pending,Customer
+1188,5621,2026-04-16,Schedule Conflict,19324,Processed,Customer
+1189,10166,2024-09-30,Health Issue,13277,Pending,Customer
+1190,10794,2024-05-30,Emergency,27216,Pending,Hotel
+1191,1820,2025-06-16,Travel Restriction,19473,Pending,Hotel
+1192,297,2026-03-17,Travel Restriction,32110,Processed,Customer
+1193,1237,2025-06-13,Emergency,36433,Pending,Customer
+1194,8112,2024-06-03,Travel Restriction,27829,Pending,Customer
+1195,5623,2025-03-25,Schedule Conflict,17654,Pending,System
+1196,11646,2025-06-14,Personal Issue,37253,Processed,Customer
+1197,6385,2024-07-17,Health Issue,27942,Processed,System
+1198,5259,2025-03-30,Health Issue,47139,Pending,Hotel
+1199,2842,2025-10-08,Travel Restriction,30818,Processed,Hotel
+1200,3584,2025-08-28,Schedule Conflict,9285,Processed,System
+1201,2518,2024-12-27,Emergency,49903,Processed,Customer
+1202,4837,2025-09-14,Schedule Conflict,6646,Processed,System
+1203,514,2026-01-22,Price Change,39437,Pending,Hotel
+1204,10287,2025-03-14,Schedule Conflict,14271,Processed,Hotel
+1205,3279,2026-02-06,Price Change,15999,Pending,Customer
+1206,4898,2025-10-08,Emergency,24573,Pending,Hotel
+1207,1344,2025-11-30,Price Change,17195,Processed,System
+1208,1163,2025-12-08,Health Issue,28012,Pending,Customer
+1209,9757,2024-10-24,Personal Issue,29549,Processed,Hotel
+1210,10491,2025-12-20,Emergency,2470,Processed,Hotel
+1211,11424,2026-01-20,Price Change,5808,Pending,Hotel
+1212,1547,2024-09-22,Schedule Conflict,42488,Pending,Customer
+1213,7551,2026-03-18,Emergency,4264,Pending,Hotel
+1214,6870,2026-02-25,Price Change,5383,Pending,Hotel
+1215,7883,2024-11-09,Price Change,17876,Processed,Customer
+1216,11194,2024-05-21,Schedule Conflict,24419,Processed,System
+1217,2305,2024-08-30,Schedule Conflict,7175,Pending,System
+1218,3068,2025-07-16,Price Change,27789,Processed,Customer
+1219,6983,2025-08-27,Personal Issue,44310,Processed,Hotel
+1220,3552,2024-06-29,Personal Issue,47809,Pending,System
+1221,11625,2025-08-17,Emergency,39644,Pending,Customer
+1222,7949,2026-04-03,Personal Issue,22512,Processed,System
+1223,11983,2024-09-06,Schedule Conflict,35387,Processed,System
+1224,3428,2025-04-09,Personal Issue,39532,Processed,Customer
+1225,1203,2024-05-14,Price Change,15525,Processed,System
+1226,834,2026-04-19,Emergency,24398,Processed,Hotel
+1227,3709,2024-10-30,Emergency,43155,Processed,Hotel
+1228,7406,2025-01-20,Price Change,45440,Pending,Hotel
+1229,7953,2026-01-06,Health Issue,23365,Processed,Hotel
+1230,8151,2024-07-25,Personal Issue,45255,Pending,Customer
+1231,1031,2025-11-02,Price Change,28465,Pending,Hotel
+1232,3154,2026-02-01,Schedule Conflict,46080,Processed,Hotel
+1233,9300,2024-05-19,Personal Issue,16539,Pending,System
+1234,6334,2024-07-10,Health Issue,24988,Processed,System
+1235,10337,2024-10-26,Health Issue,41710,Pending,System
+1236,4282,2026-03-02,Schedule Conflict,10024,Processed,System
+1237,916,2024-11-10,Price Change,8893,Processed,Hotel
+1238,5189,2024-06-15,Schedule Conflict,49739,Processed,System
+1239,2135,2025-02-15,Travel Restriction,4515,Processed,Customer
+1240,8203,2025-09-14,Price Change,14664,Processed,System
+1241,10982,2025-09-01,Personal Issue,12896,Processed,Customer
+1242,10869,2024-11-07,Health Issue,37491,Processed,Hotel
+1243,5925,2025-12-02,Schedule Conflict,7462,Processed,System
+1244,11003,2026-04-27,Emergency,12741,Pending,Customer
+1245,8950,2024-10-29,Schedule Conflict,40264,Pending,Hotel
+1246,10352,2024-11-11,Price Change,27580,Processed,System
+1247,5995,2024-12-24,Emergency,18271,Pending,Hotel
+1248,10756,2025-11-12,Health Issue,12120,Processed,System
+1249,4380,2024-06-21,Travel Restriction,29686,Pending,System
+1250,104,2026-05-01,Emergency,33003,Processed,Customer
+1251,2183,2025-04-09,Personal Issue,25638,Processed,System
+1252,2344,2024-07-07,Emergency,10133,Pending,Hotel
+1253,1526,2025-08-13,Health Issue,49579,Pending,System
+1254,6791,2024-11-23,Emergency,16221,Pending,System
+1255,708,2025-08-18,Health Issue,39228,Processed,Hotel
+1256,8204,2025-05-03,Price Change,27075,Processed,System
+1257,508,2026-01-14,Travel Restriction,2654,Processed,Customer
+1258,106,2026-03-07,Emergency,40785,Processed,Customer
+1259,2880,2024-06-25,Personal Issue,3609,Pending,Hotel
+1260,11444,2026-04-09,Travel Restriction,39330,Processed,System
+1261,6474,2025-12-08,Emergency,48797,Processed,System
+1262,8460,2024-12-15,Schedule Conflict,5561,Processed,Hotel
+1263,1098,2025-05-22,Personal Issue,21092,Pending,System
+1264,11520,2025-12-09,Health Issue,29106,Pending,Hotel
+1265,6550,2025-04-17,Emergency,39426,Processed,System
+1266,1603,2024-05-19,Schedule Conflict,2376,Processed,System
+1267,11857,2025-08-22,Schedule Conflict,16291,Processed,System
+1268,8398,2024-10-26,Price Change,5625,Pending,System
+1269,11709,2025-07-07,Emergency,15672,Processed,Hotel
+1270,4172,2026-01-28,Price Change,36923,Processed,Customer
+1271,1317,2026-02-22,Emergency,36702,Processed,Hotel
+1272,733,2024-07-08,Price Change,38587,Pending,Hotel
+1273,4782,2024-12-15,Personal Issue,44195,Pending,Customer
+1274,2504,2024-06-16,Emergency,33223,Processed,Hotel
+1275,10090,2025-11-06,Personal Issue,13873,Pending,System
+1276,4188,2024-12-02,Personal Issue,46900,Processed,Customer
+1277,2361,2025-02-25,Health Issue,26177,Pending,Hotel
+1278,5357,2025-02-06,Schedule Conflict,26585,Pending,Hotel
+1279,11339,2025-07-29,Price Change,17208,Processed,Customer
+1280,10154,2024-06-10,Emergency,15145,Pending,Customer
+1281,6807,2025-11-05,Health Issue,20409,Processed,Hotel
+1282,11283,2024-12-19,Schedule Conflict,11373,Pending,Customer
+1283,6896,2024-05-25,Travel Restriction,27268,Pending,Hotel
+1284,6292,2026-04-28,Health Issue,33897,Processed,Customer
+1285,10994,2024-07-26,Health Issue,3171,Pending,Hotel
+1286,10781,2025-12-31,Emergency,17515,Pending,Hotel
+1287,10796,2026-04-11,Emergency,35945,Processed,Customer
+1288,1152,2025-10-23,Personal Issue,44291,Processed,System
+1289,3275,2025-03-20,Personal Issue,43173,Pending,Customer
+1290,2843,2024-09-01,Health Issue,32793,Pending,Customer
+1291,10452,2024-11-20,Emergency,32997,Pending,System
+1292,2296,2025-11-21,Price Change,34874,Processed,System
+1293,8608,2024-06-28,Price Change,3620,Processed,Customer
+1294,1332,2026-04-02,Personal Issue,5133,Pending,Hotel
+1295,1264,2026-04-20,Personal Issue,21139,Pending,System
+1296,11550,2025-10-14,Personal Issue,30487,Pending,Customer
+1297,7150,2024-07-16,Emergency,7000,Pending,System
+1298,6459,2024-06-28,Health Issue,23950,Pending,Hotel
+1299,2660,2025-12-26,Schedule Conflict,32940,Processed,Customer
+1300,135,2024-06-08,Travel Restriction,30331,Pending,Hotel
+1301,11484,2026-05-05,Price Change,29068,Pending,System
+1302,6048,2025-01-14,Health Issue,27341,Pending,Hotel
+1303,12000,2025-05-16,Emergency,19461,Processed,Customer
+1304,1166,2024-09-08,Emergency,30222,Processed,System
+1305,266,2024-10-03,Travel Restriction,24712,Pending,Customer
+1306,8953,2024-09-19,Emergency,26624,Processed,Hotel
+1307,11557,2024-07-26,Travel Restriction,31091,Processed,Customer
+1308,5230,2024-06-01,Personal Issue,12812,Processed,Customer
+1309,805,2026-02-15,Personal Issue,15081,Processed,Customer
+1310,1965,2025-11-26,Personal Issue,44583,Pending,Hotel
+1311,9135,2026-02-18,Emergency,46607,Processed,Hotel
+1312,157,2025-01-21,Personal Issue,47075,Pending,System
+1313,9463,2024-10-22,Schedule Conflict,29291,Processed,System
+1314,2274,2026-02-21,Personal Issue,38081,Processed,System
+1315,5032,2025-08-08,Schedule Conflict,30103,Processed,Customer
+1316,544,2025-11-04,Health Issue,49266,Processed,Customer
+1317,5784,2024-06-10,Schedule Conflict,25895,Processed,Customer
+1318,11620,2024-08-10,Health Issue,36224,Pending,System
+1319,68,2025-09-02,Emergency,42431,Processed,System
+1320,11025,2024-10-12,Price Change,47602,Pending,Customer
+1321,8089,2025-02-20,Travel Restriction,12987,Pending,System
+1322,3175,2026-04-05,Emergency,23166,Pending,Hotel
+1323,3889,2024-07-02,Health Issue,37076,Processed,System
+1324,8120,2026-04-09,Price Change,29382,Processed,Customer
+1325,10016,2026-04-25,Personal Issue,6479,Pending,Customer
+1326,10028,2025-10-30,Schedule Conflict,49281,Processed,Hotel
+1327,5743,2025-02-17,Emergency,41207,Pending,Hotel
+1328,883,2025-05-26,Emergency,32097,Processed,Customer
+1329,749,2026-04-15,Health Issue,43232,Pending,Customer
+1330,3172,2026-04-10,Emergency,10795,Processed,Customer
+1331,4923,2025-01-03,Personal Issue,44492,Pending,Hotel
+1332,4850,2025-07-24,Schedule Conflict,22143,Pending,Hotel
+1333,6247,2025-12-21,Travel Restriction,41702,Processed,Hotel
+1334,9701,2026-01-20,Personal Issue,34230,Processed,Customer
+1335,242,2024-05-19,Personal Issue,45119,Processed,Hotel
+1336,4894,2024-07-06,Personal Issue,12285,Processed,System
+1337,7337,2026-04-08,Emergency,35679,Pending,Customer
+1338,3731,2025-02-22,Travel Restriction,8139,Processed,System
+1339,11793,2024-08-31,Price Change,2307,Pending,Customer
+1340,3969,2024-05-19,Health Issue,47645,Processed,System
+1341,2385,2025-08-06,Health Issue,25290,Pending,Customer
+1342,10480,2026-04-28,Price Change,28513,Processed,Customer
+1343,9971,2025-05-17,Schedule Conflict,9719,Pending,System
+1344,8243,2025-03-19,Travel Restriction,3694,Processed,Hotel
+1345,9678,2025-08-11,Schedule Conflict,21163,Pending,Customer
+1346,4351,2025-07-31,Emergency,20627,Processed,Customer
+1347,6521,2025-09-01,Price Change,8852,Processed,Hotel
+1348,4634,2025-07-09,Travel Restriction,13059,Processed,Customer
+1349,5,2026-03-09,Schedule Conflict,26343,Pending,Customer
+1350,6330,2025-12-10,Personal Issue,6986,Pending,Hotel
+1351,9350,2024-11-20,Health Issue,11614,Processed,Hotel
+1352,163,2025-07-14,Personal Issue,41290,Pending,Hotel
+1353,9220,2025-08-21,Schedule Conflict,6113,Processed,Hotel
+1354,6394,2025-10-20,Price Change,1511,Pending,Customer
+1355,2221,2025-06-25,Schedule Conflict,40866,Pending,System
+1356,7982,2025-05-31,Schedule Conflict,16515,Processed,System
+1357,4057,2024-05-25,Price Change,33985,Pending,Hotel
+1358,6083,2024-11-12,Emergency,1630,Processed,Hotel
+1359,6855,2026-01-01,Personal Issue,31189,Processed,Hotel
+1360,10926,2025-04-20,Emergency,35615,Pending,System
+1361,9720,2025-01-07,Travel Restriction,15239,Pending,Hotel
+1362,8657,2024-06-20,Price Change,3573,Processed,Hotel
+1363,8851,2025-02-08,Emergency,13189,Pending,Hotel
+1364,3295,2024-12-01,Price Change,4450,Pending,Hotel
+1365,8359,2025-04-27,Personal Issue,14737,Processed,System
+1366,4219,2025-10-09,Schedule Conflict,32225,Pending,System
+1367,7718,2024-06-23,Schedule Conflict,40485,Processed,Hotel
+1368,7823,2025-11-07,Price Change,34484,Pending,Customer
+1369,7897,2024-09-02,Personal Issue,4179,Processed,Customer
+1370,5134,2025-07-28,Personal Issue,23193,Pending,Hotel
+1371,8351,2025-05-12,Health Issue,47801,Pending,System
+1372,7535,2026-03-07,Health Issue,30605,Processed,Hotel
+1373,3180,2024-10-12,Schedule Conflict,11900,Processed,System
+1374,10222,2026-04-14,Price Change,41270,Processed,Hotel
+1375,1445,2024-11-17,Emergency,44968,Processed,Hotel
+1376,218,2025-02-03,Schedule Conflict,46225,Pending,Hotel
+1377,1944,2025-09-09,Emergency,49672,Processed,Hotel
+1378,4984,2025-10-25,Emergency,36797,Pending,System
+1379,7749,2024-06-14,Schedule Conflict,41652,Processed,System
+1380,2484,2024-06-25,Price Change,6116,Pending,Hotel
+1381,4196,2025-07-01,Travel Restriction,26123,Processed,System
+1382,6860,2024-07-15,Travel Restriction,23700,Processed,Hotel
+1383,5111,2024-09-11,Price Change,13677,Processed,Customer
+1384,6526,2025-07-07,Health Issue,32579,Processed,System
+1385,6145,2025-06-25,Health Issue,16739,Processed,Hotel
+1386,4532,2024-06-16,Personal Issue,44330,Pending,Hotel
+1387,1564,2025-06-28,Personal Issue,35747,Pending,System
+1388,169,2024-06-01,Emergency,37502,Processed,System
+1389,4328,2025-03-07,Travel Restriction,29433,Processed,Customer
+1390,1383,2024-11-29,Emergency,22158,Pending,System
+1391,1223,2024-07-19,Personal Issue,24110,Processed,Hotel
+1392,10620,2024-06-19,Personal Issue,31062,Pending,Customer
+1393,10590,2024-10-16,Personal Issue,24469,Pending,System
+1394,5484,2025-12-05,Health Issue,36906,Processed,Hotel
+1395,3233,2025-06-23,Health Issue,29587,Processed,Hotel
+1396,3638,2024-09-26,Health Issue,2718,Pending,System
+1397,6357,2024-06-10,Health Issue,14666,Processed,Hotel
+1398,6766,2026-02-15,Price Change,24537,Pending,System
+1399,4249,2024-05-13,Price Change,47296,Processed,System
+1400,7718,2026-01-12,Personal Issue,37124,Processed,Hotel
+1401,2857,2024-11-15,Health Issue,34508,Pending,Hotel
+1402,4163,2025-07-20,Price Change,3506,Pending,System
+1403,1241,2024-08-03,Schedule Conflict,46393,Pending,System
+1404,10949,2025-10-15,Price Change,10818,Pending,System
+1405,1164,2025-06-13,Emergency,26806,Pending,Customer
+1406,9919,2025-08-29,Health Issue,28067,Processed,System
+1407,5266,2024-11-12,Emergency,10031,Pending,System
+1408,8332,2024-06-19,Personal Issue,11588,Processed,Customer
+1409,7684,2026-02-16,Schedule Conflict,46950,Pending,Customer
+1410,11789,2024-08-05,Emergency,14664,Pending,System
+1411,7877,2025-11-24,Price Change,26521,Processed,Hotel
+1412,9213,2024-05-09,Price Change,4988,Processed,System
+1413,2862,2025-08-26,Personal Issue,8185,Processed,Hotel
+1414,3338,2025-10-24,Health Issue,19227,Processed,Hotel
+1415,4114,2025-01-14,Emergency,48225,Pending,Customer
+1416,5311,2025-03-21,Personal Issue,7097,Pending,System
+1417,1976,2024-06-22,Emergency,1504,Pending,Customer
+1418,1857,2024-12-05,Personal Issue,42292,Pending,Customer
+1419,1779,2025-12-08,Schedule Conflict,36619,Processed,System
+1420,7036,2025-10-18,Personal Issue,11584,Pending,Customer
+1421,10978,2025-05-22,Price Change,17756,Pending,Hotel
+1422,295,2024-08-06,Travel Restriction,23855,Pending,Customer
+1423,2974,2025-10-16,Health Issue,3915,Pending,Customer
+1424,5274,2024-06-22,Personal Issue,43487,Processed,Hotel
+1425,9717,2026-03-22,Price Change,11636,Pending,System
+1426,6292,2025-02-12,Emergency,32916,Processed,System
+1427,1679,2024-07-03,Travel Restriction,19571,Pending,Customer
+1428,10550,2025-02-01,Personal Issue,31503,Pending,Customer
+1429,4025,2025-10-08,Schedule Conflict,47477,Processed,Hotel
+1430,11850,2024-11-20,Travel Restriction,12087,Processed,Hotel
+1431,402,2024-12-03,Schedule Conflict,48605,Pending,Customer
+1432,10805,2025-06-10,Emergency,11153,Processed,Customer
+1433,1182,2025-05-25,Health Issue,43968,Pending,Customer
+1434,4627,2025-03-09,Personal Issue,41541,Processed,Customer
+1435,11255,2025-11-21,Price Change,40618,Processed,Customer
+1436,9002,2025-12-23,Travel Restriction,27417,Processed,Customer
+1437,2981,2024-10-17,Emergency,15584,Pending,System
+1438,3944,2025-10-24,Health Issue,33154,Processed,Customer
+1439,770,2025-09-04,Health Issue,9582,Pending,System
+1440,10045,2025-09-07,Travel Restriction,30720,Pending,Customer
+1441,10734,2026-02-23,Emergency,18712,Pending,System
+1442,2949,2026-03-02,Travel Restriction,49941,Processed,Customer
+1443,8658,2025-04-26,Price Change,35924,Pending,System
+1444,11332,2025-04-15,Schedule Conflict,12707,Pending,Customer
+1445,4482,2024-07-20,Travel Restriction,33284,Pending,System
+1446,10346,2025-03-08,Health Issue,44420,Processed,Customer
+1447,5252,2025-05-21,Emergency,28609,Processed,System
+1448,3452,2024-10-14,Health Issue,44425,Processed,System
+1449,5544,2024-07-23,Price Change,41956,Pending,Customer
+1450,7142,2025-08-04,Price Change,49408,Processed,System
+1451,10454,2025-03-20,Health Issue,35432,Processed,Customer
+1452,9733,2025-10-25,Personal Issue,30414,Processed,System
+1453,115,2026-02-03,Personal Issue,15561,Pending,System
+1454,3003,2024-11-19,Schedule Conflict,21123,Processed,Hotel
+1455,5216,2026-04-14,Emergency,27737,Pending,Customer
+1456,5995,2025-09-02,Personal Issue,9846,Processed,System
+1457,5943,2025-06-29,Personal Issue,13178,Processed,System
+1458,3744,2026-01-08,Price Change,13056,Pending,Customer
+1459,1158,2025-03-05,Emergency,36961,Processed,Hotel
+1460,717,2024-10-08,Travel Restriction,36296,Processed,Hotel
+1461,5872,2024-07-20,Personal Issue,8864,Pending,System
+1462,9425,2025-04-20,Health Issue,25962,Processed,Customer
+1463,11384,2024-05-31,Schedule Conflict,47521,Pending,System
+1464,6471,2025-06-24,Schedule Conflict,27712,Processed,Customer
+1465,11864,2024-08-26,Travel Restriction,32456,Pending,System
+1466,8829,2025-01-25,Health Issue,11789,Processed,Hotel
+1467,8716,2024-10-29,Health Issue,22561,Processed,Hotel
+1468,2596,2024-11-25,Schedule Conflict,41099,Processed,System
+1469,1995,2025-06-07,Schedule Conflict,1036,Pending,Customer
+1470,5635,2025-04-08,Travel Restriction,16414,Pending,Customer
+1471,10790,2025-12-25,Health Issue,23648,Processed,Hotel
+1472,11131,2025-05-06,Health Issue,31491,Pending,System
+1473,309,2024-09-14,Travel Restriction,11340,Processed,System
+1474,195,2024-05-24,Price Change,42188,Processed,System
+1475,2902,2024-07-13,Schedule Conflict,21436,Processed,Hotel
+1476,9072,2025-01-08,Health Issue,9695,Processed,System
+1477,9014,2025-01-16,Schedule Conflict,29698,Pending,Customer
+1478,3695,2024-05-22,Schedule Conflict,46087,Pending,System
+1479,2136,2024-11-23,Health Issue,47754,Pending,Hotel
+1480,1509,2025-03-23,Price Change,46390,Processed,Customer
+1481,2916,2025-08-07,Travel Restriction,27970,Processed,Hotel
+1482,10669,2026-05-01,Emergency,25063,Pending,Hotel
+1483,4627,2025-06-20,Price Change,37281,Processed,Customer
+1484,9435,2025-06-23,Schedule Conflict,28173,Pending,Customer
+1485,10654,2025-02-15,Personal Issue,46728,Processed,Hotel
+1486,5243,2024-12-11,Health Issue,48664,Pending,Customer
+1487,8109,2025-08-08,Health Issue,26003,Processed,Hotel
+1488,4647,2025-08-15,Emergency,7406,Processed,Customer
+1489,10138,2024-06-29,Travel Restriction,44495,Pending,Hotel
+1490,5915,2024-06-23,Health Issue,44297,Processed,Hotel
+1491,10201,2025-04-09,Emergency,32420,Processed,System
+1492,2680,2026-03-22,Schedule Conflict,14725,Processed,System
+1493,11921,2024-06-21,Travel Restriction,17571,Processed,Customer
+1494,6188,2024-08-25,Schedule Conflict,22328,Processed,System
+1495,8548,2026-03-02,Travel Restriction,44514,Processed,Customer
+1496,1513,2025-12-03,Schedule Conflict,42973,Pending,Hotel
+1497,6259,2026-04-29,Emergency,22960,Processed,System
+1498,10952,2024-10-17,Personal Issue,36215,Pending,Customer
+1499,10676,2024-06-20,Price Change,11967,Pending,System
+1500,10038,2025-12-22,Travel Restriction,16265,Pending,System
+1501,10218,2024-07-11,Price Change,9222,Pending,Hotel
+1502,2535,2025-01-28,Emergency,22502,Processed,Hotel
+1503,9114,2024-07-02,Personal Issue,30785,Pending,Customer
+1504,8294,2024-08-08,Personal Issue,25006,Pending,System
+1505,6902,2024-09-24,Price Change,48485,Pending,Customer
+1506,2700,2024-05-14,Emergency,9555,Processed,Customer
+1507,2750,2025-09-13,Emergency,11726,Processed,Customer
+1508,4613,2024-10-18,Travel Restriction,17520,Pending,System
+1509,8013,2024-07-01,Price Change,26718,Processed,Customer
+1510,2402,2025-12-24,Price Change,37701,Pending,System
+1511,10191,2024-06-04,Travel Restriction,18691,Pending,Hotel
+1512,2040,2025-09-26,Schedule Conflict,30528,Pending,Customer
+1513,4963,2025-09-18,Schedule Conflict,33924,Processed,System
+1514,602,2024-10-24,Health Issue,42245,Pending,Hotel
+1515,10984,2025-10-05,Price Change,21299,Processed,Customer
+1516,8350,2026-01-23,Price Change,2085,Pending,Hotel
+1517,3064,2025-01-13,Travel Restriction,5851,Pending,Customer
+1518,8555,2026-02-19,Personal Issue,3972,Processed,Hotel
+1519,4646,2024-05-19,Price Change,13821,Processed,Customer
+1520,9293,2026-03-03,Emergency,44077,Pending,Customer
+1521,8297,2024-12-14,Price Change,13415,Processed,Hotel
+1522,4604,2024-11-17,Price Change,3950,Pending,Customer
+1523,6213,2024-08-27,Price Change,26636,Pending,System
+1524,4355,2024-12-18,Schedule Conflict,9073,Pending,Hotel
+1525,8021,2025-06-02,Schedule Conflict,1557,Pending,System
+1526,9512,2024-08-17,Personal Issue,31472,Pending,System
+1527,4437,2026-03-19,Health Issue,19843,Pending,Customer
+1528,10074,2025-07-12,Schedule Conflict,46857,Pending,System
+1529,9371,2026-03-09,Health Issue,9403,Processed,System
+1530,4781,2024-12-03,Emergency,26645,Processed,Hotel
+1531,8942,2025-10-20,Personal Issue,14590,Processed,System
+1532,7030,2025-06-02,Price Change,21322,Pending,Customer
+1533,4191,2025-12-07,Schedule Conflict,8809,Processed,Customer
+1534,6708,2026-01-05,Price Change,38417,Pending,Hotel
+1535,8296,2024-07-13,Price Change,43102,Processed,System
+1536,10031,2024-09-08,Price Change,27276,Processed,System
+1537,8292,2024-09-27,Travel Restriction,38052,Pending,Customer
+1538,9866,2024-07-24,Personal Issue,44306,Processed,Customer
+1539,11333,2025-01-02,Health Issue,12047,Pending,Hotel
+1540,9291,2026-02-08,Schedule Conflict,15358,Pending,Hotel
+1541,2797,2026-04-29,Travel Restriction,43452,Processed,Hotel
+1542,10335,2026-04-11,Health Issue,3480,Processed,System
+1543,6112,2024-06-24,Schedule Conflict,30889,Processed,Customer
+1544,7095,2025-02-20,Emergency,46298,Pending,Hotel
+1545,8409,2025-06-22,Personal Issue,14805,Processed,System
+1546,8985,2025-01-30,Personal Issue,15525,Processed,Customer
+1547,10174,2026-03-27,Emergency,49166,Processed,Hotel
+1548,10901,2024-11-20,Personal Issue,1395,Pending,System
+1549,717,2025-09-29,Schedule Conflict,18152,Processed,Hotel
+1550,9066,2025-04-11,Emergency,6797,Pending,Customer
+1551,6941,2025-10-20,Emergency,49772,Processed,Customer
+1552,10801,2026-02-26,Personal Issue,11366,Processed,System
+1553,4731,2025-03-26,Personal Issue,15294,Processed,Customer
+1554,8499,2024-07-10,Health Issue,9897,Pending,System
+1555,7065,2025-05-01,Personal Issue,36114,Pending,Customer
+1556,7785,2025-10-14,Health Issue,5765,Pending,System
+1557,11126,2025-10-23,Schedule Conflict,17324,Processed,Hotel
+1558,4992,2025-05-28,Emergency,1838,Processed,Customer
+1559,2958,2026-01-31,Travel Restriction,42375,Pending,Hotel
+1560,4872,2025-08-22,Emergency,42589,Processed,Hotel
+1561,6869,2025-01-11,Price Change,14385,Processed,System
+1562,1361,2024-10-19,Price Change,31948,Pending,System
+1563,7288,2025-06-01,Emergency,1588,Processed,Hotel
+1564,9624,2025-12-23,Price Change,3533,Pending,Customer
+1565,4193,2026-04-29,Travel Restriction,49519,Pending,Hotel
+1566,6176,2025-07-23,Personal Issue,40463,Pending,System
+1567,2635,2025-05-24,Emergency,22842,Pending,System
+1568,4239,2024-07-10,Travel Restriction,20510,Pending,Customer
+1569,3949,2024-10-28,Emergency,47433,Pending,Hotel
+1570,1911,2025-08-31,Travel Restriction,46971,Pending,Customer
+1571,11738,2024-05-17,Price Change,22806,Pending,Customer
+1572,2274,2025-01-11,Emergency,34960,Pending,Hotel
+1573,4231,2025-07-16,Schedule Conflict,47769,Pending,Hotel
+1574,9102,2025-02-17,Schedule Conflict,35787,Processed,Customer
+1575,5208,2026-04-01,Schedule Conflict,38521,Pending,Customer
+1576,4327,2024-06-12,Emergency,18211,Processed,Customer
+1577,8539,2024-07-04,Price Change,47143,Processed,System
+1578,2550,2025-05-17,Personal Issue,17414,Pending,System
+1579,21,2026-05-08,Emergency,19728,Processed,Customer
+1580,9670,2024-11-08,Emergency,37199,Processed,System
+1581,6001,2025-12-20,Price Change,30001,Processed,Customer
+1582,3983,2025-11-25,Price Change,14589,Processed,System
+1583,1230,2025-02-28,Emergency,32383,Pending,Hotel
+1584,7475,2025-05-05,Schedule Conflict,48064,Pending,Customer
+1585,5535,2025-07-30,Travel Restriction,13736,Pending,System
+1586,9588,2024-10-23,Health Issue,22399,Processed,Hotel
+1587,6073,2026-02-16,Schedule Conflict,45416,Pending,Customer
+1588,11129,2025-07-17,Personal Issue,3864,Pending,Hotel
+1589,3898,2025-11-23,Emergency,46545,Processed,System
+1590,6064,2024-09-23,Schedule Conflict,12284,Pending,Hotel
+1591,755,2025-03-24,Price Change,41207,Processed,Hotel
+1592,10941,2026-03-25,Price Change,33322,Pending,Customer
+1593,3925,2026-04-17,Price Change,35839,Pending,Customer
+1594,3823,2024-07-14,Emergency,20111,Processed,Hotel
+1595,3752,2025-03-31,Schedule Conflict,26353,Processed,Hotel
+1596,7138,2025-01-09,Price Change,27683,Pending,System
+1597,2914,2024-09-06,Health Issue,12605,Pending,Customer
+1598,1607,2024-05-10,Price Change,47573,Pending,Hotel
+1599,6366,2026-04-24,Emergency,38177,Pending,Customer
+1600,11628,2025-01-11,Travel Restriction,17125,Pending,System
+1601,8926,2024-07-29,Health Issue,22175,Processed,Hotel
+1602,3562,2026-02-06,Price Change,6355,Pending,System
+1603,7470,2024-07-01,Price Change,33305,Pending,System
+1604,4000,2025-11-24,Price Change,3022,Processed,Customer
+1605,4841,2024-09-18,Personal Issue,13120,Processed,Customer
+1606,11651,2026-01-13,Personal Issue,1170,Processed,System
+1607,6556,2025-11-14,Travel Restriction,21115,Pending,Hotel
+1608,5790,2025-11-23,Schedule Conflict,24481,Pending,System
+1609,5789,2024-11-02,Schedule Conflict,7645,Processed,System
+1610,146,2024-07-17,Emergency,26519,Pending,System
+1611,2614,2025-01-04,Personal Issue,20803,Pending,System
+1612,11695,2025-09-13,Personal Issue,10539,Pending,Customer
+1613,4191,2025-06-06,Personal Issue,4914,Pending,Hotel
+1614,10005,2024-11-25,Travel Restriction,49169,Processed,Customer
+1615,5913,2025-12-23,Health Issue,13379,Processed,Customer
+1616,10185,2025-06-07,Schedule Conflict,24200,Processed,Hotel
+1617,8790,2026-01-30,Price Change,14442,Processed,System
+1618,3562,2024-12-17,Emergency,45361,Pending,System
+1619,3818,2026-03-25,Price Change,37287,Processed,Hotel
+1620,9867,2026-02-03,Price Change,13415,Pending,Customer
+1621,2477,2025-01-07,Price Change,29432,Pending,System
+1622,4973,2025-11-04,Emergency,16279,Pending,System
+1623,3314,2025-02-27,Price Change,8292,Processed,System
+1624,2064,2025-02-11,Schedule Conflict,36846,Processed,Hotel
+1625,9529,2024-08-10,Travel Restriction,46369,Pending,Customer
+1626,1993,2026-01-04,Travel Restriction,47325,Processed,Hotel
+1627,8592,2024-12-12,Personal Issue,1860,Pending,System
+1628,4816,2026-04-09,Emergency,28612,Pending,Hotel
+1629,1782,2026-04-11,Price Change,25503,Pending,Customer
+1630,4487,2026-03-09,Health Issue,13855,Processed,Customer
+1631,7184,2025-05-23,Personal Issue,28519,Pending,System
+1632,5831,2024-09-25,Personal Issue,4476,Processed,System
+1633,11440,2025-02-18,Personal Issue,15760,Pending,Customer
+1634,4884,2025-12-04,Emergency,27187,Processed,Customer
+1635,10252,2024-11-24,Travel Restriction,12422,Processed,Hotel
+1636,11767,2024-06-25,Schedule Conflict,10186,Pending,System
+1637,11845,2025-03-03,Emergency,7830,Pending,Hotel
+1638,7055,2024-11-02,Health Issue,18682,Processed,Customer
+1639,3950,2026-02-09,Personal Issue,32911,Pending,System
+1640,9719,2024-07-21,Emergency,3695,Processed,Hotel
+1641,1275,2025-12-08,Schedule Conflict,19334,Pending,Customer
+1642,8079,2024-12-07,Travel Restriction,14816,Processed,Hotel
+1643,7872,2024-07-28,Schedule Conflict,42991,Pending,Hotel
+1644,7950,2024-09-14,Personal Issue,28530,Processed,Hotel
+1645,1079,2024-06-19,Health Issue,37870,Processed,Customer
+1646,9358,2024-10-15,Health Issue,9355,Processed,System
+1647,9850,2025-03-08,Schedule Conflict,3826,Processed,Hotel
+1648,1780,2026-01-01,Personal Issue,21668,Pending,System
+1649,9748,2025-06-05,Price Change,6238,Processed,Customer
+1650,234,2025-11-25,Personal Issue,20241,Pending,Customer
+1651,1589,2026-04-22,Schedule Conflict,14255,Pending,Hotel
+1652,8301,2025-02-19,Travel Restriction,18806,Pending,Customer
+1653,9397,2025-10-12,Personal Issue,45160,Pending,System
+1654,5581,2024-08-20,Health Issue,34410,Processed,Customer
+1655,11928,2025-07-31,Schedule Conflict,39132,Pending,System
+1656,9756,2025-07-03,Emergency,19542,Processed,Hotel
+1657,7260,2025-11-11,Emergency,25207,Processed,Customer
+1658,4010,2025-12-20,Personal Issue,11350,Pending,Hotel
+1659,215,2026-01-28,Travel Restriction,33832,Processed,System
+1660,3251,2025-08-26,Emergency,40690,Processed,System
+1661,2992,2026-03-26,Travel Restriction,40704,Processed,Customer
+1662,11406,2025-02-02,Personal Issue,18897,Pending,Customer
+1663,4665,2024-06-27,Travel Restriction,10474,Pending,Customer
+1664,11800,2026-01-17,Schedule Conflict,19736,Processed,Customer
+1665,8183,2026-02-13,Price Change,44093,Pending,Customer
+1666,8324,2025-10-05,Schedule Conflict,28263,Processed,System
+1667,6337,2026-05-09,Health Issue,39227,Pending,System
+1668,6744,2025-10-28,Emergency,44657,Processed,System
+1669,3314,2025-08-17,Travel Restriction,2610,Processed,Hotel
+1670,8687,2024-06-12,Personal Issue,25611,Processed,Customer
+1671,1891,2024-09-08,Price Change,45072,Pending,Hotel
+1672,4030,2025-04-16,Travel Restriction,14517,Pending,System
+1673,3497,2025-04-27,Health Issue,8911,Processed,Hotel
+1674,4450,2025-10-22,Emergency,37893,Pending,Customer
+1675,1286,2024-12-13,Emergency,27656,Pending,Hotel
+1676,11940,2024-12-09,Price Change,9540,Processed,Customer
+1677,4406,2024-06-21,Price Change,2623,Pending,Hotel
+1678,7618,2024-06-27,Health Issue,40920,Pending,System
+1679,9031,2025-06-05,Health Issue,16113,Pending,Customer
+1680,649,2024-09-13,Emergency,28296,Pending,Hotel
+1681,8057,2025-07-19,Emergency,12453,Processed,Customer
+1682,7567,2026-04-23,Personal Issue,22467,Pending,Hotel
+1683,4596,2025-09-28,Price Change,10684,Pending,Customer
+1684,7126,2025-10-16,Personal Issue,4506,Pending,System
+1685,10437,2025-07-29,Emergency,45338,Processed,Customer
+1686,3770,2026-04-05,Emergency,34324,Processed,Hotel
+1687,5739,2026-04-28,Personal Issue,36483,Pending,Hotel
+1688,8487,2024-06-23,Price Change,37332,Pending,System
+1689,3345,2024-05-20,Health Issue,5180,Pending,System
+1690,3844,2024-05-27,Emergency,31218,Pending,Customer
+1691,3069,2025-01-07,Health Issue,1115,Processed,System
+1692,8034,2025-10-10,Health Issue,30766,Processed,Hotel
+1693,3520,2025-09-08,Travel Restriction,22557,Processed,Customer
+1694,9047,2024-11-01,Personal Issue,39097,Processed,Customer
+1695,11166,2025-01-18,Schedule Conflict,34003,Processed,Customer
+1696,1498,2025-01-09,Personal Issue,5935,Pending,Customer
+1697,7530,2026-04-11,Schedule Conflict,48038,Pending,Customer
+1698,9485,2024-07-24,Emergency,44721,Pending,System
+1699,7539,2024-05-15,Health Issue,1487,Processed,Customer
+1700,3749,2024-08-15,Health Issue,3524,Processed,System
+1701,6278,2025-06-25,Price Change,42427,Pending,Customer
+1702,6626,2026-04-24,Schedule Conflict,15153,Processed,Customer
+1703,1466,2025-08-27,Travel Restriction,18500,Processed,Hotel
+1704,5533,2025-04-16,Emergency,3517,Pending,Customer
+1705,6939,2024-05-24,Schedule Conflict,38966,Pending,Customer
+1706,9147,2024-12-11,Emergency,32251,Processed,System
+1707,2971,2024-07-02,Emergency,24485,Processed,Hotel
+1708,10849,2024-08-10,Personal Issue,46478,Processed,Hotel
+1709,8699,2024-12-06,Health Issue,7613,Processed,System
+1710,7712,2024-05-11,Emergency,49400,Processed,Customer
+1711,1160,2025-06-01,Health Issue,49871,Processed,System
+1712,426,2025-12-03,Price Change,47432,Processed,Customer
+1713,95,2025-11-08,Personal Issue,18752,Pending,System
+1714,10533,2024-08-04,Schedule Conflict,33063,Processed,Hotel
+1715,9087,2024-10-15,Travel Restriction,33623,Processed,Customer
+1716,666,2024-07-31,Travel Restriction,40891,Pending,Hotel
+1717,8521,2025-08-23,Price Change,13849,Pending,System
+1718,10390,2024-09-06,Personal Issue,4083,Processed,Customer
+1719,4513,2024-07-26,Schedule Conflict,32643,Processed,Customer
+1720,9626,2024-10-31,Travel Restriction,24426,Pending,Hotel
+1721,9667,2024-07-28,Schedule Conflict,41075,Pending,System
+1722,3002,2024-08-02,Personal Issue,13067,Pending,Hotel
+1723,504,2026-03-29,Personal Issue,46934,Pending,Customer
+1724,10589,2024-10-20,Personal Issue,35958,Processed,Hotel
+1725,1263,2026-03-09,Personal Issue,7727,Pending,Customer
+1726,6665,2025-07-21,Health Issue,29987,Processed,Hotel
+1727,6293,2024-07-08,Personal Issue,7591,Pending,Customer
+1728,4249,2024-12-27,Emergency,6906,Processed,Customer
+1729,6449,2025-03-27,Emergency,36250,Pending,Hotel
+1730,65,2024-11-27,Price Change,33855,Pending,System
+1731,886,2025-05-09,Price Change,6860,Processed,Customer
+1732,4430,2024-05-15,Price Change,23318,Pending,System
+1733,4023,2025-01-14,Travel Restriction,15661,Pending,System
+1734,898,2025-07-13,Health Issue,28404,Pending,System
+1735,7908,2025-08-24,Price Change,8683,Pending,Customer
+1736,6628,2026-02-25,Health Issue,11610,Pending,System
+1737,10557,2025-12-10,Emergency,31512,Pending,System
+1738,1260,2025-08-15,Travel Restriction,21145,Pending,System
+1739,5626,2025-01-21,Travel Restriction,15314,Processed,System
+1740,7537,2025-07-29,Personal Issue,32426,Processed,System
+1741,356,2025-05-01,Personal Issue,5971,Pending,Hotel
+1742,7834,2025-09-06,Personal Issue,47333,Processed,System
+1743,1330,2026-01-31,Schedule Conflict,7522,Pending,System
+1744,11633,2025-06-18,Schedule Conflict,25182,Processed,Hotel
+1745,8054,2025-06-21,Travel Restriction,7478,Processed,Hotel
+1746,2487,2024-08-06,Health Issue,19156,Processed,Customer
+1747,5320,2026-02-17,Price Change,47819,Processed,System
+1748,5631,2025-04-21,Schedule Conflict,1166,Pending,Hotel
+1749,8542,2024-07-03,Schedule Conflict,6159,Processed,Hotel
+1750,2303,2026-01-19,Travel Restriction,4158,Pending,Customer
+1751,7185,2025-09-10,Travel Restriction,36253,Pending,System
+1752,9547,2024-08-23,Emergency,49884,Pending,Hotel
+1753,1045,2025-01-29,Schedule Conflict,46355,Processed,Hotel
+1754,10376,2025-11-15,Travel Restriction,9233,Pending,Customer
+1755,6541,2025-01-04,Personal Issue,12018,Processed,Customer
+1756,5064,2025-11-09,Emergency,30496,Processed,System
+1757,616,2025-04-04,Travel Restriction,40194,Pending,Hotel
+1758,11651,2024-10-26,Price Change,9966,Processed,Hotel
+1759,10758,2024-12-10,Price Change,47822,Pending,System
+1760,4786,2025-01-13,Schedule Conflict,23038,Pending,Customer
+1761,6475,2026-01-29,Emergency,10639,Pending,Hotel
+1762,841,2025-07-25,Health Issue,7510,Processed,Hotel
+1763,9367,2024-08-05,Schedule Conflict,5565,Pending,System
+1764,1238,2025-04-23,Personal Issue,20145,Pending,System
+1765,5487,2024-08-04,Emergency,22678,Pending,System
+1766,1692,2025-10-27,Personal Issue,46399,Pending,System
+1767,4649,2025-06-08,Emergency,49261,Processed,Customer
+1768,3918,2025-04-09,Price Change,20775,Processed,Hotel
+1769,1743,2024-09-21,Price Change,34933,Pending,System
+1770,8959,2024-08-16,Price Change,32237,Pending,System
+1771,10410,2024-09-13,Travel Restriction,49051,Processed,Customer
+1772,8934,2026-02-03,Price Change,6101,Pending,System
+1773,9482,2024-05-24,Health Issue,49585,Pending,System
+1774,3301,2024-12-26,Personal Issue,47436,Processed,Hotel
+1775,1836,2024-06-18,Personal Issue,47380,Processed,Customer
+1776,6263,2026-01-12,Personal Issue,18605,Pending,Customer
+1777,9679,2025-01-28,Health Issue,30589,Pending,Customer
+1778,2945,2025-12-14,Emergency,39917,Processed,Hotel
+1779,6483,2025-11-25,Personal Issue,44628,Pending,System
+1780,3943,2025-03-15,Personal Issue,1862,Pending,Hotel
+1781,6110,2024-12-01,Health Issue,4247,Processed,Customer
+1782,10210,2025-12-02,Personal Issue,48475,Processed,Customer
+1783,1851,2024-08-07,Travel Restriction,13681,Pending,Hotel
+1784,8686,2025-07-29,Schedule Conflict,27731,Processed,Hotel
+1785,8262,2026-02-10,Travel Restriction,40862,Pending,Customer
+1786,3754,2024-06-02,Travel Restriction,23305,Pending,Customer
+1787,11948,2024-09-23,Travel Restriction,28679,Pending,Customer
+1788,3299,2024-08-10,Personal Issue,12611,Processed,Customer
+1789,2627,2024-07-24,Emergency,39908,Processed,System
+1790,8190,2024-06-13,Travel Restriction,37829,Processed,System
+1791,2684,2024-06-10,Travel Restriction,18943,Processed,Customer
+1792,6385,2024-09-12,Price Change,18959,Processed,Customer
+1793,5807,2025-05-23,Travel Restriction,36693,Processed,System
+1794,7144,2025-07-29,Travel Restriction,45030,Processed,Hotel
+1795,8615,2025-12-24,Health Issue,9144,Pending,Hotel
+1796,5208,2025-06-25,Health Issue,13286,Processed,System
+1797,8441,2025-12-25,Personal Issue,45420,Pending,Customer
+1798,3473,2025-02-08,Emergency,19187,Pending,System
+1799,2105,2025-01-07,Travel Restriction,4564,Pending,Hotel
+1800,8522,2026-01-02,Emergency,27556,Pending,Hotel
+1801,9087,2025-09-26,Personal Issue,24786,Pending,Customer
+1802,11921,2024-05-12,Price Change,34359,Processed,System
+1803,10128,2025-09-08,Personal Issue,31815,Pending,System
+1804,3987,2025-01-07,Personal Issue,16179,Pending,Customer
+1805,11068,2024-10-01,Price Change,27955,Processed,System
+1806,1506,2024-06-15,Travel Restriction,11059,Processed,System
+1807,6447,2025-08-27,Price Change,31781,Pending,Customer
+1808,9439,2026-03-10,Travel Restriction,20671,Pending,Hotel
+1809,11677,2025-04-22,Schedule Conflict,2496,Processed,Customer
+1810,1260,2024-10-13,Schedule Conflict,25987,Pending,System
+1811,9887,2025-09-27,Personal Issue,15363,Pending,System
+1812,833,2025-12-26,Personal Issue,12840,Pending,Customer
+1813,115,2025-01-11,Personal Issue,12199,Pending,Customer
+1814,3688,2024-12-08,Travel Restriction,39069,Processed,System
+1815,1852,2025-11-27,Personal Issue,7322,Processed,System
+1816,5546,2026-01-03,Personal Issue,17617,Processed,Customer
+1817,9539,2026-04-08,Travel Restriction,31378,Processed,System
+1818,3761,2024-12-08,Health Issue,15619,Processed,System
+1819,11357,2026-01-27,Travel Restriction,12380,Processed,Hotel
+1820,7466,2024-11-15,Travel Restriction,11189,Processed,Hotel
+1821,10430,2025-01-25,Personal Issue,16926,Pending,System
+1822,8619,2024-06-06,Emergency,12132,Pending,Hotel
+1823,4486,2024-08-06,Health Issue,19737,Pending,System
+1824,11817,2026-04-26,Travel Restriction,33658,Processed,Hotel
+1825,7840,2025-02-10,Personal Issue,6485,Processed,System
+1826,402,2026-01-16,Personal Issue,30683,Processed,Hotel
+1827,6319,2026-03-03,Emergency,41110,Processed,Hotel
+1828,9885,2026-03-18,Travel Restriction,40363,Pending,System
+1829,9589,2026-02-15,Price Change,45527,Processed,System
+1830,4673,2026-04-23,Health Issue,46762,Processed,Customer
+1831,98,2025-10-07,Personal Issue,14304,Processed,Customer
+1832,1308,2025-04-01,Health Issue,33116,Pending,System
+1833,6672,2025-12-30,Personal Issue,11680,Processed,Hotel
+1834,7835,2025-06-11,Schedule Conflict,38934,Pending,Hotel
+1835,1935,2024-09-29,Emergency,4399,Pending,Hotel
+1836,2136,2025-06-17,Travel Restriction,48668,Pending,System
+1837,4475,2025-02-28,Price Change,45802,Pending,Customer
+1838,9431,2024-07-22,Emergency,25401,Processed,Hotel
+1839,2629,2025-01-24,Price Change,8166,Processed,Customer
+1840,9886,2024-07-10,Emergency,1496,Pending,Customer
+1841,179,2024-10-29,Price Change,35355,Processed,Customer
+1842,1176,2025-08-12,Health Issue,27823,Pending,Customer
+1843,6517,2025-04-07,Schedule Conflict,27917,Processed,Hotel
+1844,7460,2025-01-16,Schedule Conflict,45530,Processed,Hotel
+1845,8405,2025-10-08,Price Change,10494,Pending,Customer
+1846,537,2025-12-10,Travel Restriction,16771,Pending,System
+1847,9163,2024-10-25,Health Issue,10139,Processed,System
+1848,168,2025-04-10,Personal Issue,5032,Processed,System
+1849,2198,2026-05-05,Schedule Conflict,26650,Pending,Customer
+1850,9139,2025-04-21,Schedule Conflict,35130,Pending,Customer
+1851,1702,2024-08-05,Emergency,44846,Processed,Hotel
+1852,2751,2026-05-03,Schedule Conflict,17290,Processed,System
+1853,3714,2025-09-16,Travel Restriction,18686,Processed,System
+1854,4726,2025-10-11,Personal Issue,47871,Pending,System
+1855,1756,2026-03-30,Schedule Conflict,34039,Processed,System
+1856,8046,2026-01-09,Health Issue,31930,Processed,Customer
+1857,11602,2024-08-04,Personal Issue,32122,Pending,System
+1858,5338,2024-06-29,Travel Restriction,38821,Pending,Hotel
+1859,7986,2025-09-30,Emergency,16034,Processed,System
+1860,6041,2026-03-19,Personal Issue,17484,Pending,Customer
+1861,4015,2025-09-02,Health Issue,41627,Processed,Hotel
+1862,3058,2025-03-31,Personal Issue,35049,Processed,System
+1863,5879,2024-12-23,Personal Issue,6087,Processed,Customer
+1864,6849,2025-12-16,Travel Restriction,37770,Pending,Hotel
+1865,8360,2025-10-18,Price Change,7107,Pending,Hotel
+1866,10258,2025-04-18,Health Issue,7981,Pending,Hotel
+1867,8511,2024-09-16,Health Issue,37117,Processed,System
+1868,976,2025-04-16,Schedule Conflict,38332,Pending,System
+1869,872,2025-03-20,Schedule Conflict,20896,Processed,Hotel
+1870,3283,2025-02-24,Schedule Conflict,25645,Pending,Hotel
+1871,3309,2025-03-14,Price Change,5978,Processed,System
+1872,345,2025-01-22,Travel Restriction,12170,Processed,Hotel
+1873,88,2025-05-19,Personal Issue,48823,Processed,System
+1874,9082,2025-10-01,Schedule Conflict,42982,Pending,Customer
+1875,3107,2025-12-11,Personal Issue,48112,Processed,Hotel
+1876,3268,2025-03-16,Emergency,32969,Processed,Hotel
+1877,3747,2026-03-25,Travel Restriction,24929,Processed,System
+1878,2143,2024-07-09,Price Change,31348,Pending,Customer
+1879,5161,2024-06-20,Price Change,27889,Pending,Hotel
+1880,10648,2024-10-21,Emergency,19207,Pending,System
+1881,2158,2026-01-02,Personal Issue,24751,Pending,System
+1882,1494,2026-04-15,Travel Restriction,14245,Pending,System
+1883,5577,2026-03-06,Schedule Conflict,46095,Processed,Customer
+1884,9517,2025-08-11,Health Issue,23570,Processed,System
+1885,10742,2024-10-28,Travel Restriction,15837,Processed,Hotel
+1886,1739,2024-09-04,Travel Restriction,37094,Pending,Customer
+1887,7458,2025-12-09,Personal Issue,25856,Processed,Customer
+1888,5508,2025-04-06,Emergency,20602,Pending,Hotel
+1889,7614,2025-07-19,Health Issue,19733,Processed,Hotel
+1890,1860,2024-05-27,Schedule Conflict,2053,Processed,System
+1891,2343,2024-07-02,Price Change,15627,Pending,Customer
+1892,6387,2025-02-09,Schedule Conflict,22674,Processed,System
+1893,10823,2025-04-05,Travel Restriction,24089,Pending,Hotel
+1894,8275,2025-08-09,Price Change,44674,Pending,System
+1895,2748,2025-05-31,Personal Issue,26820,Pending,Hotel
+1896,4640,2024-08-23,Personal Issue,40985,Pending,System
+1897,2674,2026-04-28,Emergency,45109,Processed,System
+1898,8324,2025-07-30,Travel Restriction,46575,Pending,Hotel
+1899,10611,2024-09-29,Personal Issue,42991,Processed,System
+1900,7066,2024-07-04,Travel Restriction,42794,Processed,Hotel
+1901,5374,2025-02-21,Price Change,44240,Processed,System
+1902,1435,2025-04-06,Health Issue,33199,Pending,Customer
+1903,10128,2025-05-24,Travel Restriction,21428,Processed,System
+1904,962,2025-12-09,Travel Restriction,48094,Processed,Hotel
+1905,1211,2025-01-04,Price Change,38185,Pending,Customer
+1906,2465,2026-02-19,Schedule Conflict,43449,Pending,System
+1907,7103,2025-11-12,Health Issue,43275,Processed,Customer
+1908,645,2026-01-25,Travel Restriction,31433,Processed,System
+1909,8145,2025-10-13,Health Issue,43676,Pending,System
+1910,4109,2025-04-18,Travel Restriction,39655,Processed,System
+1911,7683,2025-11-21,Emergency,42049,Pending,Customer
+1912,11212,2025-06-29,Travel Restriction,36137,Pending,Customer
+1913,9397,2024-10-13,Travel Restriction,6639,Pending,Customer
+1914,3808,2024-08-14,Travel Restriction,29208,Pending,Hotel
+1915,2480,2025-06-01,Travel Restriction,21383,Pending,Customer
+1916,1690,2026-03-13,Health Issue,42404,Pending,System
+1917,1233,2024-10-18,Health Issue,6245,Processed,Hotel
+1918,10427,2025-12-16,Schedule Conflict,17933,Processed,Customer
+1919,2895,2025-12-25,Health Issue,47509,Processed,System
+1920,11383,2024-10-13,Emergency,7363,Processed,Customer
+1921,1455,2025-03-09,Health Issue,44326,Processed,System
+1922,1621,2024-10-29,Travel Restriction,24015,Processed,System
+1923,1353,2025-07-24,Price Change,43075,Pending,Hotel
+1924,6010,2025-09-19,Personal Issue,15595,Pending,Customer
+1925,10166,2024-11-04,Personal Issue,14585,Processed,Hotel
+1926,6344,2024-11-07,Travel Restriction,17365,Processed,Hotel
+1927,5163,2025-03-07,Personal Issue,16275,Processed,Customer
+1928,2579,2025-07-24,Price Change,42882,Pending,Hotel
+1929,9854,2025-08-10,Schedule Conflict,41658,Pending,Hotel
+1930,735,2024-10-25,Health Issue,9589,Processed,Customer
+1931,4428,2025-02-04,Emergency,45641,Pending,Hotel
+1932,14,2024-07-17,Emergency,3261,Processed,Customer
+1933,7230,2024-07-31,Emergency,43796,Pending,System
+1934,4060,2025-08-07,Emergency,40020,Processed,Customer
+1935,1555,2025-04-03,Schedule Conflict,22255,Processed,Hotel
+1936,5415,2025-10-03,Emergency,36748,Pending,System
+1937,2540,2024-11-22,Travel Restriction,11071,Processed,Hotel
+1938,9082,2025-01-25,Personal Issue,40852,Pending,Customer
+1939,10661,2026-02-25,Health Issue,2002,Pending,Customer
+1940,9146,2025-10-06,Price Change,3414,Pending,Customer
+1941,4244,2025-01-15,Personal Issue,19319,Processed,System
+1942,9262,2024-08-05,Personal Issue,15203,Processed,Customer
+1943,1404,2025-12-10,Health Issue,40699,Pending,System
+1944,9127,2025-11-15,Emergency,40493,Processed,Customer
+1945,8140,2024-10-06,Personal Issue,26627,Pending,Hotel
+1946,955,2024-06-12,Schedule Conflict,34374,Pending,Hotel
+1947,8674,2025-07-26,Travel Restriction,45585,Pending,Customer
+1948,6201,2025-11-20,Schedule Conflict,44926,Processed,System
+1949,11296,2024-10-07,Personal Issue,29013,Pending,Customer
+1950,1838,2025-12-01,Emergency,43661,Pending,Customer
+1951,9018,2025-05-01,Travel Restriction,26879,Processed,System
+1952,3526,2024-12-24,Emergency,1251,Processed,Customer
+1953,6812,2024-12-29,Schedule Conflict,46426,Processed,Hotel
+1954,8041,2025-12-01,Emergency,18541,Processed,Hotel
+1955,3757,2024-08-23,Price Change,23657,Processed,Customer
+1956,2851,2025-11-19,Emergency,13409,Processed,Hotel
+1957,7786,2024-12-25,Emergency,36854,Pending,Hotel
+1958,10706,2024-08-06,Health Issue,44491,Pending,System
+1959,9158,2024-06-27,Schedule Conflict,2144,Pending,Hotel
+1960,9057,2025-11-09,Emergency,37614,Processed,Customer
+1961,5522,2025-10-09,Price Change,37810,Processed,System
+1962,9026,2025-04-20,Personal Issue,5850,Processed,System
+1963,1667,2026-02-03,Schedule Conflict,27353,Pending,System
+1964,7786,2024-07-31,Travel Restriction,39101,Processed,System
+1965,6003,2024-05-31,Health Issue,18011,Pending,Hotel
+1966,7159,2026-02-04,Emergency,6640,Pending,Hotel
+1967,4228,2024-07-08,Schedule Conflict,8933,Processed,Customer
+1968,7183,2026-03-01,Emergency,31575,Processed,Customer
+1969,2643,2025-04-10,Health Issue,27263,Pending,System
+1970,11201,2024-07-15,Travel Restriction,24061,Pending,Hotel
+1971,4311,2025-03-23,Health Issue,46442,Processed,System
+1972,6989,2025-11-11,Travel Restriction,14177,Pending,Customer
+1973,5200,2025-06-28,Travel Restriction,18300,Pending,System
+1974,869,2025-01-13,Price Change,48922,Pending,Hotel
+1975,1052,2025-09-18,Personal Issue,33923,Processed,Customer
+1976,7088,2025-09-02,Schedule Conflict,21582,Processed,Customer
+1977,8484,2025-10-10,Health Issue,9669,Pending,Hotel
+1978,10827,2024-11-13,Emergency,11001,Pending,Hotel
+1979,9734,2025-08-01,Price Change,13188,Pending,Hotel
+1980,1613,2025-09-12,Emergency,16075,Pending,Hotel
+1981,3587,2024-10-10,Schedule Conflict,7815,Processed,Customer
+1982,6659,2026-01-09,Travel Restriction,15939,Processed,Customer
+1983,2405,2024-08-31,Travel Restriction,47307,Pending,Customer
+1984,7924,2024-08-03,Schedule Conflict,37554,Pending,Hotel
+1985,6632,2025-01-06,Emergency,6018,Pending,Hotel
+1986,4762,2026-01-16,Price Change,34947,Processed,System
+1987,8264,2026-01-09,Travel Restriction,49174,Pending,System
+1988,9936,2024-07-26,Schedule Conflict,23627,Pending,System
+1989,6301,2024-07-12,Price Change,47074,Processed,System
+1990,9438,2025-11-06,Price Change,41268,Processed,Hotel
+1991,5449,2026-01-02,Health Issue,3481,Processed,Hotel
+1992,9673,2024-11-13,Emergency,25477,Processed,Hotel
+1993,8893,2025-01-18,Travel Restriction,42764,Pending,Customer
+1994,8598,2025-05-23,Travel Restriction,44398,Processed,Customer
+1995,1639,2024-06-03,Travel Restriction,33695,Pending,System
+1996,8382,2025-06-25,Travel Restriction,16266,Pending,Customer
+1997,726,2025-08-10,Travel Restriction,16845,Pending,System
+1998,10826,2025-01-31,Personal Issue,5320,Processed,Hotel
+1999,1865,2025-03-01,Price Change,7565,Processed,Hotel
+2000,9665,2026-01-12,Schedule Conflict,22975,Processed,Customer
+2001,6751,2025-08-12,Price Change,1779,Processed,System
+2002,7740,2024-06-12,Health Issue,35751,Pending,System
+2003,4771,2026-04-05,Price Change,10584,Processed,Customer
+2004,4272,2025-06-13,Personal Issue,25520,Processed,System
+2005,4660,2024-06-04,Schedule Conflict,13014,Pending,System
+2006,5350,2024-06-28,Health Issue,44229,Processed,Hotel
+2007,11737,2024-05-28,Travel Restriction,48848,Processed,Customer
+2008,8664,2024-10-05,Personal Issue,18822,Processed,Customer
+2009,4027,2026-01-01,Price Change,18535,Pending,System
+2010,1508,2025-12-15,Schedule Conflict,33500,Processed,Hotel
+2011,7541,2025-04-25,Personal Issue,35042,Pending,Customer
+2012,1308,2024-07-31,Health Issue,38915,Pending,System
+2013,7912,2026-04-19,Schedule Conflict,20886,Processed,Hotel
+2014,6194,2024-06-16,Personal Issue,47207,Processed,Hotel
+2015,2239,2024-12-03,Emergency,36531,Processed,Hotel
+2016,7859,2026-02-16,Personal Issue,7997,Pending,Customer
+2017,1352,2025-05-26,Schedule Conflict,14971,Processed,System
+2018,7417,2026-04-20,Price Change,25135,Pending,Customer
+2019,6062,2025-03-11,Schedule Conflict,36021,Processed,System
+2020,5008,2025-10-10,Travel Restriction,11159,Pending,Customer
+2021,3994,2025-06-02,Emergency,41117,Pending,Hotel
+2022,10780,2026-02-08,Health Issue,23668,Processed,Customer
+2023,4769,2025-04-14,Schedule Conflict,17772,Pending,Hotel
+2024,9807,2025-07-31,Price Change,29403,Pending,Customer
+2025,10836,2024-07-07,Price Change,35531,Pending,Hotel
+2026,307,2024-10-19,Price Change,32460,Processed,System
+2027,7354,2025-08-21,Personal Issue,29419,Processed,Customer
+2028,1215,2024-10-23,Personal Issue,1315,Pending,System
+2029,6652,2025-12-28,Emergency,2078,Pending,Customer
+2030,7728,2024-10-22,Emergency,17048,Processed,System
+2031,8056,2024-11-02,Travel Restriction,31631,Pending,Hotel
+2032,10230,2024-08-24,Personal Issue,40906,Processed,Hotel
+2033,5549,2024-07-28,Schedule Conflict,28808,Processed,System
+2034,255,2024-07-17,Personal Issue,40843,Pending,Customer
+2035,947,2026-02-07,Personal Issue,46061,Processed,Hotel
+2036,4602,2024-07-16,Personal Issue,35174,Processed,System
+2037,1103,2026-01-30,Health Issue,5776,Pending,Customer
+2038,6569,2024-05-31,Travel Restriction,32958,Processed,Hotel
+2039,4546,2026-03-12,Schedule Conflict,39379,Pending,System
+2040,2241,2025-02-28,Travel Restriction,36663,Pending,Customer
+2041,1699,2025-07-06,Price Change,10923,Processed,System
+2042,8548,2024-08-13,Health Issue,18637,Pending,System
+2043,6244,2024-12-28,Personal Issue,22200,Processed,System
+2044,8080,2024-10-14,Emergency,36489,Processed,Hotel
+2045,10236,2025-04-26,Schedule Conflict,14606,Processed,System
+2046,6820,2024-12-30,Schedule Conflict,45297,Pending,Hotel
+2047,4418,2024-11-06,Personal Issue,39918,Pending,Hotel
+2048,7837,2024-12-12,Personal Issue,20041,Processed,System
+2049,1645,2026-04-22,Price Change,39208,Pending,Customer
+2050,7477,2026-02-20,Personal Issue,41360,Processed,System
+2051,7959,2026-03-28,Schedule Conflict,24840,Processed,Hotel
+2052,11917,2024-10-15,Travel Restriction,14939,Pending,System
+2053,10786,2025-05-14,Health Issue,36418,Pending,System
+2054,7455,2025-08-26,Price Change,33658,Processed,Hotel
+2055,6174,2025-10-26,Travel Restriction,4551,Pending,Customer
+2056,8648,2025-06-09,Schedule Conflict,21449,Pending,Hotel
+2057,1406,2025-12-13,Emergency,33904,Processed,Customer
+2058,9363,2025-01-31,Price Change,25919,Pending,System
+2059,7789,2025-03-06,Travel Restriction,19864,Pending,Hotel
+2060,13,2025-03-05,Travel Restriction,12237,Pending,Customer
+2061,7908,2024-09-17,Travel Restriction,3977,Pending,Hotel
+2062,7069,2025-09-26,Price Change,14281,Processed,Hotel
+2063,10924,2025-02-09,Health Issue,15068,Pending,Hotel
+2064,829,2025-11-07,Emergency,40738,Pending,System
+2065,10547,2026-04-30,Schedule Conflict,35711,Pending,System
+2066,4845,2025-08-31,Schedule Conflict,41851,Processed,System
+2067,11771,2024-06-12,Schedule Conflict,5772,Pending,System
+2068,6413,2025-11-10,Price Change,20656,Pending,System
+2069,9246,2025-02-03,Travel Restriction,26572,Processed,System
+2070,3934,2025-07-13,Health Issue,42994,Pending,Hotel
+2071,6480,2024-07-24,Personal Issue,45981,Processed,Customer
+2072,9952,2024-11-26,Health Issue,6704,Processed,System
+2073,8931,2026-04-04,Price Change,24861,Processed,System
+2074,8372,2025-08-03,Personal Issue,43274,Pending,Customer
+2075,11995,2025-10-20,Travel Restriction,42237,Processed,Customer
+2076,950,2026-03-31,Emergency,29884,Processed,System
+2077,11751,2025-06-17,Health Issue,14274,Pending,System
+2078,8468,2026-03-21,Emergency,31061,Pending,Hotel
+2079,681,2025-08-31,Price Change,38042,Processed,Customer
+2080,11800,2025-06-07,Schedule Conflict,27530,Pending,System
+2081,10624,2024-10-30,Schedule Conflict,11756,Processed,System
+2082,4076,2025-04-05,Personal Issue,35205,Pending,Customer
+2083,6517,2025-09-09,Travel Restriction,47169,Processed,Hotel
+2084,5676,2025-08-06,Schedule Conflict,26064,Pending,Customer
+2085,2781,2025-11-06,Schedule Conflict,19358,Processed,Customer
+2086,5883,2025-03-19,Personal Issue,18751,Processed,Customer
+2087,5197,2024-07-04,Price Change,20286,Pending,Hotel
+2088,1658,2026-04-07,Emergency,44428,Pending,Customer
+2089,9788,2025-10-01,Travel Restriction,23768,Pending,Hotel
+2090,7319,2026-02-09,Price Change,10504,Pending,System
+2091,6256,2024-12-25,Health Issue,31713,Pending,Hotel
+2092,9286,2025-11-13,Schedule Conflict,12460,Processed,System
+2093,9420,2024-09-06,Travel Restriction,2560,Processed,Hotel
+2094,1556,2024-11-22,Price Change,1979,Processed,Customer
+2095,7562,2025-12-17,Health Issue,44936,Pending,Hotel
+2096,8110,2025-04-05,Health Issue,38052,Pending,System
+2097,2861,2026-03-13,Price Change,15840,Processed,Hotel
+2098,11983,2025-02-01,Personal Issue,41550,Pending,Hotel
+2099,7512,2024-10-21,Personal Issue,35445,Pending,System
+2100,3404,2026-02-15,Health Issue,38800,Processed,Hotel
+2101,8837,2025-11-24,Emergency,16863,Pending,Hotel
+2102,5009,2025-02-10,Emergency,17965,Pending,Hotel
+2103,5568,2025-06-19,Health Issue,16255,Processed,Customer
+2104,1671,2025-12-17,Health Issue,44059,Processed,Hotel
+2105,9592,2026-04-27,Schedule Conflict,22958,Processed,System
+2106,1381,2024-06-12,Personal Issue,26175,Processed,Hotel
+2107,1589,2026-02-26,Health Issue,1755,Processed,System
+2108,532,2025-05-15,Travel Restriction,7965,Pending,Hotel
+2109,6396,2025-04-13,Personal Issue,32121,Processed,System
+2110,10943,2025-09-29,Personal Issue,49596,Pending,Customer
+2111,756,2025-01-28,Schedule Conflict,49187,Processed,System
+2112,7249,2026-02-05,Emergency,10480,Processed,Customer
+2113,3442,2025-11-18,Health Issue,13782,Processed,Hotel
+2114,4800,2024-05-25,Price Change,33183,Processed,Hotel
+2115,579,2025-04-18,Travel Restriction,2484,Pending,System
+2116,6859,2025-06-08,Schedule Conflict,23099,Processed,System
+2117,3709,2026-02-15,Health Issue,10813,Processed,System
+2118,8019,2025-03-20,Travel Restriction,46548,Pending,System
+2119,5465,2025-10-23,Personal Issue,29358,Processed,Customer
+2120,2692,2026-04-16,Travel Restriction,48483,Pending,System
+2121,3707,2025-11-23,Price Change,40275,Processed,System
+2122,3288,2026-02-19,Personal Issue,37944,Pending,Hotel
+2123,11274,2024-05-28,Health Issue,33636,Pending,Hotel
+2124,645,2025-03-15,Personal Issue,24133,Pending,Customer
+2125,6168,2024-11-29,Price Change,6296,Processed,Customer
+2126,181,2024-09-29,Health Issue,22188,Pending,System
+2127,5422,2025-07-12,Health Issue,34031,Pending,Customer
+2128,5998,2025-12-15,Health Issue,37556,Processed,Customer
+2129,11359,2025-09-03,Health Issue,15024,Pending,Customer
+2130,11891,2025-09-24,Emergency,39288,Processed,Hotel
+2131,715,2025-07-11,Emergency,4581,Processed,Hotel
+2132,5998,2025-09-20,Emergency,30396,Pending,Customer
+2133,5986,2025-04-20,Emergency,13213,Processed,Hotel
+2134,9519,2025-02-09,Schedule Conflict,27529,Processed,Hotel
+2135,2114,2025-11-22,Health Issue,36650,Pending,Hotel
+2136,11993,2025-11-18,Health Issue,11116,Processed,System
+2137,8271,2026-01-01,Travel Restriction,28869,Processed,Customer
+2138,9754,2024-06-26,Personal Issue,48884,Pending,System
+2139,5150,2025-12-30,Personal Issue,5266,Pending,Customer
+2140,376,2025-12-18,Personal Issue,10189,Pending,System
+2141,5156,2024-10-04,Personal Issue,27695,Pending,Customer
+2142,3488,2026-04-19,Price Change,42453,Processed,Hotel
+2143,11806,2025-09-07,Health Issue,8145,Processed,System
+2144,11599,2024-10-25,Schedule Conflict,18177,Pending,Customer
+2145,668,2025-06-15,Emergency,21855,Pending,Customer
+2146,8680,2025-01-31,Schedule Conflict,7850,Pending,Customer
+2147,2742,2024-05-18,Emergency,1167,Pending,System
+2148,9394,2025-08-03,Emergency,38818,Pending,Hotel
+2149,10854,2025-12-31,Emergency,25596,Processed,Hotel
+2150,10434,2026-04-21,Emergency,2756,Pending,Customer
+2151,8469,2026-04-15,Emergency,10463,Processed,Customer
+2152,1929,2026-02-22,Schedule Conflict,22270,Processed,Hotel
+2153,7330,2026-03-30,Travel Restriction,8243,Pending,Hotel
+2154,4363,2024-06-26,Health Issue,26969,Pending,System
+2155,11703,2025-05-25,Personal Issue,30932,Pending,System
+2156,3245,2024-06-03,Price Change,48373,Processed,System
+2157,5737,2025-10-11,Health Issue,22547,Pending,Hotel
+2158,4050,2026-04-30,Health Issue,2953,Pending,Customer
+2159,4604,2024-09-28,Personal Issue,3020,Processed,Hotel
+2160,4279,2024-05-23,Emergency,19504,Pending,System
+2161,9222,2025-06-03,Emergency,39988,Processed,Customer
+2162,9619,2025-01-02,Emergency,19783,Processed,System
+2163,7594,2025-10-26,Health Issue,43442,Processed,Hotel
+2164,2733,2024-08-11,Emergency,2239,Pending,Hotel
+2165,156,2024-12-01,Personal Issue,19488,Pending,System
+2166,10961,2024-05-12,Health Issue,21734,Processed,System
+2167,11782,2026-04-16,Health Issue,40260,Pending,Customer
+2168,1560,2025-03-28,Health Issue,22807,Pending,Hotel
+2169,8733,2025-07-02,Personal Issue,35944,Pending,System
+2170,11464,2025-11-14,Emergency,16712,Pending,Customer
+2171,9085,2025-02-02,Price Change,18599,Processed,Customer
+2172,6125,2026-03-24,Price Change,40190,Pending,Hotel
+2173,8131,2024-08-28,Travel Restriction,43161,Pending,System
+2174,3091,2024-05-27,Personal Issue,49471,Processed,Customer
+2175,3352,2026-03-22,Schedule Conflict,38837,Processed,Hotel
+2176,8564,2025-08-16,Price Change,5125,Processed,Customer
+2177,11910,2025-08-14,Travel Restriction,34697,Processed,Customer
+2178,10921,2025-08-07,Emergency,45133,Processed,Hotel
+2179,4550,2024-12-25,Schedule Conflict,8881,Processed,Hotel
+2180,2476,2024-05-09,Schedule Conflict,41155,Pending,Customer
+2181,2219,2025-12-15,Schedule Conflict,31407,Pending,Customer
+2182,7703,2024-07-23,Emergency,30693,Processed,Customer
+2183,2807,2025-07-19,Emergency,43527,Pending,System
+2184,11036,2025-03-02,Emergency,12285,Processed,Customer
+2185,10809,2025-08-11,Travel Restriction,17664,Pending,System
+2186,8257,2025-03-11,Price Change,35620,Processed,System
+2187,4422,2025-05-09,Personal Issue,38176,Processed,Customer
+2188,6834,2024-07-20,Emergency,4774,Pending,System
+2189,10643,2026-03-04,Schedule Conflict,3339,Processed,Hotel
+2190,2175,2025-12-05,Personal Issue,46027,Processed,Hotel
+2191,3786,2024-07-09,Personal Issue,9779,Processed,System
+2192,3589,2024-08-28,Travel Restriction,7345,Processed,System
+2193,4891,2026-03-13,Schedule Conflict,29343,Pending,Customer
+2194,4781,2024-11-27,Schedule Conflict,40067,Pending,System
+2195,2274,2024-10-27,Schedule Conflict,11619,Pending,Hotel
+2196,8253,2025-09-26,Schedule Conflict,39726,Pending,Customer
+2197,3734,2025-06-15,Travel Restriction,36349,Pending,Hotel
+2198,842,2026-03-29,Travel Restriction,44453,Pending,Customer
+2199,3531,2024-07-24,Personal Issue,22035,Pending,Hotel
+2200,4227,2025-06-15,Schedule Conflict,4106,Pending,Hotel
+2201,10818,2026-04-08,Schedule Conflict,5839,Pending,System
+2202,7647,2025-07-08,Schedule Conflict,6549,Pending,Hotel
+2203,10150,2026-01-13,Travel Restriction,13650,Processed,System
+2204,10823,2024-07-30,Travel Restriction,12560,Pending,Customer
+2205,9087,2024-09-23,Travel Restriction,16580,Pending,System
+2206,7773,2025-09-29,Price Change,46809,Pending,Hotel
+2207,6472,2024-09-09,Emergency,34675,Processed,Hotel
+2208,10195,2024-08-17,Travel Restriction,7856,Pending,Hotel
+2209,10356,2026-03-06,Health Issue,14122,Processed,Customer
+2210,45,2025-06-08,Personal Issue,39406,Pending,Customer
+2211,9481,2024-11-02,Personal Issue,18720,Pending,System
+2212,3266,2026-05-03,Travel Restriction,22852,Processed,Hotel
+2213,6422,2026-02-12,Emergency,31213,Processed,Hotel
+2214,3470,2024-12-08,Travel Restriction,18899,Pending,Hotel
+2215,4561,2024-10-01,Schedule Conflict,23033,Processed,Customer
+2216,3249,2024-12-31,Emergency,35458,Processed,Hotel
+2217,7522,2024-07-03,Price Change,1698,Processed,System
+2218,10090,2025-01-13,Travel Restriction,7213,Pending,System
+2219,3654,2024-10-10,Schedule Conflict,19268,Processed,System
+2220,3409,2024-12-06,Emergency,45191,Pending,System
+2221,6005,2024-11-16,Price Change,43484,Pending,System
+2222,2281,2025-07-22,Schedule Conflict,21257,Pending,Customer
+2223,8176,2025-08-09,Schedule Conflict,29167,Pending,Hotel
+2224,9546,2024-09-28,Health Issue,9608,Pending,Customer
+2225,9980,2025-09-21,Personal Issue,21808,Pending,System
+2226,3910,2026-02-12,Emergency,1964,Processed,System
+2227,11824,2025-10-01,Personal Issue,43495,Pending,Hotel
+2228,11985,2024-06-15,Personal Issue,35586,Pending,System
+2229,8960,2025-01-20,Schedule Conflict,49474,Pending,Customer
+2230,8532,2026-03-22,Travel Restriction,44171,Pending,System
+2231,8555,2025-12-30,Price Change,29996,Pending,System
+2232,9856,2025-03-28,Travel Restriction,8821,Pending,Hotel
+2233,7043,2025-09-27,Travel Restriction,8920,Pending,System
+2234,156,2026-01-17,Personal Issue,28921,Processed,System
+2235,9879,2026-03-23,Emergency,19812,Processed,System
+2236,4310,2026-05-09,Health Issue,16574,Pending,System
+2237,10695,2026-02-03,Schedule Conflict,5403,Pending,Hotel
+2238,9253,2024-09-04,Price Change,1657,Pending,Hotel
+2239,6710,2026-04-05,Health Issue,22240,Processed,Hotel
+2240,2377,2024-07-21,Personal Issue,25104,Processed,Hotel
+2241,1779,2025-11-08,Price Change,18278,Pending,Hotel
+2242,300,2025-01-20,Emergency,21239,Pending,Hotel
+2243,2592,2024-11-15,Personal Issue,36164,Processed,Hotel
+2244,8630,2025-12-11,Travel Restriction,37148,Pending,Customer
+2245,1345,2025-03-10,Travel Restriction,10229,Processed,Customer
+2246,4039,2024-07-07,Personal Issue,3925,Processed,System
+2247,8357,2025-02-25,Health Issue,1019,Processed,Hotel
+2248,7284,2025-11-07,Schedule Conflict,2788,Processed,System
+2249,2001,2025-03-03,Health Issue,12273,Pending,System
+2250,863,2024-10-23,Price Change,40608,Pending,Hotel
+2251,8485,2025-10-16,Schedule Conflict,46894,Processed,Customer
+2252,5955,2024-10-09,Emergency,49750,Processed,Customer
+2253,956,2025-10-26,Price Change,48391,Processed,System
+2254,7417,2025-11-19,Health Issue,37818,Pending,Hotel
+2255,1975,2025-05-16,Health Issue,32888,Pending,System
+2256,6326,2025-05-27,Health Issue,30523,Pending,Hotel
+2257,3014,2025-06-25,Schedule Conflict,27997,Pending,Hotel
+2258,5099,2026-01-11,Price Change,23041,Pending,Hotel
+2259,4814,2025-04-22,Schedule Conflict,9513,Pending,Customer
+2260,4883,2025-05-17,Schedule Conflict,13523,Pending,System
+2261,233,2024-06-21,Travel Restriction,24641,Pending,System
+2262,8453,2025-09-25,Health Issue,9207,Pending,Hotel
+2263,6589,2024-06-30,Personal Issue,49499,Processed,Customer
+2264,2439,2025-08-08,Travel Restriction,31160,Processed,Customer
+2265,5643,2025-12-08,Price Change,46658,Pending,System
+2266,11236,2024-05-23,Emergency,10258,Processed,Hotel
+2267,2328,2026-03-19,Price Change,48922,Pending,Hotel
+2268,6383,2024-05-26,Health Issue,22850,Processed,Hotel
+2269,255,2024-05-30,Travel Restriction,42748,Processed,System
+2270,9294,2026-03-01,Emergency,40636,Processed,Customer
+2271,7282,2024-12-31,Emergency,26505,Processed,Hotel
+2272,7223,2025-11-03,Price Change,27914,Processed,Hotel
+2273,2223,2025-09-23,Travel Restriction,35180,Processed,System
+2274,9402,2025-11-07,Health Issue,33133,Pending,Hotel
+2275,9505,2024-05-23,Health Issue,2959,Pending,Hotel
+2276,4953,2025-04-12,Schedule Conflict,28441,Processed,System
+2277,8037,2025-04-30,Health Issue,17190,Processed,System
+2278,8453,2025-07-13,Travel Restriction,45226,Pending,Customer
+2279,5574,2025-07-12,Emergency,18493,Pending,Customer
+2280,3596,2024-10-16,Schedule Conflict,31192,Pending,System
+2281,4609,2024-07-04,Price Change,39810,Pending,System
+2282,377,2026-03-31,Personal Issue,22956,Processed,Customer
+2283,8906,2025-04-29,Health Issue,30195,Processed,Hotel
+2284,10254,2025-01-18,Price Change,6974,Processed,Hotel
+2285,4128,2024-08-23,Emergency,44385,Pending,Customer
+2286,8139,2024-06-06,Travel Restriction,8693,Processed,Hotel
+2287,4389,2025-04-11,Schedule Conflict,47261,Pending,Customer
+2288,6406,2026-04-09,Price Change,34623,Processed,System
+2289,3971,2026-02-26,Price Change,29037,Processed,System
+2290,1514,2026-04-29,Price Change,26152,Pending,Customer
+2291,561,2025-03-10,Travel Restriction,48130,Pending,Customer
+2292,5027,2025-05-17,Schedule Conflict,46853,Pending,Customer
+2293,8173,2024-09-01,Travel Restriction,36067,Pending,System
+2294,8900,2025-09-15,Emergency,42996,Pending,Customer
+2295,6758,2024-12-20,Emergency,42322,Processed,Hotel
+2296,6575,2025-06-18,Personal Issue,23419,Pending,Customer
+2297,2437,2025-02-02,Travel Restriction,23926,Pending,System
+2298,948,2025-06-30,Emergency,37104,Processed,System
+2299,6888,2024-12-28,Health Issue,14077,Pending,System
+2300,1577,2024-08-12,Emergency,36603,Pending,Customer
+2301,4974,2024-05-27,Travel Restriction,11686,Pending,System
+2302,9853,2024-10-31,Personal Issue,29233,Processed,System
+2303,1349,2026-02-12,Personal Issue,34478,Processed,Hotel
+2304,2917,2025-10-09,Price Change,17245,Processed,Customer
+2305,4598,2024-12-12,Health Issue,27465,Pending,Hotel
+2306,11477,2025-07-26,Personal Issue,12875,Pending,Hotel
+2307,10072,2025-04-10,Price Change,26721,Pending,System
+2308,4753,2024-06-14,Travel Restriction,42365,Pending,Customer
+2309,9017,2025-01-21,Emergency,37996,Processed,System
+2310,10118,2026-04-09,Health Issue,43925,Processed,Customer
+2311,10297,2026-04-15,Health Issue,47530,Pending,Hotel
+2312,10828,2025-12-02,Health Issue,19853,Pending,Hotel
+2313,3749,2025-11-22,Travel Restriction,33473,Processed,Hotel
+2314,8353,2025-11-15,Personal Issue,38864,Pending,Hotel
+2315,4789,2025-08-13,Emergency,10068,Processed,System
+2316,9682,2025-01-23,Health Issue,13166,Processed,System
+2317,652,2025-08-07,Personal Issue,35965,Pending,Customer
+2318,10258,2024-08-30,Travel Restriction,41482,Pending,Hotel
+2319,7538,2026-01-29,Price Change,27906,Pending,System
+2320,7606,2025-06-23,Personal Issue,37454,Pending,Hotel
+2321,3822,2024-07-27,Schedule Conflict,23711,Processed,System
+2322,3217,2025-06-04,Health Issue,45140,Processed,Customer
+2323,1925,2026-04-12,Price Change,45058,Processed,System
+2324,11241,2025-09-23,Schedule Conflict,45085,Pending,Hotel
+2325,6678,2026-01-01,Emergency,26306,Processed,Customer
+2326,4972,2024-10-25,Travel Restriction,26399,Pending,Customer
+2327,5296,2025-09-02,Travel Restriction,35237,Pending,System
+2328,9624,2025-06-07,Personal Issue,39771,Pending,System
+2329,4690,2025-03-04,Health Issue,13355,Processed,Customer
+2330,11554,2025-05-22,Travel Restriction,35886,Pending,Hotel
+2331,11351,2025-01-21,Personal Issue,5404,Processed,Customer
+2332,4857,2025-07-17,Emergency,5476,Pending,System
+2333,7678,2026-04-10,Emergency,21844,Processed,System
+2334,6307,2025-05-18,Personal Issue,16744,Pending,System
+2335,11245,2025-09-04,Health Issue,20859,Processed,System
+2336,6092,2024-12-28,Travel Restriction,39828,Pending,Customer
+2337,5860,2024-08-23,Price Change,7464,Pending,Hotel
+2338,6342,2024-07-27,Schedule Conflict,42414,Processed,System
+2339,3353,2025-12-08,Personal Issue,1258,Processed,Customer
+2340,9657,2025-07-25,Price Change,18680,Processed,System
+2341,11799,2024-06-06,Schedule Conflict,9676,Pending,Hotel
+2342,59,2025-02-16,Travel Restriction,21079,Pending,Hotel
+2343,2248,2025-02-09,Price Change,32657,Processed,Customer
+2344,8612,2024-09-23,Schedule Conflict,47721,Processed,System
+2345,5919,2026-04-15,Schedule Conflict,26312,Pending,System
+2346,7561,2024-10-20,Personal Issue,40858,Pending,System
+2347,5401,2024-07-19,Travel Restriction,24569,Pending,System
+2348,244,2024-08-27,Price Change,18282,Pending,Customer
+2349,10529,2025-07-19,Price Change,48646,Pending,Customer
+2350,4300,2024-10-16,Price Change,36369,Pending,System
+2351,5750,2025-11-13,Emergency,19055,Processed,System
+2352,615,2025-09-17,Emergency,44532,Pending,Customer
+2353,10122,2025-03-25,Price Change,46375,Processed,Hotel
+2354,11468,2024-10-20,Price Change,10238,Pending,System
+2355,5526,2025-04-23,Price Change,48000,Processed,Customer
+2356,6027,2025-01-14,Personal Issue,4842,Pending,Hotel
+2357,4908,2024-12-05,Price Change,5698,Pending,Hotel
+2358,1288,2025-08-16,Personal Issue,4379,Processed,Hotel
+2359,6904,2024-06-02,Travel Restriction,13177,Pending,Customer
+2360,1081,2024-05-20,Personal Issue,36071,Processed,Customer
+2361,6824,2026-04-17,Health Issue,26538,Pending,System
+2362,3369,2025-01-24,Emergency,5855,Pending,Hotel
+2363,4066,2024-09-06,Emergency,1791,Pending,System
+2364,6391,2025-11-30,Personal Issue,7321,Processed,Customer
+2365,2649,2024-12-06,Schedule Conflict,37298,Processed,System
+2366,7953,2024-11-30,Personal Issue,15606,Pending,Hotel
+2367,5541,2025-11-27,Schedule Conflict,2558,Processed,System
+2368,3530,2024-06-14,Health Issue,39328,Processed,System
+2369,7527,2025-09-03,Health Issue,44148,Processed,Customer
+2370,9527,2025-06-30,Personal Issue,11158,Processed,System
+2371,5928,2024-07-26,Price Change,8626,Processed,System
+2372,10621,2026-03-22,Price Change,5988,Processed,Hotel
+2373,18,2025-03-15,Personal Issue,36118,Processed,System
+2374,8508,2024-11-20,Schedule Conflict,34744,Pending,System
+2375,7216,2025-04-07,Travel Restriction,18106,Pending,Hotel
+2376,11455,2026-03-20,Emergency,42012,Pending,Hotel
+2377,7668,2026-04-23,Health Issue,10564,Pending,Customer
+2378,7642,2025-09-17,Travel Restriction,43195,Pending,System
+2379,9037,2026-01-22,Schedule Conflict,25793,Processed,Customer
+2380,7608,2025-01-22,Health Issue,8193,Pending,System
+2381,1430,2024-08-09,Emergency,47833,Pending,System
+2382,6736,2024-06-04,Travel Restriction,45938,Pending,System
+2383,10385,2024-10-26,Schedule Conflict,21895,Pending,System
+2384,6118,2025-03-25,Schedule Conflict,30249,Processed,System
+2385,392,2025-11-30,Health Issue,16292,Pending,System
+2386,5885,2025-03-04,Emergency,15952,Processed,System
+2387,11035,2024-09-20,Personal Issue,43369,Pending,System
+2388,2261,2025-08-12,Emergency,12262,Pending,System
+2389,6834,2026-01-20,Travel Restriction,46288,Pending,Customer
+2390,6254,2025-10-16,Health Issue,8659,Pending,System
+2391,11586,2024-07-15,Health Issue,21652,Pending,System
+2392,4870,2026-01-09,Schedule Conflict,49544,Processed,System
+2393,4806,2024-09-18,Schedule Conflict,39283,Pending,Customer
+2394,9640,2025-09-04,Personal Issue,10859,Processed,Hotel
+2395,5421,2024-09-01,Personal Issue,48478,Processed,Hotel
+2396,9299,2024-08-20,Personal Issue,1773,Processed,Hotel
+2397,10960,2025-10-15,Price Change,31267,Pending,Customer
+2398,2751,2024-05-18,Personal Issue,49258,Pending,Customer
+2399,1563,2026-04-29,Price Change,27340,Pending,System
+2400,3609,2025-05-25,Emergency,18201,Processed,Customer
+2401,8089,2024-11-24,Emergency,44637,Pending,Customer
+2402,2321,2025-08-13,Travel Restriction,33012,Pending,Hotel
+2403,2000,2024-12-20,Price Change,6316,Pending,Customer
+2404,8791,2025-12-05,Personal Issue,38038,Processed,System
+2405,3834,2025-12-18,Health Issue,11026,Pending,Hotel
+2406,8457,2025-03-19,Schedule Conflict,48493,Processed,Hotel
+2407,3774,2024-07-01,Price Change,28154,Processed,Hotel
+2408,2115,2024-12-26,Travel Restriction,2598,Pending,Customer
+2409,11740,2026-01-22,Health Issue,15560,Processed,Hotel
+2410,3299,2025-09-27,Personal Issue,25934,Pending,Customer
+2411,4311,2024-10-14,Emergency,9197,Processed,Hotel
+2412,3024,2024-05-29,Schedule Conflict,19110,Pending,Customer
+2413,1361,2024-09-21,Travel Restriction,38939,Processed,Customer
+2414,6381,2025-07-18,Personal Issue,9974,Processed,Hotel
+2415,9388,2025-03-08,Health Issue,27126,Processed,System
+2416,2545,2025-01-24,Health Issue,10779,Pending,Hotel
+2417,3688,2024-05-16,Schedule Conflict,12980,Processed,Hotel
+2418,10084,2025-02-21,Price Change,15824,Pending,System
+2419,3050,2025-06-12,Emergency,33193,Processed,System
+2420,928,2026-02-20,Travel Restriction,21825,Processed,System
+2421,10833,2025-07-03,Emergency,41918,Processed,System
+2422,9125,2024-07-10,Emergency,34933,Pending,System
+2423,9032,2025-04-14,Personal Issue,34484,Pending,Customer
+2424,1629,2025-10-23,Health Issue,20484,Pending,Customer
+2425,2939,2026-04-21,Emergency,36321,Pending,Customer
+2426,180,2025-07-13,Price Change,5386,Processed,Customer
+2427,8609,2024-12-24,Health Issue,8239,Processed,Customer
+2428,6727,2025-02-18,Personal Issue,34507,Pending,System
+2429,2526,2025-06-05,Schedule Conflict,26106,Processed,System
+2430,4182,2025-02-07,Price Change,42219,Pending,System
+2431,2582,2025-01-26,Emergency,28366,Processed,Customer
+2432,2524,2024-09-15,Health Issue,42012,Processed,Customer
+2433,10133,2026-01-24,Emergency,19337,Pending,System
+2434,4385,2025-12-12,Health Issue,3594,Processed,Customer
+2435,4786,2025-07-27,Schedule Conflict,43159,Processed,Hotel
+2436,7164,2025-07-06,Health Issue,4105,Pending,Hotel
+2437,5809,2025-11-30,Emergency,11972,Processed,Hotel
+2438,1086,2025-12-12,Travel Restriction,20421,Pending,Hotel
+2439,6972,2025-08-06,Price Change,3863,Pending,Customer
+2440,9613,2024-05-18,Schedule Conflict,36343,Pending,Customer
+2441,9883,2026-05-02,Emergency,15518,Processed,Customer
+2442,2886,2025-02-20,Emergency,36288,Pending,Customer
+2443,8728,2024-05-09,Travel Restriction,20222,Processed,Customer
+2444,11413,2025-04-01,Emergency,46080,Pending,Hotel
+2445,2649,2025-03-04,Emergency,21037,Pending,Customer
+2446,3755,2024-05-15,Personal Issue,46727,Pending,System
+2447,10515,2024-11-22,Personal Issue,24623,Pending,Hotel
+2448,2492,2025-10-29,Health Issue,8528,Processed,System
+2449,2368,2024-12-19,Price Change,40074,Processed,System
+2450,1873,2025-05-21,Health Issue,20451,Pending,System
+2451,2715,2025-09-24,Price Change,33441,Pending,System
+2452,4712,2024-09-16,Health Issue,17910,Processed,Hotel
+2453,8948,2025-09-19,Travel Restriction,49174,Processed,Hotel
+2454,7118,2024-12-21,Health Issue,40206,Processed,Customer
+2455,6288,2025-07-05,Travel Restriction,49293,Pending,Hotel
+2456,469,2024-08-01,Personal Issue,42354,Pending,Customer
+2457,8368,2024-06-30,Health Issue,3246,Processed,Hotel
+2458,5121,2025-07-24,Price Change,7420,Pending,System
+2459,1388,2024-09-11,Emergency,8973,Pending,System
+2460,7991,2024-11-18,Price Change,7670,Processed,Hotel
+2461,7345,2026-02-01,Health Issue,26786,Processed,System
+2462,5033,2025-12-01,Schedule Conflict,19812,Processed,Hotel
+2463,6827,2025-07-20,Personal Issue,43860,Processed,System
+2464,5505,2024-09-07,Emergency,41479,Pending,System
+2465,4769,2025-08-04,Personal Issue,3022,Processed,Customer
+2466,4169,2025-09-23,Health Issue,29583,Pending,Customer
+2467,5027,2026-03-25,Schedule Conflict,43220,Processed,System
+2468,5060,2024-07-05,Health Issue,24222,Processed,System
+2469,1722,2026-01-24,Price Change,16325,Pending,System
+2470,176,2024-08-15,Price Change,23206,Pending,System
+2471,9495,2025-08-28,Price Change,10642,Pending,Customer
+2472,7395,2025-06-13,Emergency,14357,Processed,System
+2473,612,2025-07-07,Schedule Conflict,17371,Pending,System
+2474,206,2025-01-07,Health Issue,34042,Processed,System
+2475,861,2025-10-24,Personal Issue,44766,Pending,Customer
+2476,10024,2025-07-23,Personal Issue,3140,Pending,Hotel
+2477,2119,2024-12-31,Price Change,2571,Pending,Customer
+2478,4351,2025-05-18,Travel Restriction,11634,Processed,Customer
+2479,6400,2025-02-28,Emergency,42596,Pending,Hotel
+2480,5320,2025-03-07,Emergency,8317,Processed,Customer
+2481,2177,2024-08-11,Travel Restriction,47934,Pending,System
+2482,5687,2025-08-07,Emergency,4653,Processed,Customer
+2483,6940,2026-01-12,Emergency,27163,Pending,Customer
+2484,7075,2024-06-27,Travel Restriction,46632,Pending,System
+2485,4070,2025-09-18,Price Change,39024,Pending,System
+2486,11780,2025-07-26,Price Change,28437,Processed,Customer
+2487,7975,2025-11-20,Health Issue,19250,Processed,Customer
+2488,1187,2024-09-16,Health Issue,8981,Processed,System
+2489,7183,2025-10-31,Schedule Conflict,11134,Pending,System
+2490,6081,2024-08-07,Schedule Conflict,37063,Pending,System
+2491,2019,2024-09-27,Emergency,30480,Pending,System
+2492,8550,2024-11-09,Price Change,22815,Processed,Customer
+2493,4552,2024-06-13,Schedule Conflict,24870,Pending,System
+2494,6002,2025-01-21,Health Issue,4780,Pending,System
+2495,3203,2024-07-15,Travel Restriction,13704,Processed,System
+2496,51,2024-06-05,Personal Issue,7085,Processed,Customer
+2497,7244,2025-12-29,Travel Restriction,8551,Pending,Customer
+2498,8117,2025-02-22,Health Issue,28158,Processed,Hotel
+2499,11408,2024-11-22,Health Issue,6494,Pending,Hotel
+2500,5106,2025-07-13,Travel Restriction,30972,Processed,Hotel
+2501,6905,2024-11-06,Health Issue,15037,Processed,Customer
+2502,1215,2025-03-17,Travel Restriction,13226,Pending,Hotel
+2503,4065,2024-06-12,Travel Restriction,29392,Processed,Customer
+2504,3890,2025-07-24,Travel Restriction,8269,Processed,System
+2505,6911,2024-09-23,Health Issue,29895,Processed,Hotel
+2506,6824,2025-05-28,Travel Restriction,25943,Pending,System
+2507,3083,2025-03-11,Schedule Conflict,28461,Pending,Customer
+2508,7536,2025-11-13,Health Issue,25625,Pending,Customer
+2509,3293,2026-04-14,Schedule Conflict,42492,Pending,System
+2510,5393,2026-01-02,Personal Issue,14348,Processed,Customer
+2511,1213,2025-01-03,Health Issue,25088,Processed,Customer
+2512,7164,2026-01-09,Schedule Conflict,13452,Processed,Customer
+2513,7216,2026-02-19,Emergency,40151,Pending,System
+2514,8845,2025-09-21,Schedule Conflict,45751,Processed,Hotel
+2515,3069,2026-03-26,Emergency,28866,Processed,System
+2516,11060,2025-04-26,Price Change,30986,Processed,System
+2517,10124,2024-07-13,Price Change,24881,Pending,Hotel
+2518,8066,2025-01-12,Schedule Conflict,43463,Processed,System
+2519,1053,2024-09-03,Schedule Conflict,4422,Processed,Customer
+2520,5770,2025-09-29,Personal Issue,19021,Processed,Customer
+2521,6218,2025-04-01,Price Change,17876,Processed,Hotel
+2522,5127,2025-07-17,Health Issue,16439,Pending,Hotel
+2523,851,2024-12-29,Emergency,3181,Processed,System
+2524,4393,2024-10-04,Schedule Conflict,15941,Pending,Hotel
+2525,6431,2024-08-05,Health Issue,30063,Processed,Customer
+2526,7515,2024-07-15,Travel Restriction,26153,Pending,Customer
+2527,704,2025-10-07,Travel Restriction,7267,Processed,Hotel
+2528,7487,2026-03-19,Schedule Conflict,44417,Processed,Hotel
+2529,7692,2025-07-28,Health Issue,33427,Processed,System
+2530,6277,2025-11-21,Travel Restriction,7033,Pending,Hotel
+2531,574,2024-12-11,Personal Issue,48137,Processed,Hotel
+2532,1119,2025-02-16,Emergency,46926,Processed,Customer
+2533,603,2024-08-19,Price Change,16309,Pending,System
+2534,10862,2024-11-21,Schedule Conflict,34912,Processed,Hotel
+2535,4830,2025-09-17,Schedule Conflict,49852,Pending,Customer
+2536,4641,2024-08-13,Price Change,45426,Processed,System
+2537,4456,2025-01-10,Personal Issue,2879,Pending,System
+2538,7727,2026-02-18,Personal Issue,32711,Pending,Hotel
+2539,6219,2024-12-24,Price Change,13975,Processed,Hotel
+2540,833,2026-02-20,Emergency,27716,Pending,System
+2541,1670,2024-08-01,Emergency,30255,Processed,System
+2542,2273,2026-03-03,Emergency,28030,Pending,Hotel
+2543,9275,2024-12-15,Emergency,10833,Processed,System
+2544,3933,2025-01-24,Health Issue,26284,Pending,Hotel
+2545,3604,2025-06-10,Price Change,21841,Pending,Hotel
+2546,11809,2025-07-06,Price Change,7655,Processed,Customer
+2547,4228,2024-12-14,Travel Restriction,21952,Pending,Hotel
+2548,11109,2025-03-31,Price Change,25292,Pending,System
+2549,6013,2025-05-28,Schedule Conflict,36927,Processed,System
+2550,8650,2024-12-31,Personal Issue,43586,Processed,System
+2551,530,2024-06-01,Personal Issue,1296,Processed,System
+2552,1496,2024-09-15,Travel Restriction,38722,Pending,Customer
+2553,5208,2025-07-10,Price Change,46981,Processed,System
+2554,11953,2025-03-23,Personal Issue,37507,Processed,Hotel
+2555,10231,2024-12-22,Emergency,12140,Pending,System
+2556,2957,2025-07-06,Travel Restriction,11662,Processed,System
+2557,11450,2025-06-29,Travel Restriction,27010,Pending,Customer
+2558,7433,2024-05-21,Personal Issue,14293,Processed,Hotel
+2559,10172,2025-05-05,Personal Issue,32266,Processed,Customer
+2560,2251,2025-08-16,Schedule Conflict,2420,Processed,System
+2561,4844,2025-04-14,Emergency,35806,Pending,Hotel
+2562,1210,2025-11-29,Travel Restriction,21199,Pending,Customer
+2563,10747,2025-08-03,Personal Issue,21856,Pending,System
+2564,3337,2024-12-04,Price Change,42029,Pending,Hotel
+2565,5361,2025-11-05,Price Change,2214,Pending,Customer
+2566,3053,2025-11-19,Health Issue,36290,Pending,Hotel
+2567,5762,2024-06-11,Personal Issue,20263,Processed,Customer
+2568,3258,2025-10-19,Travel Restriction,7739,Pending,System
+2569,9952,2024-05-21,Emergency,43823,Processed,Hotel
+2570,1942,2025-03-24,Personal Issue,9555,Processed,System
+2571,4257,2025-12-01,Travel Restriction,5878,Processed,System
+2572,9466,2025-01-01,Travel Restriction,18167,Pending,System
+2573,8427,2025-02-20,Personal Issue,32329,Pending,Customer
+2574,6995,2025-03-07,Emergency,38024,Processed,System
+2575,5817,2025-02-19,Health Issue,31409,Processed,System
+2576,2449,2024-10-03,Emergency,8670,Pending,Hotel
+2577,2885,2026-03-21,Travel Restriction,9279,Processed,Hotel
+2578,8507,2025-07-13,Personal Issue,28494,Processed,Customer
+2579,10289,2025-08-28,Price Change,26559,Processed,System
+2580,7551,2025-12-07,Price Change,39840,Pending,Hotel
+2581,5586,2025-06-24,Travel Restriction,38461,Pending,Hotel
+2582,9502,2026-03-29,Travel Restriction,8830,Processed,System
+2583,2873,2025-02-25,Emergency,33140,Processed,System
+2584,3307,2025-03-01,Personal Issue,3290,Processed,Customer
+2585,7843,2025-01-06,Health Issue,9267,Processed,Hotel
+2586,2813,2025-11-05,Price Change,43340,Processed,Hotel
+2587,8973,2024-08-30,Travel Restriction,20225,Pending,System
+2588,10359,2025-02-13,Emergency,14705,Pending,Hotel
+2589,11678,2025-07-30,Health Issue,11192,Pending,Customer
+2590,11330,2025-12-13,Travel Restriction,35865,Processed,System
+2591,1442,2025-08-21,Health Issue,7243,Pending,System
+2592,8595,2025-04-22,Personal Issue,24427,Processed,System
+2593,11790,2024-05-26,Emergency,11049,Processed,System
+2594,11451,2025-10-02,Price Change,29795,Pending,System
+2595,7076,2026-01-19,Schedule Conflict,8723,Pending,System
+2596,2119,2026-03-16,Health Issue,12924,Processed,Customer
+2597,3116,2025-02-12,Emergency,19550,Processed,Hotel
+2598,2574,2024-05-18,Personal Issue,34584,Processed,Hotel
+2599,10181,2024-06-21,Health Issue,43489,Processed,Hotel
+2600,10557,2025-05-14,Emergency,17415,Pending,Customer
+2601,8322,2026-01-08,Health Issue,45154,Processed,Hotel
+2602,10360,2024-06-20,Health Issue,38878,Processed,Customer
+2603,4431,2024-05-25,Health Issue,43373,Pending,System
+2604,3265,2025-12-11,Health Issue,10606,Pending,Customer
+2605,3594,2025-08-19,Schedule Conflict,17460,Processed,Hotel
+2606,8972,2025-10-10,Schedule Conflict,2174,Pending,Hotel
+2607,6826,2025-01-01,Schedule Conflict,3567,Pending,System
+2608,4878,2025-12-24,Emergency,25095,Pending,Customer
+2609,5508,2024-08-28,Travel Restriction,22371,Processed,System
+2610,2610,2025-10-20,Health Issue,5457,Processed,Customer
+2611,1836,2025-06-12,Schedule Conflict,23261,Pending,Customer
+2612,11309,2024-05-26,Emergency,13759,Processed,Hotel
+2613,7468,2024-11-18,Schedule Conflict,8708,Pending,Customer
+2614,4377,2025-07-09,Emergency,48202,Pending,Hotel
+2615,11728,2024-09-23,Travel Restriction,25623,Pending,Customer
+2616,3577,2024-09-28,Schedule Conflict,46009,Pending,Hotel
+2617,6878,2025-11-04,Schedule Conflict,25369,Pending,Customer
+2618,5243,2024-11-02,Emergency,38638,Pending,Hotel
+2619,9792,2025-10-07,Travel Restriction,3475,Processed,Customer
+2620,3690,2025-04-02,Schedule Conflict,3708,Processed,Customer
+2621,11410,2025-02-27,Personal Issue,8987,Processed,System
+2622,1176,2026-04-18,Health Issue,48164,Processed,Customer
+2623,9396,2025-10-26,Health Issue,38648,Pending,Customer
+2624,10860,2025-12-29,Price Change,36045,Processed,Customer
+2625,1594,2026-04-04,Emergency,28203,Processed,System
+2626,9596,2026-01-25,Travel Restriction,3874,Processed,Customer
+2627,1008,2024-12-30,Emergency,46502,Processed,Hotel
+2628,8333,2025-09-06,Price Change,8757,Pending,Hotel
+2629,6103,2025-03-21,Personal Issue,44870,Pending,Customer
+2630,2832,2024-12-10,Price Change,18308,Pending,Hotel
+2631,9030,2025-01-16,Price Change,19146,Processed,System
+2632,6530,2024-07-22,Travel Restriction,15148,Pending,System
+2633,292,2024-08-23,Health Issue,37568,Pending,System
+2634,5653,2024-10-10,Schedule Conflict,20713,Pending,Hotel
+2635,10786,2025-08-08,Schedule Conflict,32578,Processed,Customer
+2636,11014,2025-03-19,Schedule Conflict,27940,Processed,Customer
+2637,566,2025-07-23,Price Change,28520,Pending,System
+2638,7140,2025-12-10,Price Change,37333,Processed,Hotel
+2639,6435,2025-07-14,Health Issue,10409,Pending,System
+2640,10463,2025-12-20,Personal Issue,8316,Pending,Customer
+2641,2595,2024-10-13,Travel Restriction,18777,Processed,Hotel
+2642,6892,2024-05-10,Travel Restriction,39524,Pending,Customer
+2643,983,2025-05-31,Health Issue,41106,Processed,Customer
+2644,6934,2024-12-12,Emergency,45768,Pending,Hotel
+2645,2149,2025-08-20,Price Change,41015,Processed,Customer
+2646,2063,2026-04-17,Schedule Conflict,19718,Processed,Hotel
+2647,2619,2025-06-28,Price Change,4603,Processed,System
+2648,7583,2025-10-25,Schedule Conflict,24261,Processed,Hotel
+2649,3461,2024-11-08,Travel Restriction,15843,Pending,System
+2650,5259,2025-07-27,Travel Restriction,20040,Processed,Hotel
+2651,8476,2025-02-01,Health Issue,4492,Processed,System
+2652,4135,2024-07-26,Personal Issue,10036,Processed,System
+2653,11856,2026-04-12,Health Issue,10140,Processed,Customer
+2654,1724,2025-02-10,Price Change,46293,Processed,Hotel
+2655,5069,2024-09-12,Health Issue,28825,Pending,Customer
+2656,6373,2026-03-13,Travel Restriction,22629,Pending,Hotel
+2657,7485,2025-04-05,Emergency,29171,Pending,System
+2658,3725,2025-08-19,Health Issue,48403,Pending,System
+2659,9587,2025-11-29,Personal Issue,32902,Pending,System
+2660,1236,2025-08-02,Emergency,25791,Pending,System
+2661,2109,2024-07-17,Schedule Conflict,22653,Processed,System
+2662,7687,2025-02-13,Health Issue,45102,Processed,Hotel
+2663,9281,2026-01-27,Personal Issue,38202,Processed,Customer
+2664,845,2025-01-25,Price Change,9734,Pending,Hotel
+2665,2213,2025-06-19,Price Change,44584,Processed,Customer
+2666,10731,2025-03-06,Travel Restriction,41403,Pending,Customer
+2667,4160,2025-04-21,Travel Restriction,28508,Processed,Hotel
+2668,8321,2024-10-02,Schedule Conflict,6529,Pending,System
+2669,9407,2025-04-16,Schedule Conflict,44578,Pending,System
+2670,4772,2025-11-09,Health Issue,5462,Processed,Customer
+2671,6891,2024-12-17,Travel Restriction,29382,Pending,Hotel
+2672,1936,2024-12-09,Personal Issue,36907,Processed,Customer
+2673,6997,2024-08-21,Schedule Conflict,6833,Pending,Customer
+2674,1892,2024-07-18,Personal Issue,3841,Processed,System
+2675,2227,2025-02-13,Personal Issue,26011,Processed,System
+2676,2909,2025-08-24,Health Issue,25690,Pending,System
+2677,9550,2025-10-01,Travel Restriction,44554,Processed,Hotel
+2678,11601,2025-01-06,Price Change,33721,Processed,System
+2679,7519,2025-06-28,Personal Issue,11612,Pending,Hotel
+2680,9496,2024-06-16,Price Change,23545,Pending,Customer
+2681,11679,2025-01-27,Schedule Conflict,7206,Processed,System
+2682,6685,2026-03-21,Personal Issue,41007,Pending,Customer
+2683,8934,2026-01-23,Health Issue,48452,Pending,Hotel
+2684,10733,2024-10-07,Personal Issue,36816,Processed,System
+2685,11222,2024-05-21,Emergency,31310,Processed,Customer
+2686,11146,2024-10-07,Personal Issue,38476,Processed,Customer
+2687,3652,2025-09-23,Health Issue,9216,Pending,Customer
+2688,11346,2026-02-09,Emergency,48623,Pending,System
+2689,1843,2024-06-15,Personal Issue,1914,Processed,System
+2690,4287,2024-11-24,Health Issue,4882,Pending,System
+2691,1322,2025-01-23,Schedule Conflict,43674,Pending,System
+2692,1055,2024-10-07,Personal Issue,15855,Processed,System
+2693,4792,2024-05-30,Emergency,15028,Pending,Customer
+2694,121,2026-04-14,Schedule Conflict,34004,Pending,System
+2695,10421,2025-12-12,Schedule Conflict,17124,Processed,System
+2696,10463,2025-11-27,Health Issue,45257,Pending,Hotel
+2697,8794,2025-12-17,Personal Issue,3666,Processed,Hotel
+2698,6115,2025-11-26,Emergency,47897,Processed,System
+2699,11478,2026-01-04,Emergency,13156,Processed,Hotel
+2700,7980,2024-07-06,Personal Issue,16540,Pending,Hotel
+2701,5612,2025-09-29,Schedule Conflict,38608,Pending,System
+2702,10372,2026-01-11,Personal Issue,25923,Processed,Hotel
+2703,5295,2026-03-28,Schedule Conflict,26264,Processed,Customer
+2704,5702,2025-01-06,Travel Restriction,48281,Processed,Customer
+2705,11991,2025-03-15,Health Issue,8006,Processed,System
+2706,5598,2025-10-11,Personal Issue,31440,Pending,Hotel
+2707,8968,2026-01-23,Travel Restriction,24018,Pending,Hotel
+2708,10507,2025-12-30,Schedule Conflict,9285,Processed,Hotel
+2709,10513,2024-11-06,Price Change,31798,Pending,System
+2710,7984,2025-03-08,Travel Restriction,10248,Pending,Customer
+2711,6697,2025-09-12,Price Change,5081,Processed,System
+2712,6794,2025-08-30,Price Change,49225,Pending,Hotel
+2713,8007,2025-08-26,Personal Issue,22477,Pending,Customer
+2714,1103,2025-07-21,Schedule Conflict,11243,Pending,Customer
+2715,131,2025-11-11,Schedule Conflict,8205,Pending,System
+2716,8556,2024-09-17,Travel Restriction,39047,Pending,Customer
+2717,180,2025-03-01,Health Issue,35196,Pending,Hotel
+2718,8089,2025-11-04,Personal Issue,34831,Pending,Hotel
+2719,888,2026-03-01,Emergency,19686,Pending,Hotel
+2720,10530,2026-03-14,Personal Issue,25155,Processed,System
+2721,9022,2025-07-26,Emergency,11739,Processed,Customer
+2722,4331,2026-02-20,Schedule Conflict,6297,Pending,Hotel
+2723,10102,2024-08-04,Travel Restriction,43280,Pending,Hotel
+2724,9605,2024-10-18,Travel Restriction,42572,Processed,System
+2725,4205,2024-12-04,Emergency,18360,Pending,System
+2726,7159,2025-02-05,Personal Issue,35203,Pending,System
+2727,2920,2026-04-09,Schedule Conflict,48316,Pending,System
+2728,891,2024-07-20,Schedule Conflict,15813,Pending,Customer
+2729,5814,2025-06-19,Health Issue,46234,Pending,System
+2730,3181,2025-10-06,Personal Issue,16762,Pending,System
+2731,824,2025-04-30,Travel Restriction,39669,Processed,Hotel
+2732,9350,2025-05-01,Travel Restriction,8436,Processed,System
+2733,11061,2025-01-31,Emergency,41186,Pending,System
+2734,2862,2025-12-08,Health Issue,1837,Pending,System
+2735,9551,2025-04-24,Personal Issue,30426,Processed,System
+2736,10310,2024-07-20,Price Change,49107,Pending,Hotel
+2737,1825,2024-09-22,Emergency,37079,Processed,Customer
+2738,1258,2025-11-09,Schedule Conflict,35658,Processed,Customer
+2739,633,2024-10-18,Travel Restriction,8182,Processed,System
+2740,10554,2026-04-03,Price Change,36517,Pending,Customer
+2741,6727,2025-03-26,Price Change,31559,Pending,Customer
+2742,7554,2025-09-29,Emergency,30671,Processed,System
+2743,5248,2026-02-13,Personal Issue,7038,Pending,System
+2744,10717,2025-01-17,Price Change,19354,Pending,Hotel
+2745,3668,2024-05-25,Schedule Conflict,35175,Pending,System
+2746,1167,2025-06-20,Health Issue,32512,Pending,Customer
+2747,3730,2024-07-13,Price Change,12160,Pending,Customer
+2748,11610,2026-02-01,Emergency,40143,Processed,Customer
+2749,1361,2024-10-10,Price Change,43956,Pending,Customer
+2750,475,2024-12-02,Travel Restriction,1546,Pending,System
+2751,7814,2024-09-07,Emergency,14014,Pending,Customer
+2752,9431,2025-10-12,Schedule Conflict,28594,Pending,Hotel
+2753,3158,2025-01-05,Health Issue,26909,Pending,System
+2754,5005,2024-06-12,Health Issue,42869,Processed,Hotel
+2755,11997,2024-07-24,Travel Restriction,39873,Processed,Customer
+2756,1751,2026-01-28,Health Issue,33898,Processed,Customer
+2757,8118,2025-09-10,Travel Restriction,40251,Pending,Hotel
+2758,9831,2024-12-22,Travel Restriction,40508,Pending,Customer
+2759,6745,2024-10-05,Personal Issue,21809,Processed,System
+2760,10824,2024-06-04,Price Change,41172,Pending,Customer
+2761,5570,2024-07-05,Schedule Conflict,41900,Pending,System
+2762,3006,2024-07-18,Travel Restriction,11612,Processed,Customer
+2763,10294,2024-10-27,Schedule Conflict,20563,Pending,Hotel
+2764,436,2025-01-26,Travel Restriction,20070,Pending,Hotel
+2765,11538,2026-01-06,Health Issue,31959,Processed,System
+2766,9365,2025-06-30,Health Issue,30795,Pending,Customer
+2767,10953,2025-05-28,Travel Restriction,28417,Processed,Hotel
+2768,2205,2026-03-07,Emergency,41780,Processed,Customer
+2769,5188,2024-08-07,Price Change,14851,Pending,Hotel
+2770,4479,2024-11-14,Personal Issue,8191,Processed,Customer
+2771,1962,2024-12-24,Personal Issue,14029,Processed,System
+2772,10920,2025-09-28,Schedule Conflict,16719,Processed,Hotel
+2773,11766,2024-09-18,Health Issue,12190,Pending,Customer
+2774,7913,2025-08-28,Price Change,15013,Pending,Hotel
+2775,6038,2025-06-15,Travel Restriction,38530,Processed,Customer
+2776,4034,2024-11-15,Schedule Conflict,29663,Processed,Hotel
+2777,2937,2025-03-03,Personal Issue,1939,Pending,Customer
+2778,5970,2024-06-18,Personal Issue,42913,Pending,Hotel
+2779,1200,2024-09-16,Personal Issue,20995,Processed,Hotel
+2780,1932,2026-02-09,Schedule Conflict,19084,Pending,System
+2781,2130,2025-03-09,Price Change,45047,Processed,System
+2782,10335,2025-01-24,Health Issue,1726,Pending,Customer
+2783,5246,2025-07-29,Emergency,34552,Processed,Customer
+2784,11067,2025-10-28,Price Change,14849,Processed,Customer
+2785,2268,2024-06-06,Health Issue,41176,Processed,Hotel
+2786,1088,2024-10-24,Health Issue,25227,Processed,Customer
+2787,5087,2025-08-20,Health Issue,7390,Processed,Customer
+2788,4020,2025-07-22,Health Issue,6052,Pending,Customer
+2789,5491,2024-06-06,Schedule Conflict,3571,Processed,Customer
+2790,7525,2024-05-10,Price Change,22093,Pending,Hotel
+2791,11535,2024-11-07,Health Issue,17056,Processed,System
+2792,6502,2026-03-12,Health Issue,7504,Processed,System
+2793,4049,2024-08-17,Emergency,18786,Pending,System
+2794,11778,2025-04-21,Travel Restriction,49900,Processed,System
+2795,9826,2025-07-19,Schedule Conflict,36728,Processed,Customer
+2796,3031,2025-09-18,Price Change,43092,Processed,System
+2797,1090,2024-09-10,Personal Issue,34552,Pending,Hotel
+2798,9859,2024-06-13,Personal Issue,25495,Pending,Customer
+2799,11404,2025-12-13,Health Issue,38662,Pending,Customer
+2800,6130,2025-10-14,Emergency,24941,Processed,System
+2801,3119,2024-10-16,Emergency,47149,Pending,Customer
+2802,1097,2026-01-11,Emergency,1088,Processed,System
+2803,5698,2025-07-07,Travel Restriction,8923,Processed,System
+2804,679,2025-08-19,Price Change,43237,Processed,Customer
+2805,5224,2026-03-18,Health Issue,42901,Pending,Hotel
+2806,350,2025-10-16,Travel Restriction,17592,Processed,System
+2807,4129,2025-04-16,Travel Restriction,36023,Pending,Hotel
+2808,5324,2025-02-16,Personal Issue,25171,Pending,Customer
+2809,3296,2025-04-21,Health Issue,5622,Processed,System
+2810,2758,2025-02-27,Schedule Conflict,7360,Pending,Hotel
+2811,3291,2024-05-23,Personal Issue,2657,Pending,Customer
+2812,3436,2026-04-12,Travel Restriction,28437,Processed,System
+2813,5328,2026-02-10,Travel Restriction,33190,Pending,Customer
+2814,1508,2026-03-21,Schedule Conflict,24265,Processed,Hotel
+2815,3743,2025-07-17,Price Change,15711,Pending,System
+2816,2434,2025-04-27,Emergency,2820,Processed,Customer
+2817,10811,2026-04-15,Health Issue,33241,Processed,System
+2818,7528,2024-08-09,Personal Issue,9941,Processed,Hotel
+2819,6455,2024-05-29,Schedule Conflict,30183,Pending,System
+2820,2241,2026-02-25,Emergency,14421,Processed,Hotel
+2821,6197,2024-11-14,Personal Issue,31807,Pending,System
+2822,1202,2024-07-17,Health Issue,18666,Pending,System
+2823,7675,2026-01-19,Price Change,8698,Processed,Customer
+2824,7866,2024-10-15,Schedule Conflict,23553,Processed,System
+2825,9479,2025-06-09,Emergency,25286,Pending,Customer
+2826,6599,2025-03-06,Health Issue,41148,Pending,Hotel
+2827,78,2025-10-18,Emergency,7542,Pending,Hotel
+2828,8840,2025-03-04,Travel Restriction,25934,Pending,Hotel
+2829,9128,2026-04-28,Emergency,41475,Pending,Customer
+2830,10319,2026-03-07,Price Change,45303,Processed,Hotel
+2831,9633,2024-09-08,Emergency,46192,Processed,System
+2832,4417,2024-11-08,Price Change,46451,Processed,Customer
+2833,577,2026-03-09,Schedule Conflict,49054,Processed,System
+2834,8595,2024-12-24,Personal Issue,15342,Processed,Customer
+2835,2443,2025-09-21,Personal Issue,4288,Pending,Hotel
+2836,4668,2026-01-24,Schedule Conflict,17849,Processed,Customer
+2837,1436,2025-06-02,Health Issue,21814,Pending,Hotel
+2838,9849,2024-11-16,Travel Restriction,29894,Processed,Customer
+2839,177,2025-08-24,Health Issue,46861,Processed,System
+2840,905,2026-01-26,Travel Restriction,24665,Processed,System
+2841,3129,2024-10-03,Personal Issue,42889,Pending,System
+2842,6324,2026-01-23,Personal Issue,47822,Pending,Customer
+2843,6297,2024-12-19,Health Issue,17272,Pending,System
+2844,3991,2025-01-29,Personal Issue,37188,Processed,Customer
+2845,5849,2024-11-24,Health Issue,17010,Pending,System
+2846,7948,2025-11-26,Health Issue,11334,Processed,System
+2847,6153,2025-06-27,Emergency,3463,Processed,Hotel
+2848,277,2026-01-22,Travel Restriction,20383,Processed,Customer
+2849,9861,2024-10-02,Personal Issue,45959,Pending,Hotel
+2850,3525,2025-11-20,Personal Issue,1886,Processed,Hotel
+2851,7932,2024-09-13,Health Issue,21754,Processed,Customer
+2852,8884,2025-12-27,Travel Restriction,43346,Pending,Hotel
+2853,9252,2025-05-06,Personal Issue,3584,Processed,Hotel
+2854,6394,2026-03-10,Price Change,6690,Processed,System
+2855,9326,2025-03-01,Personal Issue,20752,Pending,System
+2856,3854,2025-11-02,Health Issue,11876,Pending,Customer
+2857,5310,2024-08-29,Health Issue,30621,Processed,System
+2858,7661,2024-11-18,Price Change,3716,Pending,Customer
+2859,8180,2024-08-28,Travel Restriction,9809,Processed,Customer
+2860,371,2024-08-07,Emergency,1312,Processed,Customer
+2861,4381,2025-10-31,Schedule Conflict,5127,Pending,System
+2862,2150,2026-03-18,Schedule Conflict,12506,Processed,System
+2863,9749,2024-09-23,Price Change,25463,Processed,System
+2864,1263,2026-04-08,Schedule Conflict,8671,Processed,System
+2865,5216,2025-04-22,Schedule Conflict,37962,Processed,Customer
+2866,1374,2025-07-04,Travel Restriction,2529,Pending,Customer
+2867,10828,2025-10-02,Health Issue,9355,Pending,Hotel
+2868,2164,2024-12-08,Health Issue,31436,Processed,Hotel
+2869,2576,2026-04-17,Personal Issue,22281,Pending,System
+2870,3244,2025-08-13,Personal Issue,32173,Processed,System
+2871,26,2024-06-03,Personal Issue,34837,Pending,Hotel
+2872,5508,2025-04-24,Travel Restriction,14053,Processed,System
+2873,5579,2026-02-09,Personal Issue,7299,Pending,System
+2874,2726,2024-06-12,Personal Issue,7260,Pending,Hotel
+2875,7311,2026-03-28,Emergency,45572,Pending,Hotel
+2876,9619,2024-09-20,Schedule Conflict,29885,Processed,Customer
+2877,4147,2024-09-17,Travel Restriction,39136,Processed,Hotel
+2878,11719,2026-05-01,Schedule Conflict,24952,Processed,Hotel
+2879,4754,2025-07-19,Health Issue,33469,Pending,Hotel
+2880,11790,2024-06-15,Health Issue,37140,Pending,Customer
+2881,3496,2024-09-16,Travel Restriction,49838,Processed,Customer
+2882,8480,2025-06-22,Travel Restriction,24224,Processed,System
+2883,3808,2025-04-03,Price Change,16581,Processed,Hotel
+2884,4705,2025-02-27,Personal Issue,43283,Processed,Customer
+2885,10211,2025-02-17,Emergency,13327,Processed,Customer
+2886,4669,2026-05-06,Emergency,47600,Pending,Hotel
+2887,654,2026-03-15,Personal Issue,10778,Pending,Customer
+2888,7956,2025-01-20,Travel Restriction,27124,Pending,Hotel
+2889,7334,2024-11-05,Price Change,49111,Pending,Customer
+2890,3874,2024-08-27,Schedule Conflict,42158,Pending,Hotel
+2891,7798,2026-03-21,Travel Restriction,30881,Processed,Customer
+2892,1425,2025-11-08,Price Change,26694,Pending,Hotel
+2893,21,2025-01-01,Emergency,44633,Pending,Customer
+2894,6880,2025-01-04,Health Issue,1505,Pending,Hotel
+2895,3794,2024-12-28,Price Change,30814,Processed,Hotel
+2896,11086,2024-06-15,Travel Restriction,42890,Pending,Customer
+2897,5924,2025-12-13,Price Change,30259,Processed,Hotel
+2898,5750,2025-10-21,Travel Restriction,9419,Processed,Customer
+2899,9137,2025-11-02,Health Issue,19495,Processed,Hotel
+2900,9194,2026-04-02,Emergency,43397,Pending,Hotel
+2901,1994,2025-08-16,Health Issue,35496,Pending,Customer
+2902,2352,2024-06-10,Emergency,4412,Pending,Customer
+2903,815,2025-02-05,Schedule Conflict,41479,Pending,System
+2904,8671,2025-05-28,Personal Issue,12654,Processed,System
+2905,5230,2025-01-12,Emergency,43562,Pending,Customer
+2906,9797,2025-04-28,Emergency,24851,Pending,Customer
+2907,8874,2026-02-01,Price Change,9895,Pending,Customer
+2908,5664,2025-03-28,Emergency,32624,Pending,Hotel
+2909,4851,2025-03-05,Schedule Conflict,27577,Processed,Customer
+2910,1691,2024-11-29,Emergency,23400,Processed,System
+2911,7792,2025-06-07,Emergency,11455,Processed,System
+2912,2328,2025-11-09,Health Issue,10349,Processed,Hotel
+2913,5164,2025-06-10,Travel Restriction,17315,Processed,Customer
+2914,3498,2025-07-23,Personal Issue,10559,Pending,System
+2915,5108,2025-03-23,Price Change,39031,Pending,Hotel
+2916,9346,2024-07-05,Price Change,37990,Processed,Customer
+2917,2966,2024-07-30,Price Change,48347,Pending,Hotel
+2918,8630,2025-03-03,Health Issue,4540,Processed,System
+2919,5844,2025-07-18,Health Issue,21289,Processed,Customer
+2920,3584,2024-05-28,Travel Restriction,15031,Pending,Customer
+2921,11593,2025-01-06,Emergency,12742,Pending,Customer
+2922,2474,2025-11-11,Emergency,30490,Pending,Customer
+2923,10413,2025-08-13,Health Issue,48348,Pending,System
+2924,11751,2024-07-31,Health Issue,39005,Pending,Customer
+2925,6913,2026-04-22,Personal Issue,26290,Pending,System
+2926,162,2025-03-03,Emergency,29663,Pending,Customer
+2927,1710,2025-03-24,Schedule Conflict,33605,Pending,System
+2928,1809,2025-02-18,Travel Restriction,27518,Processed,Customer
+2929,7831,2025-12-22,Emergency,11111,Pending,Hotel
+2930,1495,2025-10-31,Schedule Conflict,38024,Pending,System
+2931,805,2025-10-06,Emergency,38300,Processed,Hotel
+2932,872,2025-06-07,Health Issue,4149,Pending,Hotel
+2933,5878,2026-05-01,Price Change,27825,Processed,Customer
+2934,463,2025-06-18,Travel Restriction,21304,Processed,Hotel
+2935,1313,2026-02-10,Personal Issue,44606,Processed,System
+2936,3338,2026-04-03,Schedule Conflict,4067,Processed,System
+2937,8769,2025-11-27,Emergency,42752,Processed,Hotel
+2938,2416,2025-08-31,Emergency,32665,Pending,System
+2939,10885,2024-12-31,Health Issue,15640,Pending,System
+2940,10919,2024-08-29,Emergency,30112,Processed,System
+2941,5507,2026-02-11,Schedule Conflict,23745,Pending,Hotel
+2942,3546,2025-05-16,Price Change,31154,Processed,System
+2943,5704,2026-02-23,Emergency,17963,Pending,Hotel
+2944,5410,2025-03-02,Price Change,21179,Pending,Customer
+2945,8119,2025-09-02,Travel Restriction,17200,Processed,Customer
+2946,11150,2025-09-08,Schedule Conflict,29759,Processed,Customer
+2947,2202,2025-11-17,Emergency,3848,Processed,Customer
+2948,10987,2025-07-08,Schedule Conflict,2483,Processed,System
+2949,4109,2024-08-28,Personal Issue,1245,Processed,System
+2950,3958,2025-09-06,Schedule Conflict,15221,Processed,Hotel
+2951,4439,2026-01-16,Health Issue,22020,Processed,Customer
+2952,1001,2025-08-15,Price Change,42572,Pending,Hotel
+2953,8801,2026-01-13,Health Issue,15308,Processed,System
+2954,5415,2024-12-15,Emergency,22504,Pending,Customer
+2955,7335,2026-03-26,Personal Issue,10178,Pending,System
+2956,11606,2025-08-26,Personal Issue,47793,Processed,Customer
+2957,300,2025-11-18,Personal Issue,21099,Processed,System
+2958,302,2024-07-10,Travel Restriction,31825,Pending,System
+2959,5908,2025-10-02,Travel Restriction,33269,Processed,System
+2960,1212,2025-10-20,Price Change,49116,Pending,Customer
+2961,9154,2025-07-21,Health Issue,13950,Processed,System
+2962,11582,2024-12-18,Price Change,18715,Pending,System
+2963,11133,2025-03-27,Travel Restriction,19204,Pending,System
+2964,10637,2024-06-04,Schedule Conflict,16209,Pending,Customer
+2965,11274,2024-09-01,Emergency,10065,Processed,Hotel
+2966,332,2025-02-06,Price Change,21209,Processed,Customer
+2967,5588,2024-07-11,Schedule Conflict,28895,Pending,Customer
+2968,4423,2025-12-05,Health Issue,38615,Pending,System
+2969,4702,2025-02-07,Personal Issue,8431,Pending,System
+2970,9783,2024-08-11,Schedule Conflict,16444,Pending,Hotel
+2971,9618,2024-05-15,Health Issue,49191,Pending,System
+2972,11228,2024-05-19,Health Issue,34817,Processed,Hotel
+2973,4345,2025-09-30,Schedule Conflict,40702,Pending,Hotel
+2974,7008,2025-05-03,Price Change,3764,Pending,Customer
+2975,523,2025-04-01,Travel Restriction,30063,Pending,Hotel
+2976,7417,2026-01-19,Emergency,36397,Pending,Hotel
+2977,880,2024-07-20,Schedule Conflict,46529,Processed,Customer
+2978,8031,2025-05-22,Health Issue,19070,Pending,Hotel
+2979,1082,2025-05-03,Schedule Conflict,47347,Processed,Hotel
+2980,11202,2024-12-23,Health Issue,31123,Pending,Hotel
+2981,7930,2025-07-24,Emergency,30282,Processed,Customer
+2982,11916,2025-02-28,Personal Issue,27626,Processed,System
+2983,8836,2025-12-19,Health Issue,17055,Processed,System
+2984,9678,2025-09-23,Price Change,23282,Processed,Hotel
+2985,3172,2025-12-29,Travel Restriction,26152,Processed,Hotel
+2986,5399,2025-11-28,Schedule Conflict,35937,Processed,System
+2987,38,2025-07-19,Health Issue,2629,Processed,System
+2988,5258,2024-05-12,Price Change,7474,Pending,Customer
+2989,6506,2025-07-02,Personal Issue,45201,Processed,Hotel
+2990,885,2024-10-22,Travel Restriction,41165,Processed,System
+2991,10847,2025-02-01,Travel Restriction,5732,Processed,System
+2992,6948,2025-01-09,Price Change,16400,Pending,System
+2993,9813,2024-09-14,Schedule Conflict,1401,Processed,Hotel
+2994,4809,2025-07-20,Personal Issue,44187,Pending,Hotel
+2995,5529,2025-04-14,Price Change,10289,Pending,System
+2996,11243,2024-09-01,Price Change,22633,Pending,Customer
+2997,6209,2024-08-15,Schedule Conflict,21313,Processed,Hotel
+2998,4945,2026-02-09,Health Issue,24521,Processed,Customer
+2999,1499,2026-02-10,Personal Issue,17869,Processed,Hotel
+3000,1143,2024-05-15,Price Change,8153,Pending,Customer
