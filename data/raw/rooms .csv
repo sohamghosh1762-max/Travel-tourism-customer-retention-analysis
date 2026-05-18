@@ -1,0 +1,2001 @@
+room_id,hotel_id,room_type,room_capacity,base_price,availability_status,floor_number,room_size_sqft,wifi_available,ac_available
+1,56,Suite,3,12636,Maintenance,9,185,Yes,Yes
+2,38,Standard,1,3237,Booked,14,440,No,No
+3,60,Family Suite,4,19815,Available,10,929,No,No
+4,47,Deluxe,4,3120,Booked,18,774,Yes,No
+5,55,Executive,2,12863,Booked,14,241,Yes,Yes
+6,6,Family Suite,6,17917,Maintenance,11,936,Yes,Yes
+7,15,Family Suite,2,5998,Booked,12,361,No,Yes
+8,87,Family Suite,1,14563,Maintenance,11,796,Yes,No
+9,14,Deluxe,3,3205,Booked,3,974,No,No
+10,81,Standard,4,11495,Booked,16,1057,No,Yes
+11,81,Standard,1,9994,Available,8,304,No,No
+12,8,Executive,2,14369,Booked,13,282,No,No
+13,36,Suite,4,16243,Booked,12,959,Yes,No
+14,11,Suite,6,9968,Available,17,1096,Yes,Yes
+15,57,Deluxe,6,6661,Booked,9,965,No,Yes
+16,59,Family Suite,6,13136,Maintenance,3,914,No,No
+17,74,Family Suite,3,3155,Available,19,856,No,No
+18,98,Suite,5,10858,Booked,8,1083,Yes,No
+19,95,Family Suite,5,18698,Maintenance,1,839,No,Yes
+20,51,Executive,6,18141,Booked,9,1054,No,Yes
+21,68,Executive,1,13039,Available,9,1057,Yes,No
+22,73,Standard,1,17395,Available,14,309,No,No
+23,56,Executive,4,16673,Booked,13,951,Yes,Yes
+24,16,Family Suite,5,8716,Booked,6,569,No,Yes
+25,74,Suite,6,9400,Available,15,625,No,Yes
+26,46,Family Suite,4,17163,Booked,19,299,Yes,No
+27,94,Executive,2,16120,Booked,2,857,No,No
+28,62,Executive,4,6136,Booked,2,543,No,No
+29,18,Standard,3,3098,Maintenance,3,548,No,No
+30,80,Suite,3,3672,Maintenance,20,888,No,No
+31,17,Suite,3,15261,Maintenance,7,682,No,No
+32,35,Family Suite,3,13530,Maintenance,11,906,No,No
+33,27,Executive,2,13584,Maintenance,9,1174,Yes,Yes
+34,4,Suite,5,13689,Available,1,882,No,Yes
+35,94,Executive,4,6784,Maintenance,5,666,No,No
+36,72,Family Suite,4,4472,Maintenance,18,775,No,Yes
+37,52,Executive,1,10192,Booked,14,1010,Yes,Yes
+38,56,Executive,6,12534,Booked,18,356,No,Yes
+39,6,Suite,1,18292,Maintenance,13,1001,Yes,No
+40,29,Suite,4,18744,Booked,17,442,Yes,No
+41,14,Executive,4,11934,Maintenance,3,780,Yes,No
+42,88,Deluxe,4,13433,Available,16,1002,Yes,No
+43,23,Family Suite,3,3682,Available,13,800,Yes,No
+44,79,Executive,4,19872,Available,16,819,Yes,Yes
+45,62,Standard,6,4009,Available,17,244,Yes,Yes
+46,95,Suite,5,3102,Available,7,1149,No,No
+47,23,Deluxe,4,8253,Booked,20,468,Yes,Yes
+48,90,Standard,4,14049,Maintenance,20,300,Yes,Yes
+49,39,Family Suite,4,11112,Available,8,249,Yes,Yes
+50,60,Family Suite,5,5594,Booked,14,1116,No,No
+51,11,Standard,6,7254,Available,7,1026,Yes,Yes
+52,78,Suite,4,16663,Maintenance,14,841,No,Yes
+53,74,Deluxe,3,8689,Maintenance,7,918,No,No
+54,21,Suite,5,18913,Booked,13,428,No,No
+55,40,Deluxe,6,13133,Available,8,189,Yes,No
+56,18,Executive,6,5099,Booked,19,389,Yes,No
+57,46,Deluxe,1,13313,Booked,7,341,No,No
+58,78,Family Suite,2,11606,Maintenance,10,871,Yes,No
+59,51,Deluxe,5,17618,Maintenance,16,783,Yes,No
+60,11,Family Suite,2,19754,Booked,15,349,No,No
+61,64,Suite,5,15068,Maintenance,3,233,No,Yes
+62,49,Executive,6,7919,Maintenance,13,1066,No,No
+63,96,Deluxe,3,5787,Maintenance,11,677,Yes,Yes
+64,7,Family Suite,2,3098,Booked,1,450,Yes,Yes
+65,14,Executive,5,4763,Available,20,974,No,Yes
+66,59,Deluxe,1,8399,Booked,12,628,Yes,No
+67,51,Family Suite,2,14217,Booked,1,260,Yes,No
+68,9,Deluxe,6,5103,Available,4,916,No,No
+69,51,Suite,4,9880,Available,8,668,Yes,Yes
+70,86,Standard,6,17611,Booked,19,375,Yes,No
+71,54,Suite,1,18873,Available,1,369,Yes,No
+72,59,Deluxe,2,10234,Maintenance,16,1010,Yes,Yes
+73,13,Standard,6,11983,Maintenance,6,603,Yes,Yes
+74,79,Family Suite,2,7719,Maintenance,9,195,Yes,No
+75,27,Standard,5,14993,Booked,9,1046,No,No
+76,22,Standard,6,12759,Available,9,435,No,Yes
+77,61,Suite,1,4601,Maintenance,1,1197,Yes,No
+78,7,Suite,1,12849,Maintenance,8,1124,Yes,Yes
+79,42,Family Suite,5,15818,Available,5,673,No,Yes
+80,97,Suite,4,18383,Maintenance,14,607,Yes,No
+81,65,Suite,3,14821,Available,11,663,No,Yes
+82,22,Suite,2,12645,Booked,9,955,Yes,No
+83,34,Family Suite,6,18891,Booked,4,979,No,No
+84,14,Suite,6,19481,Available,16,975,No,Yes
+85,39,Standard,5,5682,Booked,2,557,Yes,Yes
+86,64,Family Suite,6,13323,Booked,16,223,Yes,No
+87,95,Executive,5,14998,Booked,2,448,No,No
+88,39,Standard,3,7002,Maintenance,9,964,Yes,No
+89,81,Executive,1,19868,Maintenance,2,896,No,Yes
+90,43,Standard,1,9949,Booked,17,853,No,Yes
+91,66,Executive,3,17057,Available,10,326,No,Yes
+92,93,Executive,5,19044,Available,10,333,Yes,No
+93,85,Executive,5,5075,Booked,1,225,No,Yes
+94,29,Suite,4,14294,Maintenance,16,337,Yes,No
+95,53,Executive,6,5933,Maintenance,2,500,No,Yes
+96,11,Executive,3,3737,Available,16,622,Yes,Yes
+97,45,Executive,1,2695,Available,15,1114,No,No
+98,65,Deluxe,3,14549,Booked,15,627,Yes,No
+99,62,Executive,1,16703,Booked,16,314,Yes,Yes
+100,71,Deluxe,2,12310,Maintenance,4,445,Yes,Yes
+101,20,Family Suite,1,14374,Available,15,1154,Yes,No
+102,63,Family Suite,5,9776,Available,14,1156,No,No
+103,68,Standard,6,5850,Available,2,533,No,No
+104,81,Executive,4,19978,Maintenance,1,272,Yes,Yes
+105,97,Suite,4,6728,Available,18,401,No,Yes
+106,72,Standard,5,3755,Available,12,682,Yes,Yes
+107,84,Executive,2,4048,Maintenance,13,915,Yes,No
+108,29,Standard,3,13544,Maintenance,12,1086,Yes,No
+109,51,Standard,4,14912,Available,14,902,No,Yes
+110,52,Family Suite,3,15494,Maintenance,7,575,Yes,Yes
+111,32,Suite,4,19324,Booked,7,1128,Yes,Yes
+112,19,Family Suite,2,13189,Booked,12,227,Yes,No
+113,35,Family Suite,1,16891,Maintenance,15,1019,Yes,No
+114,69,Standard,2,11921,Available,2,1185,Yes,Yes
+115,50,Executive,3,12096,Maintenance,10,1196,Yes,Yes
+116,97,Standard,1,11565,Booked,2,410,No,No
+117,91,Standard,5,18769,Available,13,462,Yes,No
+118,80,Suite,1,11826,Booked,15,1084,Yes,No
+119,32,Family Suite,1,11111,Booked,1,309,No,Yes
+120,59,Deluxe,4,11114,Booked,4,372,Yes,Yes
+121,81,Suite,1,6375,Maintenance,18,1129,No,No
+122,39,Suite,4,9373,Maintenance,17,973,Yes,No
+123,63,Deluxe,3,3298,Booked,6,702,Yes,No
+124,57,Standard,2,13787,Booked,8,368,Yes,No
+125,69,Deluxe,3,4890,Booked,12,1099,Yes,Yes
+126,43,Deluxe,2,10786,Booked,3,274,No,No
+127,2,Suite,6,14343,Available,7,1186,Yes,No
+128,66,Standard,1,14259,Maintenance,3,1021,No,Yes
+129,3,Deluxe,6,2606,Booked,9,827,Yes,No
+130,9,Suite,3,16518,Maintenance,20,1116,Yes,Yes
+131,61,Deluxe,4,7264,Booked,18,765,No,No
+132,66,Deluxe,4,9154,Available,19,1138,Yes,No
+133,27,Deluxe,5,4087,Booked,2,555,No,Yes
+134,6,Executive,4,5152,Available,10,1029,Yes,Yes
+135,27,Executive,5,12234,Maintenance,3,320,No,Yes
+136,29,Family Suite,4,15258,Maintenance,10,1070,Yes,No
+137,27,Suite,4,13966,Maintenance,7,266,No,No
+138,36,Family Suite,3,16285,Maintenance,4,556,Yes,No
+139,38,Standard,4,10125,Maintenance,4,726,No,No
+140,100,Executive,2,10359,Maintenance,2,311,Yes,Yes
+141,20,Suite,2,10386,Available,17,717,Yes,Yes
+142,50,Family Suite,1,7257,Booked,1,805,Yes,No
+143,34,Standard,1,3294,Booked,8,973,No,No
+144,66,Executive,3,17812,Available,16,847,Yes,No
+145,95,Standard,2,17707,Booked,16,931,No,No
+146,53,Deluxe,5,3448,Booked,7,1174,No,Yes
+147,8,Family Suite,5,19731,Available,7,374,Yes,No
+148,12,Standard,5,8061,Booked,15,691,Yes,No
+149,13,Suite,5,15481,Available,4,183,No,Yes
+150,59,Executive,5,8197,Maintenance,3,1080,No,No
+151,2,Standard,4,15572,Maintenance,17,244,Yes,No
+152,7,Family Suite,3,7855,Booked,6,737,No,No
+153,65,Suite,1,16337,Maintenance,3,873,No,Yes
+154,81,Deluxe,3,5805,Maintenance,20,804,No,No
+155,28,Standard,1,3852,Maintenance,2,723,Yes,No
+156,93,Family Suite,1,13829,Maintenance,9,443,No,Yes
+157,69,Suite,2,8804,Booked,14,1101,No,No
+158,95,Executive,6,6939,Booked,2,367,Yes,Yes
+159,86,Standard,5,3468,Booked,14,945,No,No
+160,41,Standard,6,18115,Maintenance,10,407,Yes,No
+161,2,Family Suite,6,9435,Booked,17,357,No,Yes
+162,14,Executive,2,16205,Maintenance,17,720,No,Yes
+163,11,Suite,3,12986,Booked,18,1153,Yes,Yes
+164,26,Executive,6,5050,Booked,6,1176,Yes,No
+165,50,Suite,2,11350,Booked,20,796,No,No
+166,26,Deluxe,1,18778,Maintenance,6,640,Yes,Yes
+167,84,Suite,5,18149,Booked,14,318,Yes,No
+168,57,Standard,5,11486,Maintenance,13,439,Yes,Yes
+169,57,Suite,4,12143,Booked,13,322,Yes,No
+170,85,Family Suite,3,16506,Booked,5,503,No,No
+171,34,Deluxe,3,16325,Booked,15,358,Yes,Yes
+172,21,Executive,2,16263,Booked,20,457,Yes,No
+173,13,Standard,3,11012,Available,8,709,Yes,No
+174,72,Deluxe,4,19723,Available,8,810,Yes,Yes
+175,86,Family Suite,5,19694,Booked,5,338,No,No
+176,84,Executive,5,16304,Available,19,602,No,Yes
+177,30,Standard,3,15654,Booked,16,455,Yes,No
+178,63,Deluxe,6,5095,Maintenance,10,1032,Yes,No
+179,62,Deluxe,2,14481,Available,13,212,Yes,Yes
+180,55,Deluxe,4,11850,Booked,2,779,No,Yes
+181,78,Suite,1,5238,Available,2,791,Yes,No
+182,46,Executive,6,13086,Booked,11,1145,No,Yes
+183,7,Standard,1,18050,Maintenance,9,1054,No,Yes
+184,94,Executive,3,7620,Available,11,365,Yes,No
+185,74,Family Suite,5,17499,Maintenance,7,237,No,Yes
+186,14,Deluxe,4,15503,Booked,13,763,Yes,Yes
+187,8,Executive,6,19939,Maintenance,13,949,Yes,Yes
+188,12,Executive,2,10784,Available,5,546,Yes,Yes
+189,35,Executive,2,7339,Booked,14,1109,No,Yes
+190,74,Suite,6,12546,Maintenance,14,526,Yes,No
+191,8,Suite,3,8806,Booked,16,1090,No,No
+192,11,Standard,4,2987,Available,17,562,No,Yes
+193,69,Family Suite,6,18835,Booked,12,793,No,No
+194,95,Family Suite,2,4444,Booked,3,869,No,No
+195,68,Deluxe,6,7896,Available,2,1005,Yes,No
+196,94,Suite,2,3170,Maintenance,8,822,Yes,No
+197,91,Executive,3,12163,Maintenance,10,412,Yes,Yes
+198,90,Family Suite,3,13806,Maintenance,15,717,No,No
+199,91,Suite,1,12164,Booked,15,312,No,No
+200,80,Suite,4,7426,Maintenance,17,396,No,Yes
+201,2,Family Suite,4,17267,Maintenance,3,202,Yes,No
+202,38,Family Suite,3,8193,Maintenance,17,349,Yes,Yes
+203,82,Executive,3,6797,Available,5,694,Yes,No
+204,65,Suite,3,17895,Available,6,471,Yes,Yes
+205,83,Suite,3,17886,Maintenance,19,761,Yes,No
+206,96,Family Suite,3,9990,Booked,12,1093,No,No
+207,84,Standard,2,9805,Booked,7,1121,No,No
+208,92,Standard,4,3379,Maintenance,1,604,Yes,Yes
+209,76,Deluxe,3,12083,Available,11,1135,No,No
+210,80,Suite,1,17985,Available,4,339,Yes,Yes
+211,10,Standard,2,15392,Booked,5,276,Yes,No
+212,34,Suite,4,19055,Maintenance,7,965,No,No
+213,63,Standard,1,14621,Available,15,205,No,Yes
+214,17,Executive,4,9620,Available,15,594,Yes,No
+215,17,Deluxe,4,13467,Booked,5,183,No,Yes
+216,95,Suite,4,3813,Booked,17,816,Yes,No
+217,67,Family Suite,4,18708,Maintenance,11,346,Yes,No
+218,50,Deluxe,5,6066,Maintenance,10,550,No,No
+219,87,Standard,5,9857,Maintenance,12,643,Yes,Yes
+220,19,Executive,6,3085,Available,14,1002,No,Yes
+221,78,Suite,6,12777,Available,16,1130,No,No
+222,95,Family Suite,4,5739,Booked,11,932,Yes,Yes
+223,10,Deluxe,6,17113,Maintenance,8,252,Yes,No
+224,43,Executive,4,4583,Maintenance,14,947,Yes,No
+225,47,Executive,6,4157,Available,4,1001,Yes,Yes
+226,22,Standard,4,19812,Booked,10,858,No,No
+227,99,Standard,1,14002,Available,5,1144,No,Yes
+228,84,Family Suite,1,16321,Available,4,808,Yes,No
+229,64,Deluxe,4,9322,Available,18,658,Yes,No
+230,87,Suite,4,8637,Available,13,1112,No,No
+231,12,Deluxe,1,13900,Available,9,957,Yes,No
+232,85,Deluxe,1,17064,Booked,15,797,Yes,Yes
+233,84,Suite,3,10727,Maintenance,20,454,Yes,No
+234,41,Suite,6,15094,Available,9,865,Yes,No
+235,74,Standard,6,7123,Booked,15,1143,Yes,No
+236,30,Executive,6,16066,Maintenance,11,185,No,Yes
+237,87,Suite,1,7613,Booked,3,841,Yes,Yes
+238,12,Deluxe,6,19908,Booked,15,313,Yes,No
+239,75,Suite,1,11474,Booked,12,604,No,Yes
+240,53,Family Suite,4,17544,Maintenance,13,995,Yes,Yes
+241,7,Suite,6,11357,Available,9,1198,Yes,Yes
+242,24,Standard,4,14690,Booked,15,567,No,No
+243,54,Suite,6,15437,Booked,15,1083,Yes,Yes
+244,83,Family Suite,4,18218,Booked,3,962,Yes,No
+245,56,Standard,5,13130,Maintenance,1,991,Yes,Yes
+246,7,Deluxe,5,12230,Booked,6,300,No,No
+247,54,Standard,1,14794,Booked,8,1050,No,Yes
+248,42,Standard,2,12210,Available,18,790,Yes,No
+249,9,Family Suite,6,16192,Available,19,387,Yes,No
+250,46,Standard,1,18195,Available,2,622,No,Yes
+251,78,Executive,1,9717,Booked,15,239,No,Yes
+252,16,Suite,1,17577,Maintenance,19,835,No,No
+253,56,Family Suite,6,9143,Available,20,769,No,No
+254,5,Executive,5,15189,Maintenance,2,742,No,No
+255,54,Family Suite,1,7373,Available,20,1063,Yes,Yes
+256,86,Family Suite,4,19443,Booked,16,643,Yes,No
+257,59,Deluxe,3,15714,Maintenance,13,730,No,Yes
+258,33,Executive,5,8640,Maintenance,8,192,Yes,No
+259,42,Standard,3,18494,Booked,19,1191,No,Yes
+260,25,Standard,2,15104,Booked,5,924,Yes,Yes
+261,49,Suite,4,19601,Available,9,198,Yes,Yes
+262,97,Suite,4,12611,Maintenance,4,836,Yes,No
+263,54,Standard,3,4332,Maintenance,9,866,Yes,Yes
+264,48,Standard,5,15879,Maintenance,8,660,Yes,Yes
+265,84,Standard,5,4555,Booked,4,704,Yes,Yes
+266,75,Executive,1,3362,Booked,15,788,Yes,No
+267,94,Executive,3,11721,Maintenance,9,241,No,Yes
+268,13,Suite,5,9798,Maintenance,9,1109,Yes,No
+269,73,Family Suite,1,4880,Maintenance,6,624,Yes,Yes
+270,65,Family Suite,4,4137,Maintenance,14,1026,Yes,No
+271,11,Suite,4,16480,Maintenance,13,278,Yes,No
+272,88,Executive,2,11619,Available,1,599,No,Yes
+273,4,Family Suite,3,19502,Maintenance,12,747,Yes,No
+274,33,Standard,5,18216,Booked,19,1178,No,No
+275,37,Deluxe,1,3597,Available,2,382,Yes,No
+276,96,Standard,5,16053,Available,15,535,No,Yes
+277,88,Deluxe,3,12453,Maintenance,15,609,No,Yes
+278,35,Family Suite,5,13845,Maintenance,7,365,No,Yes
+279,74,Family Suite,1,5211,Available,5,1061,No,Yes
+280,34,Deluxe,5,6887,Available,15,1121,No,No
+281,69,Standard,3,12525,Maintenance,6,612,Yes,Yes
+282,85,Family Suite,6,14309,Maintenance,12,450,Yes,No
+283,69,Suite,2,5495,Available,17,828,Yes,Yes
+284,41,Standard,6,13604,Booked,13,796,No,Yes
+285,14,Suite,2,14378,Booked,8,340,Yes,No
+286,2,Suite,5,9568,Maintenance,16,428,Yes,No
+287,22,Suite,3,7403,Maintenance,8,330,No,Yes
+288,90,Suite,2,5645,Maintenance,7,762,No,No
+289,56,Family Suite,3,16825,Available,18,186,No,Yes
+290,48,Deluxe,1,2903,Booked,9,1057,No,No
+291,6,Family Suite,3,19490,Available,20,1093,No,Yes
+292,87,Executive,5,7717,Maintenance,13,371,No,No
+293,57,Family Suite,6,8388,Maintenance,7,1068,No,Yes
+294,97,Executive,2,14335,Maintenance,15,921,Yes,No
+295,68,Standard,1,14532,Booked,18,316,Yes,No
+296,97,Deluxe,2,5209,Booked,15,562,Yes,Yes
+297,48,Standard,2,6945,Maintenance,15,945,Yes,Yes
+298,99,Suite,1,11858,Booked,16,1127,No,No
+299,66,Family Suite,6,16309,Available,16,271,Yes,No
+300,76,Family Suite,5,17984,Available,17,211,No,Yes
+301,24,Family Suite,5,4965,Available,5,850,Yes,No
+302,58,Suite,6,14419,Available,16,991,No,No
+303,43,Suite,1,7694,Maintenance,11,1129,No,Yes
+304,20,Deluxe,1,9234,Booked,14,1031,No,No
+305,76,Deluxe,5,15169,Available,7,710,Yes,No
+306,72,Standard,6,14823,Available,14,763,Yes,No
+307,10,Suite,1,15093,Maintenance,17,384,Yes,Yes
+308,49,Standard,2,19418,Maintenance,13,195,No,Yes
+309,65,Executive,3,18732,Available,2,431,No,Yes
+310,47,Standard,4,13413,Maintenance,14,1114,Yes,No
+311,88,Standard,5,15060,Maintenance,10,255,Yes,Yes
+312,22,Suite,5,19824,Maintenance,20,776,Yes,No
+313,68,Standard,1,5506,Available,15,281,No,Yes
+314,91,Deluxe,4,3341,Available,14,703,Yes,No
+315,85,Family Suite,5,11878,Booked,9,394,No,Yes
+316,26,Standard,2,16640,Maintenance,16,1197,No,No
+317,72,Deluxe,2,4880,Maintenance,19,257,Yes,No
+318,66,Deluxe,3,10386,Available,19,1186,No,No
+319,99,Suite,4,19297,Maintenance,9,360,Yes,Yes
+320,98,Family Suite,1,4653,Maintenance,16,465,No,Yes
+321,12,Family Suite,6,9984,Available,4,343,No,No
+322,89,Family Suite,4,12630,Booked,1,402,Yes,Yes
+323,14,Deluxe,2,4864,Booked,17,296,No,Yes
+324,23,Suite,6,10511,Available,16,1056,No,Yes
+325,69,Standard,3,7964,Available,14,403,Yes,No
+326,49,Standard,3,6769,Booked,6,1077,No,Yes
+327,73,Family Suite,1,2817,Maintenance,12,410,Yes,Yes
+328,9,Standard,4,8426,Booked,3,410,No,Yes
+329,25,Deluxe,5,3089,Available,7,858,No,Yes
+330,4,Deluxe,5,5480,Maintenance,10,185,Yes,No
+331,79,Executive,4,5198,Maintenance,8,1015,No,Yes
+332,64,Executive,2,18586,Available,2,827,No,No
+333,90,Standard,6,2735,Booked,7,886,No,Yes
+334,27,Deluxe,3,3392,Available,13,907,Yes,No
+335,42,Deluxe,1,3668,Booked,19,458,No,Yes
+336,32,Executive,1,14400,Maintenance,3,1009,No,Yes
+337,29,Deluxe,6,6614,Available,19,585,No,Yes
+338,76,Standard,2,12114,Available,16,496,Yes,Yes
+339,73,Suite,6,16249,Booked,11,424,Yes,Yes
+340,50,Deluxe,2,19456,Booked,16,464,Yes,Yes
+341,13,Family Suite,5,12988,Maintenance,1,899,Yes,Yes
+342,39,Family Suite,1,15340,Available,13,679,No,Yes
+343,92,Standard,3,16607,Maintenance,8,843,Yes,No
+344,47,Executive,1,3082,Available,19,441,No,No
+345,92,Family Suite,6,12017,Booked,10,838,Yes,Yes
+346,65,Standard,1,3196,Available,7,353,Yes,Yes
+347,45,Executive,1,19614,Maintenance,20,187,No,Yes
+348,15,Family Suite,4,13937,Available,15,1172,No,Yes
+349,21,Family Suite,4,17621,Booked,12,1001,Yes,No
+350,13,Executive,4,7726,Maintenance,5,869,No,Yes
+351,87,Family Suite,4,13830,Booked,18,1080,No,Yes
+352,19,Standard,1,10924,Maintenance,16,262,Yes,Yes
+353,87,Executive,3,9954,Booked,16,565,No,Yes
+354,38,Suite,2,17868,Available,19,1138,No,No
+355,28,Suite,1,12218,Booked,19,557,No,Yes
+356,7,Family Suite,1,7256,Maintenance,20,1099,Yes,No
+357,45,Family Suite,3,17916,Available,11,614,No,Yes
+358,89,Executive,2,10829,Available,14,824,Yes,Yes
+359,4,Family Suite,5,19562,Available,9,511,Yes,Yes
+360,91,Suite,4,12236,Booked,2,334,Yes,No
+361,57,Standard,3,6181,Booked,2,983,No,Yes
+362,23,Deluxe,3,8063,Booked,11,1109,Yes,Yes
+363,33,Deluxe,6,5557,Booked,14,370,Yes,Yes
+364,45,Family Suite,3,4769,Booked,12,452,Yes,Yes
+365,32,Executive,4,3685,Booked,18,454,Yes,Yes
+366,25,Executive,5,9190,Available,20,940,No,Yes
+367,98,Standard,5,7861,Maintenance,14,847,No,No
+368,18,Standard,1,15042,Booked,13,464,No,No
+369,34,Executive,4,14152,Booked,6,518,Yes,No
+370,8,Suite,6,5047,Maintenance,10,433,Yes,No
+371,2,Executive,5,8091,Maintenance,14,302,Yes,Yes
+372,45,Family Suite,6,13475,Available,9,424,Yes,No
+373,19,Suite,1,10564,Available,18,959,No,No
+374,16,Family Suite,5,6503,Maintenance,17,216,No,Yes
+375,27,Family Suite,5,3899,Booked,7,195,No,No
+376,2,Deluxe,6,9872,Available,8,755,No,Yes
+377,95,Standard,4,18056,Booked,13,786,Yes,Yes
+378,83,Family Suite,1,3069,Booked,1,1044,No,Yes
+379,59,Family Suite,1,14099,Booked,10,1174,No,No
+380,4,Suite,4,6312,Booked,8,702,No,No
+381,27,Executive,5,12500,Available,4,970,No,No
+382,64,Executive,4,12804,Maintenance,15,819,Yes,No
+383,95,Deluxe,4,9924,Available,16,403,Yes,No
+384,63,Deluxe,1,8747,Maintenance,20,260,Yes,No
+385,52,Executive,3,6078,Booked,3,881,Yes,No
+386,3,Deluxe,4,15514,Maintenance,8,333,No,No
+387,11,Family Suite,6,16637,Available,12,1009,Yes,Yes
+388,1,Executive,2,11282,Available,8,618,Yes,No
+389,94,Suite,6,9545,Booked,8,726,Yes,Yes
+390,10,Deluxe,5,11111,Available,10,256,Yes,No
+391,92,Executive,1,16834,Maintenance,18,326,No,Yes
+392,14,Standard,6,11902,Booked,13,1127,Yes,Yes
+393,27,Executive,3,17614,Maintenance,16,1087,Yes,No
+394,16,Suite,3,13104,Booked,14,1071,No,No
+395,9,Deluxe,6,5701,Booked,17,726,No,Yes
+396,52,Executive,2,18012,Maintenance,1,194,No,Yes
+397,25,Family Suite,1,6582,Booked,18,863,No,No
+398,95,Family Suite,1,15757,Booked,14,190,Yes,No
+399,66,Standard,6,3736,Maintenance,5,468,No,No
+400,72,Deluxe,5,8086,Booked,3,658,Yes,No
+401,5,Executive,5,17491,Available,14,1034,Yes,Yes
+402,73,Suite,2,5569,Maintenance,3,374,No,Yes
+403,76,Deluxe,6,9100,Maintenance,1,492,No,Yes
+404,1,Deluxe,6,19691,Maintenance,8,463,Yes,Yes
+405,37,Executive,4,16014,Booked,19,369,No,Yes
+406,89,Family Suite,4,5637,Available,8,1128,No,Yes
+407,82,Deluxe,4,5883,Maintenance,3,552,No,Yes
+408,24,Family Suite,3,19010,Maintenance,8,214,Yes,Yes
+409,51,Deluxe,4,4579,Booked,2,847,Yes,Yes
+410,40,Family Suite,1,18017,Maintenance,15,593,Yes,Yes
+411,64,Family Suite,3,2970,Booked,6,603,No,Yes
+412,44,Standard,6,3492,Available,19,270,No,No
+413,10,Family Suite,2,19902,Maintenance,8,634,Yes,No
+414,29,Family Suite,1,7587,Available,15,841,Yes,No
+415,74,Executive,3,10689,Maintenance,11,430,No,Yes
+416,100,Deluxe,2,3900,Booked,6,827,No,No
+417,87,Standard,1,13662,Booked,6,416,Yes,No
+418,71,Executive,1,4614,Maintenance,19,466,No,No
+419,11,Standard,3,5038,Available,18,1088,Yes,No
+420,57,Suite,1,7692,Available,18,386,No,Yes
+421,71,Suite,4,12578,Maintenance,11,592,Yes,Yes
+422,70,Executive,6,16450,Maintenance,3,671,Yes,Yes
+423,59,Executive,4,3330,Maintenance,14,1177,Yes,No
+424,91,Standard,2,15857,Maintenance,19,1060,Yes,No
+425,99,Suite,4,12060,Available,14,787,No,Yes
+426,52,Executive,6,10485,Maintenance,8,667,No,No
+427,65,Standard,3,14084,Available,11,673,No,No
+428,68,Executive,3,7025,Maintenance,20,463,No,Yes
+429,10,Executive,5,19311,Maintenance,7,630,No,No
+430,73,Family Suite,2,8729,Maintenance,13,218,No,Yes
+431,35,Suite,3,2642,Available,12,1032,No,No
+432,20,Standard,1,18208,Maintenance,6,812,No,Yes
+433,98,Executive,1,2610,Available,15,918,No,Yes
+434,76,Deluxe,3,2583,Available,17,1196,Yes,No
+435,63,Deluxe,3,5450,Maintenance,6,627,Yes,No
+436,41,Suite,1,2997,Maintenance,14,975,Yes,No
+437,64,Standard,6,18963,Available,20,989,Yes,Yes
+438,17,Deluxe,5,12461,Available,6,872,No,No
+439,38,Family Suite,2,14262,Available,3,1088,No,No
+440,47,Executive,3,12964,Booked,10,713,No,Yes
+441,72,Deluxe,1,2852,Maintenance,16,865,Yes,No
+442,8,Executive,3,12807,Booked,7,715,No,Yes
+443,74,Standard,4,2717,Available,14,1130,No,Yes
+444,87,Executive,1,13735,Available,3,631,No,No
+445,89,Standard,2,12110,Booked,12,565,No,Yes
+446,11,Family Suite,3,9477,Available,13,1067,No,No
+447,43,Executive,3,11113,Booked,1,573,Yes,No
+448,54,Deluxe,1,14713,Available,8,1071,Yes,No
+449,91,Family Suite,5,16761,Maintenance,13,566,Yes,Yes
+450,60,Family Suite,3,19458,Maintenance,2,475,Yes,No
+451,25,Standard,4,9809,Booked,17,635,No,No
+452,18,Standard,6,15290,Available,19,1080,Yes,No
+453,8,Family Suite,2,7682,Maintenance,20,393,Yes,No
+454,28,Suite,1,7851,Available,7,461,No,No
+455,78,Executive,5,3501,Available,16,369,No,No
+456,97,Executive,5,18396,Available,8,238,No,Yes
+457,45,Executive,4,19764,Available,15,894,Yes,No
+458,7,Standard,3,5745,Available,13,677,No,No
+459,63,Executive,5,14338,Maintenance,7,941,Yes,Yes
+460,77,Suite,4,18210,Available,15,261,No,No
+461,43,Suite,4,6375,Available,1,1037,No,No
+462,86,Suite,1,7848,Maintenance,20,1084,No,No
+463,72,Deluxe,6,19812,Available,13,1040,No,No
+464,36,Family Suite,1,10218,Maintenance,13,576,No,No
+465,67,Family Suite,4,19087,Maintenance,19,580,Yes,No
+466,55,Family Suite,2,5079,Booked,4,732,Yes,No
+467,5,Family Suite,6,11848,Maintenance,2,883,No,No
+468,60,Suite,3,8603,Booked,2,643,Yes,No
+469,35,Suite,3,7433,Booked,18,601,Yes,Yes
+470,43,Family Suite,3,17575,Maintenance,6,742,No,No
+471,59,Standard,3,5461,Maintenance,8,805,Yes,No
+472,1,Executive,2,17207,Maintenance,6,1185,Yes,Yes
+473,53,Suite,5,6273,Maintenance,1,753,No,No
+474,59,Executive,1,17890,Booked,1,288,Yes,Yes
+475,81,Family Suite,2,13061,Booked,15,1037,No,No
+476,32,Executive,1,18202,Booked,3,711,No,Yes
+477,53,Executive,6,16906,Maintenance,17,601,Yes,No
+478,29,Deluxe,5,15355,Available,18,302,Yes,Yes
+479,19,Deluxe,6,15937,Available,10,881,No,No
+480,79,Standard,3,15685,Booked,12,1008,No,No
+481,4,Executive,3,9872,Booked,10,455,Yes,No
+482,84,Family Suite,3,11913,Available,5,291,No,No
+483,7,Deluxe,5,3529,Available,6,1064,Yes,No
+484,21,Family Suite,5,2799,Available,19,346,Yes,No
+485,50,Deluxe,3,3348,Booked,12,588,No,No
+486,6,Family Suite,1,5109,Maintenance,6,1077,Yes,Yes
+487,41,Standard,2,12345,Available,9,1093,Yes,No
+488,42,Executive,5,11245,Maintenance,5,653,No,No
+489,84,Standard,2,18240,Booked,19,940,Yes,Yes
+490,31,Deluxe,3,16783,Maintenance,10,1106,Yes,Yes
+491,71,Standard,3,10904,Booked,15,583,No,Yes
+492,92,Executive,6,8242,Maintenance,12,234,No,No
+493,2,Standard,2,5049,Maintenance,10,244,No,Yes
+494,82,Deluxe,4,14578,Available,7,441,No,No
+495,37,Suite,4,4582,Available,2,405,No,No
+496,87,Executive,2,16773,Booked,10,871,Yes,Yes
+497,97,Family Suite,5,8165,Maintenance,17,1099,Yes,No
+498,43,Deluxe,2,13629,Maintenance,9,1025,Yes,No
+499,17,Executive,5,16355,Maintenance,1,688,Yes,Yes
+500,37,Family Suite,6,17396,Booked,3,430,No,Yes
+501,87,Executive,3,5390,Maintenance,11,198,No,Yes
+502,7,Suite,3,12830,Booked,14,909,No,Yes
+503,8,Deluxe,4,3256,Maintenance,14,291,Yes,No
+504,59,Family Suite,2,16905,Available,11,424,Yes,Yes
+505,41,Standard,5,11441,Booked,10,413,No,No
+506,71,Deluxe,1,12999,Booked,1,242,Yes,Yes
+507,74,Standard,3,4067,Booked,18,688,Yes,Yes
+508,88,Suite,2,3383,Available,8,957,No,Yes
+509,96,Deluxe,5,7712,Booked,5,205,No,No
+510,91,Suite,3,15036,Available,17,488,No,No
+511,45,Executive,6,17002,Maintenance,8,1034,Yes,Yes
+512,75,Family Suite,3,9300,Available,1,772,No,Yes
+513,65,Family Suite,5,14083,Booked,18,630,Yes,Yes
+514,44,Family Suite,4,8401,Maintenance,17,428,No,Yes
+515,88,Standard,1,16661,Booked,19,1057,No,No
+516,58,Standard,3,13689,Booked,6,865,No,No
+517,1,Executive,2,7629,Booked,4,1141,No,No
+518,58,Family Suite,3,4251,Maintenance,18,1071,Yes,Yes
+519,63,Standard,3,6657,Available,9,589,Yes,No
+520,27,Suite,5,3183,Maintenance,13,1025,No,No
+521,64,Executive,2,7996,Available,5,485,No,No
+522,88,Standard,4,10217,Maintenance,4,767,No,Yes
+523,84,Family Suite,5,2513,Available,3,365,Yes,Yes
+524,63,Executive,2,4859,Maintenance,13,813,No,Yes
+525,11,Executive,6,15355,Booked,14,461,No,Yes
+526,63,Standard,6,9704,Booked,6,633,No,No
+527,18,Suite,6,3317,Maintenance,8,288,Yes,Yes
+528,10,Standard,6,15156,Available,17,406,Yes,Yes
+529,21,Suite,5,4031,Available,16,482,Yes,No
+530,92,Executive,6,11275,Available,2,743,No,Yes
+531,19,Suite,5,10205,Available,13,682,Yes,Yes
+532,39,Deluxe,4,10761,Booked,16,298,Yes,No
+533,51,Standard,1,16592,Booked,8,683,No,Yes
+534,33,Standard,1,6362,Available,2,650,Yes,Yes
+535,85,Family Suite,3,17931,Maintenance,18,917,Yes,Yes
+536,59,Standard,1,13799,Booked,9,656,No,No
+537,81,Family Suite,3,17394,Booked,15,786,Yes,Yes
+538,52,Deluxe,6,17611,Maintenance,11,828,No,No
+539,11,Family Suite,1,9625,Maintenance,16,721,No,No
+540,21,Suite,2,3908,Maintenance,1,475,No,Yes
+541,34,Deluxe,2,3312,Booked,20,1017,Yes,Yes
+542,5,Executive,1,3268,Available,13,1155,No,No
+543,34,Suite,4,13877,Available,20,624,No,Yes
+544,27,Executive,5,7071,Booked,3,286,No,Yes
+545,7,Deluxe,2,13934,Maintenance,6,271,No,Yes
+546,29,Executive,6,10632,Available,18,965,Yes,No
+547,82,Family Suite,6,2926,Maintenance,17,910,No,Yes
+548,22,Standard,3,18953,Available,10,491,Yes,Yes
+549,41,Executive,6,17718,Booked,5,274,Yes,Yes
+550,14,Executive,6,15760,Maintenance,4,180,Yes,No
+551,55,Executive,2,14540,Available,3,521,Yes,No
+552,26,Executive,6,17298,Available,3,192,No,Yes
+553,69,Executive,4,19735,Maintenance,14,460,No,No
+554,38,Standard,4,10207,Booked,20,1040,No,No
+555,73,Family Suite,3,8772,Maintenance,15,478,Yes,No
+556,41,Deluxe,4,17057,Booked,18,776,No,No
+557,88,Deluxe,5,14752,Available,13,821,No,Yes
+558,93,Deluxe,2,10664,Maintenance,16,937,Yes,Yes
+559,87,Suite,6,3056,Maintenance,12,909,Yes,No
+560,45,Standard,6,5698,Maintenance,20,1148,No,Yes
+561,29,Deluxe,1,12558,Booked,16,334,No,No
+562,90,Standard,1,14342,Maintenance,20,1180,No,Yes
+563,100,Deluxe,5,12042,Available,13,308,Yes,No
+564,71,Deluxe,6,19174,Available,11,916,No,No
+565,85,Standard,2,3375,Maintenance,18,239,No,Yes
+566,28,Family Suite,3,9054,Booked,19,389,No,Yes
+567,56,Suite,5,4506,Maintenance,17,690,No,Yes
+568,63,Suite,2,12159,Maintenance,9,276,No,No
+569,19,Executive,1,18581,Maintenance,10,427,Yes,No
+570,64,Suite,3,6775,Maintenance,7,323,No,Yes
+571,67,Suite,4,3292,Maintenance,6,777,No,Yes
+572,87,Executive,2,3827,Maintenance,10,536,No,Yes
+573,18,Executive,4,18123,Available,8,284,Yes,No
+574,13,Family Suite,2,17735,Booked,13,408,No,Yes
+575,14,Suite,5,16994,Maintenance,9,447,No,No
+576,92,Suite,2,6728,Booked,13,1045,No,No
+577,53,Standard,5,8332,Available,16,559,Yes,No
+578,32,Standard,3,7204,Maintenance,18,484,No,No
+579,4,Executive,6,13218,Available,1,542,No,No
+580,91,Suite,5,3926,Booked,14,609,No,No
+581,39,Family Suite,1,9900,Maintenance,8,301,Yes,No
+582,6,Executive,4,10196,Available,12,801,No,Yes
+583,33,Deluxe,3,6654,Booked,18,729,Yes,No
+584,85,Standard,2,14446,Available,10,290,No,No
+585,40,Suite,4,5994,Booked,4,285,Yes,Yes
+586,38,Standard,6,17654,Available,19,836,Yes,Yes
+587,65,Family Suite,6,10210,Booked,17,436,No,Yes
+588,18,Standard,4,18059,Available,5,1087,No,No
+589,42,Standard,4,18946,Booked,7,1027,Yes,Yes
+590,37,Executive,3,18472,Maintenance,9,194,Yes,Yes
+591,97,Standard,5,7742,Available,19,830,Yes,No
+592,13,Suite,5,15248,Booked,18,946,No,Yes
+593,89,Deluxe,5,10531,Booked,14,437,No,Yes
+594,82,Executive,3,17332,Available,17,194,Yes,Yes
+595,50,Family Suite,3,16255,Available,14,224,Yes,Yes
+596,75,Suite,5,3342,Maintenance,4,1063,Yes,Yes
+597,1,Deluxe,1,13384,Available,15,730,Yes,No
+598,95,Family Suite,4,7751,Maintenance,5,232,Yes,Yes
+599,10,Executive,1,4548,Booked,19,935,Yes,Yes
+600,91,Deluxe,5,17815,Booked,13,351,Yes,No
+601,9,Suite,3,4720,Maintenance,18,240,No,Yes
+602,59,Deluxe,6,6893,Maintenance,6,1031,No,Yes
+603,53,Family Suite,2,13383,Maintenance,8,493,Yes,No
+604,72,Deluxe,5,18468,Maintenance,9,810,No,No
+605,12,Family Suite,1,7113,Maintenance,8,1142,Yes,No
+606,68,Suite,5,13917,Booked,5,1093,Yes,No
+607,84,Executive,2,19396,Maintenance,4,1088,No,Yes
+608,4,Family Suite,3,13024,Maintenance,16,554,Yes,Yes
+609,76,Deluxe,4,5327,Booked,19,795,Yes,No
+610,55,Standard,4,13239,Maintenance,6,847,Yes,Yes
+611,77,Executive,5,5641,Booked,11,1051,No,Yes
+612,72,Standard,5,6464,Booked,6,705,No,No
+613,39,Family Suite,5,18348,Booked,19,443,Yes,Yes
+614,23,Family Suite,4,8524,Maintenance,17,1173,No,No
+615,3,Family Suite,4,8575,Available,2,750,Yes,No
+616,3,Executive,1,18809,Booked,7,1167,No,No
+617,88,Suite,2,6722,Booked,12,1198,No,No
+618,4,Family Suite,6,11299,Booked,20,926,Yes,Yes
+619,44,Standard,6,6144,Available,7,569,Yes,No
+620,38,Deluxe,5,11853,Booked,2,184,Yes,No
+621,74,Standard,6,3803,Booked,15,1105,Yes,No
+622,100,Suite,4,4158,Maintenance,12,1008,No,No
+623,37,Deluxe,5,18202,Booked,10,649,No,Yes
+624,88,Standard,5,9467,Booked,15,315,Yes,Yes
+625,5,Standard,6,16182,Available,9,836,No,No
+626,65,Standard,1,11155,Available,2,874,Yes,Yes
+627,2,Deluxe,3,18121,Booked,15,435,Yes,No
+628,100,Family Suite,6,8635,Maintenance,16,567,No,No
+629,94,Suite,3,13871,Available,11,701,No,No
+630,70,Executive,3,3301,Maintenance,14,960,No,No
+631,62,Family Suite,5,7998,Maintenance,13,497,No,Yes
+632,6,Deluxe,1,4261,Available,11,540,No,No
+633,44,Suite,2,10320,Booked,15,816,No,Yes
+634,34,Family Suite,6,19169,Booked,10,646,Yes,No
+635,89,Standard,6,12702,Booked,2,516,No,Yes
+636,62,Deluxe,1,16505,Maintenance,11,844,Yes,Yes
+637,14,Family Suite,5,15407,Maintenance,4,382,No,No
+638,45,Family Suite,3,11655,Available,6,768,Yes,Yes
+639,83,Deluxe,2,11963,Available,20,863,No,No
+640,11,Standard,5,2690,Available,13,632,No,No
+641,49,Deluxe,1,11151,Maintenance,20,1175,Yes,No
+642,20,Family Suite,4,5755,Booked,8,880,No,No
+643,33,Executive,5,9233,Maintenance,10,974,No,No
+644,69,Family Suite,5,9454,Maintenance,17,607,Yes,No
+645,90,Standard,5,18245,Booked,13,494,No,Yes
+646,38,Family Suite,2,5163,Maintenance,14,829,No,Yes
+647,89,Standard,4,3688,Maintenance,1,1060,No,Yes
+648,18,Standard,4,3150,Booked,11,893,No,No
+649,18,Standard,6,19916,Booked,11,816,No,No
+650,74,Executive,3,14766,Maintenance,4,835,Yes,No
+651,12,Family Suite,2,3638,Booked,17,427,No,Yes
+652,67,Standard,6,10422,Booked,19,1120,No,Yes
+653,95,Deluxe,2,11074,Booked,19,914,Yes,Yes
+654,48,Deluxe,6,19419,Available,6,475,No,No
+655,10,Executive,1,15057,Available,15,456,Yes,No
+656,37,Standard,5,6614,Maintenance,14,385,Yes,No
+657,20,Standard,2,5764,Booked,9,829,Yes,Yes
+658,96,Family Suite,1,3957,Booked,1,979,No,No
+659,38,Deluxe,3,9310,Available,9,876,No,Yes
+660,84,Deluxe,6,14799,Available,8,921,No,No
+661,10,Suite,6,15720,Maintenance,6,786,No,Yes
+662,43,Deluxe,2,5601,Booked,3,455,Yes,No
+663,61,Standard,2,8987,Maintenance,13,1125,No,Yes
+664,94,Suite,6,12723,Maintenance,12,353,No,Yes
+665,93,Deluxe,2,13438,Booked,16,337,Yes,No
+666,41,Standard,6,14302,Available,2,962,No,Yes
+667,29,Standard,5,3057,Available,9,554,Yes,No
+668,82,Suite,2,8933,Booked,2,698,No,Yes
+669,54,Suite,5,9888,Available,11,554,No,No
+670,66,Deluxe,3,4574,Maintenance,5,749,No,Yes
+671,73,Family Suite,4,12234,Maintenance,13,773,Yes,Yes
+672,92,Suite,3,18501,Maintenance,7,1025,Yes,Yes
+673,80,Executive,6,6621,Booked,13,180,No,Yes
+674,33,Suite,4,14633,Available,4,645,No,Yes
+675,53,Suite,6,15334,Booked,11,708,Yes,No
+676,69,Suite,4,18780,Maintenance,5,347,Yes,Yes
+677,24,Suite,1,10759,Available,1,242,No,Yes
+678,74,Standard,1,3718,Booked,19,660,Yes,Yes
+679,98,Executive,2,13637,Maintenance,3,960,Yes,No
+680,7,Deluxe,2,15538,Available,5,1015,Yes,Yes
+681,71,Deluxe,4,6452,Booked,1,912,Yes,No
+682,39,Suite,2,7272,Booked,20,339,Yes,No
+683,3,Deluxe,2,10083,Maintenance,5,972,Yes,Yes
+684,13,Standard,2,6740,Booked,17,1140,Yes,Yes
+685,85,Suite,2,13408,Available,19,1036,No,Yes
+686,43,Deluxe,2,7801,Maintenance,11,1176,No,Yes
+687,53,Executive,2,11697,Maintenance,17,461,No,No
+688,37,Executive,1,17386,Booked,19,1136,No,Yes
+689,9,Executive,3,2613,Maintenance,7,180,No,Yes
+690,7,Family Suite,4,10560,Available,13,236,Yes,No
+691,16,Deluxe,6,13456,Booked,16,1039,Yes,No
+692,63,Standard,6,8981,Booked,6,781,Yes,No
+693,77,Suite,6,17923,Maintenance,15,1065,No,Yes
+694,93,Family Suite,6,8473,Maintenance,10,378,Yes,Yes
+695,56,Suite,2,7742,Available,6,1195,Yes,Yes
+696,67,Deluxe,6,5210,Available,17,1141,No,Yes
+697,28,Deluxe,3,3415,Booked,5,676,Yes,No
+698,93,Standard,6,5642,Booked,10,256,Yes,No
+699,21,Suite,2,7573,Booked,12,577,No,Yes
+700,86,Family Suite,6,9725,Maintenance,8,1106,No,Yes
+701,54,Suite,2,8698,Available,15,465,Yes,No
+702,44,Deluxe,5,10177,Available,17,637,No,Yes
+703,3,Family Suite,3,10439,Available,19,834,No,No
+704,62,Family Suite,3,13823,Available,17,896,Yes,No
+705,17,Executive,2,8460,Maintenance,7,194,Yes,No
+706,72,Standard,4,4795,Maintenance,14,797,No,No
+707,88,Executive,4,11843,Booked,12,352,Yes,No
+708,32,Family Suite,6,14517,Maintenance,13,1070,No,Yes
+709,82,Family Suite,4,6968,Maintenance,5,649,Yes,Yes
+710,17,Suite,6,14590,Maintenance,9,1093,Yes,Yes
+711,97,Standard,3,14135,Maintenance,14,362,No,Yes
+712,55,Deluxe,6,15874,Booked,14,1097,Yes,No
+713,95,Standard,3,15682,Booked,16,216,Yes,Yes
+714,35,Executive,2,11971,Booked,7,1181,Yes,Yes
+715,41,Executive,3,9870,Available,14,829,Yes,No
+716,39,Deluxe,1,9307,Booked,3,533,Yes,No
+717,16,Deluxe,1,4628,Booked,14,726,Yes,Yes
+718,95,Family Suite,3,10389,Maintenance,3,945,Yes,Yes
+719,21,Suite,6,15667,Booked,19,634,No,No
+720,60,Family Suite,1,16749,Booked,13,477,No,Yes
+721,53,Family Suite,6,10126,Available,15,1186,Yes,No
+722,11,Family Suite,6,3803,Maintenance,3,930,Yes,Yes
+723,38,Deluxe,3,19660,Available,12,581,No,Yes
+724,15,Standard,6,19187,Booked,10,913,Yes,Yes
+725,33,Suite,5,4779,Available,2,629,Yes,Yes
+726,94,Standard,3,8168,Available,10,762,Yes,Yes
+727,38,Executive,1,11180,Available,5,255,Yes,No
+728,86,Standard,3,9281,Available,1,999,No,No
+729,28,Standard,1,14441,Maintenance,17,705,No,No
+730,50,Standard,4,3005,Booked,15,1169,No,Yes
+731,15,Suite,3,19617,Available,12,1139,Yes,No
+732,3,Executive,5,14007,Available,9,916,Yes,No
+733,7,Executive,6,7614,Available,11,977,Yes,No
+734,14,Standard,3,6503,Available,3,1108,No,Yes
+735,13,Executive,3,9309,Booked,20,377,No,Yes
+736,51,Standard,1,16323,Booked,1,826,No,No
+737,41,Deluxe,3,9559,Available,2,688,Yes,No
+738,24,Standard,2,2725,Booked,5,509,Yes,No
+739,93,Suite,6,8293,Booked,1,741,No,Yes
+740,55,Family Suite,6,6705,Booked,8,1012,Yes,No
+741,13,Standard,6,2989,Maintenance,20,768,Yes,Yes
+742,13,Family Suite,6,11310,Available,1,1010,Yes,Yes
+743,58,Family Suite,6,6124,Maintenance,5,857,Yes,No
+744,94,Suite,1,13491,Maintenance,19,1064,No,Yes
+745,34,Suite,6,8782,Booked,11,1020,Yes,Yes
+746,55,Executive,3,8192,Booked,8,725,No,No
+747,36,Executive,5,4549,Available,2,522,Yes,Yes
+748,82,Family Suite,6,6945,Maintenance,15,331,No,Yes
+749,95,Standard,4,18645,Booked,16,812,Yes,No
+750,59,Executive,5,4683,Available,16,183,Yes,No
+751,65,Standard,5,9810,Maintenance,12,265,Yes,Yes
+752,46,Standard,4,8346,Available,18,364,Yes,No
+753,11,Executive,6,15193,Maintenance,6,196,Yes,No
+754,76,Deluxe,3,6338,Maintenance,5,570,No,Yes
+755,54,Family Suite,5,16369,Available,3,1051,Yes,No
+756,87,Standard,2,3383,Maintenance,19,364,No,No
+757,28,Executive,4,3176,Maintenance,14,414,Yes,Yes
+758,77,Family Suite,6,13852,Available,13,580,No,No
+759,2,Executive,6,13653,Booked,1,718,Yes,Yes
+760,7,Suite,6,4247,Maintenance,7,224,No,Yes
+761,7,Suite,6,19048,Available,12,1187,No,No
+762,40,Suite,1,11934,Available,5,447,Yes,No
+763,51,Standard,1,14683,Available,6,790,Yes,No
+764,12,Executive,5,6355,Maintenance,17,292,No,Yes
+765,64,Executive,5,11135,Maintenance,1,422,Yes,Yes
+766,57,Executive,3,5566,Available,16,625,No,No
+767,3,Suite,6,3831,Booked,7,1025,No,No
+768,95,Deluxe,1,13392,Booked,12,840,Yes,Yes
+769,42,Family Suite,1,10619,Maintenance,13,216,Yes,Yes
+770,55,Deluxe,4,12039,Maintenance,14,632,No,No
+771,48,Executive,2,13149,Available,11,434,No,No
+772,26,Suite,5,6977,Booked,1,710,Yes,Yes
+773,59,Standard,5,3966,Maintenance,1,392,No,Yes
+774,15,Standard,1,10661,Maintenance,5,1001,Yes,Yes
+775,33,Deluxe,1,15771,Available,20,881,Yes,No
+776,63,Suite,6,19547,Maintenance,12,296,No,No
+777,73,Standard,1,18840,Booked,9,499,No,Yes
+778,29,Suite,5,11967,Maintenance,13,914,Yes,No
+779,17,Deluxe,6,8034,Booked,15,315,No,Yes
+780,44,Standard,3,3732,Available,13,199,Yes,No
+781,46,Executive,6,13349,Maintenance,5,1104,Yes,No
+782,70,Executive,5,15630,Booked,20,769,Yes,Yes
+783,58,Family Suite,3,14043,Available,20,1166,Yes,Yes
+784,30,Deluxe,5,12134,Maintenance,15,600,Yes,No
+785,33,Suite,2,9859,Maintenance,15,1105,Yes,No
+786,80,Standard,1,19280,Booked,15,527,Yes,No
+787,40,Family Suite,4,15356,Available,4,721,Yes,No
+788,91,Deluxe,5,3025,Available,6,472,Yes,No
+789,44,Family Suite,2,9140,Booked,13,921,Yes,No
+790,21,Standard,1,16475,Booked,13,932,Yes,No
+791,12,Standard,1,14889,Booked,11,697,No,Yes
+792,17,Suite,6,14608,Booked,12,745,Yes,Yes
+793,43,Family Suite,3,3860,Maintenance,10,919,No,No
+794,89,Standard,2,15587,Available,17,1084,Yes,No
+795,50,Executive,5,3242,Maintenance,4,443,No,No
+796,18,Standard,5,15752,Booked,8,367,Yes,Yes
+797,85,Suite,2,3226,Booked,1,657,Yes,Yes
+798,91,Suite,5,18759,Maintenance,14,1146,Yes,Yes
+799,8,Suite,5,9902,Available,9,1008,No,Yes
+800,78,Deluxe,5,7381,Maintenance,9,535,No,Yes
+801,27,Family Suite,2,18758,Maintenance,17,290,No,No
+802,19,Suite,3,3274,Booked,10,407,Yes,Yes
+803,77,Deluxe,3,4451,Maintenance,2,633,No,No
+804,43,Executive,3,2519,Available,11,374,No,No
+805,92,Executive,1,9707,Booked,15,393,Yes,No
+806,35,Standard,2,10796,Booked,9,266,No,Yes
+807,95,Executive,2,7409,Maintenance,11,627,No,Yes
+808,66,Suite,6,7620,Maintenance,9,848,Yes,No
+809,70,Suite,3,4963,Booked,17,345,No,No
+810,61,Executive,2,4471,Booked,3,446,No,Yes
+811,64,Standard,6,10853,Available,20,566,No,Yes
+812,8,Standard,6,7581,Booked,14,872,Yes,No
+813,84,Family Suite,4,6642,Booked,17,435,No,No
+814,49,Executive,3,11042,Available,5,409,No,No
+815,37,Standard,3,6251,Available,15,459,Yes,Yes
+816,83,Family Suite,2,16201,Booked,14,1167,No,Yes
+817,29,Family Suite,6,14834,Booked,12,577,Yes,No
+818,98,Suite,3,13675,Maintenance,9,194,Yes,No
+819,82,Family Suite,5,10587,Maintenance,15,549,No,No
+820,52,Deluxe,6,12277,Maintenance,6,365,Yes,No
+821,5,Executive,3,10922,Booked,16,1066,No,No
+822,91,Family Suite,6,9082,Maintenance,1,249,No,No
+823,22,Family Suite,4,4545,Booked,8,703,No,Yes
+824,58,Family Suite,1,14073,Maintenance,17,418,No,No
+825,4,Deluxe,2,17774,Maintenance,8,742,No,No
+826,23,Suite,3,4488,Available,20,1098,No,Yes
+827,90,Suite,4,19393,Maintenance,13,899,Yes,No
+828,26,Executive,3,8204,Booked,6,494,No,No
+829,15,Standard,3,17095,Maintenance,15,378,No,Yes
+830,53,Suite,1,15727,Available,3,938,No,Yes
+831,61,Executive,1,10185,Maintenance,17,919,No,Yes
+832,38,Standard,1,9561,Available,19,887,Yes,No
+833,54,Executive,6,6441,Booked,6,498,No,No
+834,51,Executive,2,4990,Maintenance,5,364,No,No
+835,81,Family Suite,6,8442,Available,9,685,No,No
+836,6,Executive,6,17437,Available,13,1042,No,Yes
+837,67,Suite,6,14273,Booked,20,324,No,No
+838,48,Family Suite,6,8153,Available,11,1200,Yes,Yes
+839,80,Standard,2,12078,Available,8,975,No,Yes
+840,44,Suite,3,6713,Booked,16,1032,Yes,Yes
+841,41,Suite,5,8584,Available,3,750,Yes,No
+842,57,Standard,1,2563,Booked,1,625,No,No
+843,86,Executive,5,8969,Available,7,279,No,No
+844,32,Suite,5,8937,Available,13,1091,No,Yes
+845,42,Suite,1,9804,Booked,8,428,Yes,Yes
+846,13,Standard,2,13552,Booked,13,641,No,Yes
+847,75,Suite,5,14236,Maintenance,15,662,Yes,Yes
+848,90,Standard,4,2561,Booked,14,725,Yes,No
+849,26,Family Suite,2,3847,Available,9,1000,Yes,No
+850,48,Suite,4,8823,Booked,16,810,Yes,No
+851,56,Family Suite,2,16241,Maintenance,10,1186,No,No
+852,65,Family Suite,1,3494,Maintenance,13,1133,Yes,Yes
+853,58,Executive,2,7074,Maintenance,1,566,Yes,No
+854,75,Deluxe,3,7311,Maintenance,20,1064,Yes,Yes
+855,79,Standard,2,11227,Booked,9,1159,Yes,No
+856,56,Standard,5,18337,Maintenance,6,241,Yes,No
+857,16,Deluxe,1,7035,Available,7,703,Yes,Yes
+858,97,Family Suite,5,3841,Available,12,1090,Yes,No
+859,45,Family Suite,3,18558,Booked,3,625,Yes,No
+860,5,Family Suite,2,3749,Booked,1,186,No,No
+861,67,Executive,1,5096,Maintenance,7,301,No,Yes
+862,54,Deluxe,1,14221,Booked,9,380,Yes,Yes
+863,16,Standard,3,11218,Maintenance,11,814,Yes,Yes
+864,77,Executive,6,6031,Maintenance,13,1042,Yes,Yes
+865,49,Deluxe,3,4654,Booked,14,504,Yes,Yes
+866,74,Suite,3,9184,Booked,1,1102,Yes,Yes
+867,67,Executive,1,6019,Available,11,1095,Yes,No
+868,80,Standard,4,12067,Available,20,486,No,Yes
+869,78,Suite,4,9301,Available,2,183,No,Yes
+870,48,Standard,2,13469,Available,1,547,Yes,Yes
+871,56,Suite,6,8161,Booked,18,739,Yes,No
+872,64,Family Suite,1,11174,Booked,9,744,No,No
+873,13,Suite,6,15755,Maintenance,7,346,No,Yes
+874,98,Suite,6,17260,Maintenance,10,282,Yes,Yes
+875,26,Suite,5,5716,Maintenance,1,420,Yes,No
+876,64,Executive,4,3370,Maintenance,12,338,Yes,No
+877,49,Family Suite,5,3903,Booked,7,800,No,Yes
+878,2,Family Suite,1,19368,Maintenance,17,781,Yes,No
+879,82,Family Suite,3,18361,Maintenance,7,803,Yes,Yes
+880,4,Executive,2,17317,Booked,7,949,Yes,Yes
+881,48,Standard,5,15918,Maintenance,10,711,No,Yes
+882,59,Standard,3,19555,Booked,18,259,Yes,No
+883,93,Standard,5,13938,Maintenance,4,1126,No,Yes
+884,8,Suite,6,4855,Maintenance,4,428,No,Yes
+885,5,Executive,1,3719,Booked,17,1019,No,No
+886,93,Standard,6,6929,Maintenance,7,861,No,Yes
+887,93,Standard,5,11819,Maintenance,11,349,No,No
+888,90,Deluxe,5,15121,Available,11,1042,No,No
+889,35,Standard,3,5813,Available,19,735,No,Yes
+890,8,Standard,5,8750,Maintenance,5,304,No,Yes
+891,33,Family Suite,1,18761,Booked,4,293,Yes,No
+892,30,Family Suite,2,10708,Maintenance,2,793,No,No
+893,87,Deluxe,4,5003,Available,4,577,No,No
+894,12,Family Suite,6,4477,Available,3,245,Yes,Yes
+895,90,Deluxe,1,6516,Booked,15,773,No,No
+896,81,Suite,4,17727,Available,6,406,Yes,No
+897,40,Family Suite,1,12115,Available,10,468,No,Yes
+898,65,Deluxe,1,18447,Booked,20,838,Yes,No
+899,66,Deluxe,6,2946,Booked,20,556,Yes,No
+900,68,Deluxe,6,4750,Booked,18,416,No,Yes
+901,58,Suite,4,8369,Available,1,896,No,Yes
+902,37,Executive,1,4151,Booked,19,261,No,No
+903,66,Family Suite,6,5255,Booked,11,524,Yes,No
+904,46,Family Suite,6,14560,Available,20,614,No,Yes
+905,18,Suite,2,5646,Booked,7,311,No,Yes
+906,100,Suite,5,18213,Maintenance,6,760,Yes,Yes
+907,20,Standard,5,4992,Maintenance,15,1192,Yes,No
+908,100,Suite,1,10494,Maintenance,9,329,Yes,No
+909,63,Suite,5,6144,Available,4,477,No,No
+910,93,Deluxe,3,9942,Available,7,241,Yes,No
+911,29,Standard,1,2998,Available,4,395,Yes,No
+912,39,Executive,3,8559,Available,10,434,No,No
+913,87,Family Suite,6,3410,Booked,11,859,Yes,Yes
+914,61,Executive,1,6657,Booked,2,938,No,No
+915,80,Executive,6,18000,Maintenance,19,933,No,Yes
+916,52,Suite,6,16788,Maintenance,10,259,Yes,Yes
+917,2,Suite,4,16736,Booked,20,817,No,No
+918,90,Deluxe,4,15701,Available,7,758,No,Yes
+919,57,Standard,1,5972,Maintenance,10,691,No,Yes
+920,82,Suite,2,6698,Available,4,247,Yes,No
+921,94,Standard,3,7165,Available,12,1134,Yes,Yes
+922,27,Deluxe,5,5308,Booked,8,397,Yes,No
+923,56,Standard,4,17955,Booked,10,1113,No,No
+924,63,Standard,1,6170,Maintenance,17,1006,No,Yes
+925,16,Standard,3,18690,Maintenance,15,311,Yes,Yes
+926,64,Deluxe,1,13050,Maintenance,12,1138,No,Yes
+927,52,Deluxe,3,6767,Available,13,1070,Yes,No
+928,66,Suite,5,11858,Maintenance,13,938,Yes,No
+929,36,Standard,4,18781,Booked,1,711,Yes,No
+930,81,Executive,1,4711,Booked,17,444,No,No
+931,8,Standard,2,18469,Booked,17,796,No,Yes
+932,40,Suite,2,16969,Maintenance,7,595,No,No
+933,37,Standard,3,15516,Maintenance,15,299,Yes,Yes
+934,9,Executive,5,8031,Maintenance,16,914,No,Yes
+935,58,Suite,4,11944,Maintenance,14,628,No,No
+936,60,Deluxe,2,10441,Maintenance,4,835,Yes,No
+937,64,Executive,3,11835,Available,7,990,No,No
+938,44,Suite,6,16858,Maintenance,15,832,Yes,No
+939,93,Family Suite,1,18103,Booked,2,1032,No,No
+940,27,Suite,1,3145,Available,16,380,Yes,No
+941,20,Standard,4,8138,Booked,19,359,Yes,Yes
+942,81,Family Suite,5,14210,Booked,15,887,Yes,No
+943,47,Standard,3,13704,Maintenance,6,514,Yes,No
+944,37,Executive,6,19925,Booked,14,508,Yes,No
+945,20,Suite,6,11336,Available,15,495,Yes,Yes
+946,4,Deluxe,2,6667,Available,9,254,Yes,No
+947,74,Suite,4,3875,Booked,6,565,No,Yes
+948,88,Standard,1,11628,Maintenance,15,609,Yes,No
+949,30,Executive,4,8078,Booked,2,236,Yes,Yes
+950,95,Standard,5,13722,Booked,20,379,Yes,Yes
+951,94,Suite,1,16343,Maintenance,12,222,No,No
+952,87,Standard,6,13503,Maintenance,17,439,No,No
+953,28,Deluxe,4,10693,Maintenance,9,253,Yes,Yes
+954,87,Standard,2,3587,Maintenance,19,564,No,No
+955,39,Standard,1,15997,Available,8,1148,Yes,Yes
+956,16,Suite,6,17778,Booked,4,796,No,No
+957,23,Family Suite,5,15860,Available,11,715,No,No
+958,11,Deluxe,3,9440,Booked,6,363,Yes,No
+959,37,Standard,2,5077,Maintenance,2,1134,No,No
+960,22,Deluxe,2,17795,Booked,20,1133,No,Yes
+961,63,Executive,3,7886,Maintenance,13,213,Yes,No
+962,89,Executive,6,17939,Maintenance,17,641,Yes,Yes
+963,14,Standard,1,9270,Available,12,356,Yes,Yes
+964,29,Family Suite,3,7887,Available,7,656,No,No
+965,35,Standard,3,19679,Available,13,848,Yes,Yes
+966,36,Suite,5,15578,Maintenance,9,599,Yes,No
+967,92,Standard,2,16200,Available,13,921,No,No
+968,17,Suite,4,10614,Available,19,764,No,Yes
+969,16,Deluxe,3,14980,Available,13,807,Yes,No
+970,86,Executive,4,4887,Available,5,1168,No,No
+971,38,Suite,1,3958,Booked,7,681,No,Yes
+972,80,Deluxe,6,16080,Booked,2,518,Yes,Yes
+973,53,Suite,2,10287,Booked,6,1183,No,No
+974,99,Suite,3,15516,Available,10,730,No,Yes
+975,75,Standard,5,3527,Booked,11,950,No,Yes
+976,24,Deluxe,6,15746,Booked,20,252,Yes,Yes
+977,66,Executive,3,6237,Available,12,797,Yes,No
+978,75,Deluxe,1,15784,Maintenance,10,1146,Yes,Yes
+979,78,Deluxe,2,13908,Available,18,443,Yes,No
+980,62,Suite,4,5338,Booked,13,563,No,Yes
+981,86,Deluxe,3,14428,Maintenance,17,1180,Yes,No
+982,2,Executive,4,9587,Available,10,228,Yes,Yes
+983,66,Executive,2,15357,Maintenance,4,540,Yes,No
+984,67,Executive,4,15035,Maintenance,17,204,Yes,No
+985,48,Family Suite,4,13506,Available,2,205,Yes,Yes
+986,63,Deluxe,3,2943,Maintenance,7,888,No,Yes
+987,61,Suite,1,7591,Maintenance,2,420,Yes,No
+988,34,Standard,2,6152,Available,16,475,No,Yes
+989,73,Executive,2,8248,Maintenance,5,881,No,No
+990,42,Family Suite,3,7670,Booked,14,939,Yes,Yes
+991,51,Deluxe,6,19236,Available,5,950,No,Yes
+992,23,Executive,5,5300,Maintenance,12,806,Yes,No
+993,86,Standard,5,3334,Maintenance,17,1018,Yes,Yes
+994,3,Suite,5,9311,Available,13,920,Yes,No
+995,35,Deluxe,3,13290,Available,6,675,No,No
+996,50,Deluxe,4,10120,Available,16,363,Yes,Yes
+997,41,Standard,3,10302,Available,11,231,Yes,No
+998,75,Family Suite,2,8591,Maintenance,15,439,No,Yes
+999,91,Standard,6,15431,Booked,3,612,Yes,No
+1000,100,Deluxe,3,13149,Available,8,384,No,No
+1001,95,Standard,3,17713,Booked,5,836,No,No
+1002,62,Suite,1,5563,Maintenance,3,397,Yes,Yes
+1003,20,Executive,2,6388,Maintenance,3,730,No,No
+1004,47,Suite,1,15960,Available,14,774,No,Yes
+1005,59,Executive,6,16279,Maintenance,12,543,Yes,No
+1006,75,Executive,4,15802,Available,6,321,Yes,No
+1007,40,Suite,5,13885,Maintenance,4,1047,No,Yes
+1008,86,Executive,1,11312,Available,9,1177,Yes,No
+1009,14,Family Suite,4,7589,Booked,7,302,No,No
+1010,98,Executive,3,11459,Available,6,328,Yes,Yes
+1011,17,Suite,6,6029,Maintenance,19,1041,No,Yes
+1012,12,Family Suite,6,3425,Available,9,634,Yes,Yes
+1013,42,Executive,1,3524,Maintenance,6,785,No,Yes
+1014,42,Family Suite,1,19084,Maintenance,7,420,Yes,No
+1015,4,Standard,3,12791,Available,11,269,Yes,No
+1016,94,Executive,2,12158,Available,3,893,No,Yes
+1017,87,Family Suite,6,4613,Booked,8,1132,Yes,No
+1018,58,Suite,6,5289,Maintenance,12,1072,No,Yes
+1019,82,Deluxe,6,19077,Available,11,489,Yes,No
+1020,70,Executive,5,7111,Maintenance,5,213,No,Yes
+1021,83,Family Suite,5,10846,Booked,18,884,Yes,Yes
+1022,39,Family Suite,3,17601,Available,18,607,Yes,Yes
+1023,96,Executive,2,14596,Booked,20,799,Yes,Yes
+1024,42,Suite,2,16204,Booked,4,385,Yes,No
+1025,29,Standard,4,17768,Maintenance,10,1049,No,Yes
+1026,13,Executive,4,2855,Booked,9,426,Yes,No
+1027,62,Standard,6,10263,Booked,16,260,Yes,No
+1028,62,Suite,1,16184,Maintenance,12,1166,Yes,Yes
+1029,14,Deluxe,4,19822,Maintenance,10,1056,Yes,No
+1030,99,Family Suite,4,7101,Maintenance,14,637,Yes,Yes
+1031,12,Suite,5,16591,Available,20,380,Yes,Yes
+1032,57,Executive,5,17319,Booked,18,574,No,No
+1033,2,Suite,1,7212,Maintenance,12,532,Yes,Yes
+1034,43,Executive,3,2539,Booked,13,1038,Yes,No
+1035,38,Standard,6,10166,Maintenance,9,230,Yes,No
+1036,49,Deluxe,4,13519,Booked,12,630,No,Yes
+1037,38,Family Suite,1,10954,Available,12,1136,Yes,No
+1038,26,Executive,4,4342,Available,17,518,No,Yes
+1039,97,Family Suite,5,8596,Available,4,1143,Yes,Yes
+1040,80,Family Suite,4,18431,Maintenance,7,1095,No,Yes
+1041,69,Suite,6,14452,Maintenance,19,290,No,No
+1042,32,Executive,5,14361,Maintenance,13,900,Yes,Yes
+1043,92,Suite,6,11339,Available,16,888,No,Yes
+1044,52,Executive,2,18968,Booked,4,258,No,Yes
+1045,48,Executive,2,13722,Maintenance,11,535,Yes,No
+1046,7,Suite,4,19584,Maintenance,11,694,Yes,No
+1047,53,Family Suite,2,4503,Maintenance,19,928,No,Yes
+1048,43,Family Suite,3,11567,Available,15,774,Yes,No
+1049,11,Deluxe,3,6389,Booked,6,1112,Yes,No
+1050,40,Suite,6,3587,Maintenance,13,653,No,Yes
+1051,19,Suite,5,14320,Booked,9,213,No,Yes
+1052,21,Suite,6,18388,Maintenance,15,1195,Yes,Yes
+1053,33,Suite,4,16623,Booked,8,231,No,No
+1054,78,Family Suite,4,13001,Available,1,776,Yes,No
+1055,99,Suite,1,11771,Available,16,353,Yes,No
+1056,14,Executive,3,3868,Booked,4,909,Yes,No
+1057,66,Standard,2,7465,Available,2,781,Yes,No
+1058,97,Standard,6,9401,Maintenance,1,184,Yes,No
+1059,9,Standard,6,5569,Booked,15,442,No,Yes
+1060,74,Family Suite,1,13884,Booked,11,309,Yes,No
+1061,25,Family Suite,6,3414,Booked,20,1163,No,No
+1062,90,Executive,3,12766,Booked,18,469,No,Yes
+1063,30,Executive,2,9405,Available,18,737,No,No
+1064,9,Suite,5,3877,Available,10,754,Yes,Yes
+1065,18,Family Suite,3,5422,Available,2,300,No,Yes
+1066,85,Executive,3,11116,Maintenance,2,386,No,Yes
+1067,16,Suite,4,18360,Maintenance,7,388,No,Yes
+1068,98,Standard,6,17372,Available,18,916,Yes,Yes
+1069,21,Family Suite,1,15047,Maintenance,1,1085,No,Yes
+1070,22,Family Suite,2,4696,Maintenance,13,652,Yes,Yes
+1071,70,Standard,1,7554,Available,18,750,Yes,No
+1072,88,Family Suite,4,2705,Maintenance,5,996,No,No
+1073,41,Family Suite,2,14221,Booked,10,456,Yes,Yes
+1074,84,Family Suite,6,8701,Booked,10,1111,No,Yes
+1075,51,Family Suite,2,15349,Available,10,1006,Yes,Yes
+1076,65,Deluxe,6,11099,Maintenance,5,238,Yes,Yes
+1077,82,Executive,3,4967,Booked,11,190,Yes,Yes
+1078,80,Deluxe,6,14467,Booked,5,713,No,Yes
+1079,44,Family Suite,2,5437,Available,13,1050,No,Yes
+1080,28,Deluxe,5,8539,Booked,13,1173,No,Yes
+1081,70,Suite,6,4219,Available,10,770,No,No
+1082,79,Family Suite,5,8112,Available,18,550,No,No
+1083,4,Deluxe,1,2552,Maintenance,4,1185,No,No
+1084,100,Suite,3,12659,Booked,20,324,Yes,No
+1085,8,Suite,3,5935,Maintenance,18,1056,No,Yes
+1086,87,Deluxe,2,8072,Available,15,647,No,Yes
+1087,45,Deluxe,3,19854,Available,19,256,Yes,Yes
+1088,1,Deluxe,6,11488,Available,2,415,No,Yes
+1089,98,Family Suite,1,4295,Available,20,644,Yes,No
+1090,42,Executive,3,6249,Available,14,399,No,Yes
+1091,64,Standard,5,16470,Maintenance,7,392,Yes,Yes
+1092,45,Deluxe,1,17801,Booked,14,627,Yes,Yes
+1093,63,Deluxe,3,16193,Available,4,1053,Yes,Yes
+1094,47,Suite,5,13890,Maintenance,6,834,No,No
+1095,51,Suite,2,4594,Maintenance,6,792,No,Yes
+1096,94,Family Suite,5,12459,Booked,3,948,No,No
+1097,27,Suite,4,16511,Available,15,959,Yes,No
+1098,38,Executive,5,14096,Maintenance,14,1111,No,No
+1099,54,Executive,5,14234,Maintenance,11,873,No,No
+1100,42,Standard,1,15831,Booked,2,585,No,No
+1101,44,Suite,1,5758,Booked,19,836,Yes,No
+1102,18,Family Suite,3,16027,Maintenance,15,182,No,Yes
+1103,34,Executive,4,18868,Maintenance,12,227,Yes,No
+1104,53,Executive,1,15271,Available,17,901,Yes,No
+1105,92,Standard,3,5849,Booked,5,961,No,No
+1106,81,Standard,6,7833,Available,20,341,Yes,No
+1107,15,Deluxe,2,9847,Maintenance,1,358,No,No
+1108,18,Executive,4,14887,Available,11,1159,Yes,No
+1109,60,Family Suite,3,17943,Maintenance,3,502,Yes,Yes
+1110,43,Family Suite,3,14614,Maintenance,20,426,No,Yes
+1111,43,Deluxe,5,12110,Maintenance,20,822,Yes,No
+1112,45,Family Suite,2,13909,Maintenance,20,909,No,Yes
+1113,71,Deluxe,6,18015,Maintenance,11,261,Yes,Yes
+1114,89,Family Suite,1,4654,Maintenance,3,688,No,No
+1115,99,Deluxe,1,6514,Available,10,1095,No,Yes
+1116,55,Deluxe,1,5655,Available,11,865,Yes,No
+1117,78,Suite,4,5842,Maintenance,15,1101,No,Yes
+1118,91,Standard,3,18580,Booked,17,392,No,No
+1119,77,Suite,6,11430,Available,3,196,No,Yes
+1120,87,Standard,5,12147,Available,17,371,No,No
+1121,73,Suite,1,17744,Maintenance,15,358,No,No
+1122,91,Standard,3,12685,Available,11,1196,Yes,Yes
+1123,27,Family Suite,4,14613,Booked,15,1184,Yes,No
+1124,49,Family Suite,6,3470,Maintenance,13,274,No,No
+1125,28,Standard,3,5795,Available,18,448,Yes,No
+1126,41,Family Suite,3,14443,Maintenance,6,676,No,Yes
+1127,75,Executive,5,6805,Available,14,793,Yes,No
+1128,73,Executive,6,10751,Maintenance,1,625,Yes,Yes
+1129,55,Executive,1,3136,Available,6,908,Yes,No
+1130,85,Standard,2,3388,Maintenance,9,554,No,Yes
+1131,100,Suite,4,9233,Maintenance,9,795,No,Yes
+1132,45,Family Suite,6,16364,Available,7,668,No,No
+1133,89,Family Suite,1,10454,Maintenance,18,933,No,No
+1134,15,Standard,5,19403,Available,3,302,Yes,Yes
+1135,79,Executive,3,7737,Available,7,276,No,Yes
+1136,36,Deluxe,1,16989,Available,15,1079,Yes,Yes
+1137,65,Executive,4,16139,Available,8,943,No,Yes
+1138,93,Family Suite,1,8790,Maintenance,6,356,Yes,Yes
+1139,7,Deluxe,3,11738,Maintenance,10,854,Yes,No
+1140,78,Standard,4,19372,Maintenance,4,605,No,No
+1141,15,Executive,1,12032,Available,11,1195,Yes,Yes
+1142,66,Deluxe,3,7876,Available,9,963,Yes,No
+1143,91,Standard,1,9812,Maintenance,4,424,No,No
+1144,27,Suite,3,3644,Available,2,1039,No,No
+1145,22,Family Suite,3,5477,Booked,8,408,Yes,No
+1146,15,Family Suite,2,15885,Maintenance,6,958,Yes,Yes
+1147,81,Standard,3,7610,Maintenance,16,811,No,No
+1148,52,Suite,2,5165,Available,13,1155,No,Yes
+1149,54,Standard,2,3927,Maintenance,5,1147,Yes,Yes
+1150,2,Suite,4,14869,Booked,10,916,No,Yes
+1151,20,Executive,5,6690,Available,8,1089,No,Yes
+1152,14,Standard,2,11375,Booked,20,566,No,Yes
+1153,17,Family Suite,5,5207,Maintenance,10,700,No,No
+1154,86,Suite,6,11609,Maintenance,20,629,Yes,No
+1155,60,Suite,2,4304,Booked,16,436,No,Yes
+1156,58,Standard,3,15997,Available,19,443,Yes,No
+1157,42,Executive,1,11789,Booked,9,492,No,No
+1158,40,Executive,5,4735,Booked,11,343,No,Yes
+1159,97,Family Suite,5,15407,Booked,13,505,Yes,Yes
+1160,33,Standard,2,5193,Booked,18,480,Yes,Yes
+1161,77,Deluxe,1,9833,Booked,20,812,No,No
+1162,68,Suite,2,9533,Booked,16,675,Yes,No
+1163,47,Standard,3,7467,Available,9,298,Yes,No
+1164,92,Standard,2,19770,Maintenance,7,461,Yes,Yes
+1165,61,Suite,2,8412,Available,15,1115,Yes,Yes
+1166,39,Executive,1,18327,Booked,7,1022,No,Yes
+1167,55,Standard,2,7782,Available,20,1119,No,No
+1168,29,Deluxe,3,7719,Available,1,723,No,Yes
+1169,47,Executive,3,8372,Booked,8,342,Yes,No
+1170,13,Suite,6,4496,Maintenance,17,534,Yes,Yes
+1171,78,Standard,5,11356,Available,18,302,No,Yes
+1172,18,Suite,6,2567,Booked,9,374,Yes,No
+1173,25,Suite,3,8905,Available,10,757,No,Yes
+1174,57,Family Suite,2,2912,Booked,2,1028,Yes,Yes
+1175,19,Suite,3,8921,Maintenance,2,1066,Yes,Yes
+1176,29,Executive,1,14826,Available,8,316,No,Yes
+1177,85,Standard,5,18816,Available,10,440,No,Yes
+1178,95,Family Suite,1,18423,Available,5,265,Yes,No
+1179,80,Executive,5,16645,Maintenance,3,231,Yes,No
+1180,73,Standard,5,8370,Booked,6,1200,No,No
+1181,47,Family Suite,2,3722,Booked,13,764,Yes,No
+1182,70,Deluxe,2,5293,Available,19,654,No,No
+1183,55,Standard,4,14240,Available,4,1080,Yes,Yes
+1184,36,Suite,3,3182,Available,15,628,No,Yes
+1185,86,Standard,2,9783,Available,13,320,No,No
+1186,12,Suite,1,3601,Available,7,575,No,No
+1187,40,Executive,2,18057,Maintenance,8,741,No,No
+1188,96,Standard,6,11330,Booked,17,256,No,Yes
+1189,23,Standard,1,8202,Maintenance,3,728,Yes,Yes
+1190,25,Executive,4,6894,Booked,4,275,Yes,Yes
+1191,97,Deluxe,6,5332,Available,5,569,Yes,Yes
+1192,4,Executive,3,3714,Booked,15,869,No,Yes
+1193,21,Suite,2,7733,Booked,10,1049,No,No
+1194,64,Suite,4,9792,Available,14,796,Yes,No
+1195,46,Suite,5,4254,Available,13,526,Yes,No
+1196,21,Suite,2,16949,Available,9,627,No,No
+1197,96,Executive,2,7984,Booked,16,579,Yes,No
+1198,83,Suite,4,2888,Booked,12,1198,No,Yes
+1199,38,Deluxe,6,8093,Maintenance,2,548,No,No
+1200,47,Deluxe,3,17242,Maintenance,2,564,No,Yes
+1201,11,Executive,5,15546,Available,7,477,No,Yes
+1202,14,Standard,4,4020,Available,12,569,No,Yes
+1203,78,Family Suite,3,8566,Available,4,970,No,No
+1204,33,Deluxe,1,5560,Booked,1,872,No,Yes
+1205,79,Executive,1,19692,Booked,18,207,Yes,No
+1206,92,Family Suite,6,14598,Booked,17,840,Yes,No
+1207,42,Suite,3,17190,Booked,20,639,No,No
+1208,45,Deluxe,6,12082,Available,19,843,Yes,No
+1209,50,Deluxe,5,7991,Booked,11,593,No,No
+1210,42,Family Suite,1,17347,Maintenance,14,1109,No,Yes
+1211,30,Suite,1,19263,Available,11,722,Yes,No
+1212,67,Executive,6,11070,Booked,4,290,Yes,Yes
+1213,53,Suite,4,4827,Maintenance,19,811,Yes,No
+1214,22,Suite,2,16888,Available,1,1078,Yes,Yes
+1215,48,Family Suite,5,15137,Available,11,255,No,No
+1216,8,Executive,3,9181,Available,2,756,Yes,No
+1217,29,Standard,6,3159,Available,10,499,No,No
+1218,80,Standard,4,7667,Maintenance,19,1031,No,Yes
+1219,28,Standard,4,18656,Booked,17,1155,Yes,No
+1220,100,Family Suite,6,9778,Available,17,1093,No,Yes
+1221,12,Standard,4,5043,Available,2,948,Yes,No
+1222,80,Standard,4,5820,Maintenance,9,601,No,Yes
+1223,60,Family Suite,4,10171,Booked,7,1174,Yes,No
+1224,19,Family Suite,4,13806,Maintenance,6,682,No,No
+1225,11,Standard,1,3031,Booked,20,1113,No,No
+1226,7,Suite,1,17637,Available,3,705,Yes,Yes
+1227,81,Suite,6,15549,Booked,3,737,Yes,No
+1228,1,Standard,5,13599,Available,15,221,Yes,No
+1229,3,Standard,1,2702,Available,5,315,Yes,Yes
+1230,72,Executive,2,3870,Booked,4,1045,Yes,Yes
+1231,98,Standard,5,4733,Maintenance,13,759,Yes,No
+1232,15,Family Suite,1,15018,Booked,14,810,No,Yes
+1233,15,Standard,3,12491,Available,3,990,No,Yes
+1234,72,Deluxe,2,7474,Booked,4,761,No,No
+1235,76,Deluxe,3,19109,Maintenance,13,304,No,No
+1236,14,Deluxe,1,18382,Available,5,1012,No,No
+1237,77,Suite,4,12859,Booked,2,1175,Yes,No
+1238,92,Deluxe,1,19482,Maintenance,5,1117,No,No
+1239,7,Family Suite,3,17789,Booked,20,1037,No,Yes
+1240,38,Deluxe,2,10752,Maintenance,5,608,Yes,Yes
+1241,23,Suite,2,6280,Maintenance,15,824,No,No
+1242,57,Family Suite,4,6594,Maintenance,7,337,Yes,Yes
+1243,52,Standard,1,9261,Maintenance,5,194,Yes,Yes
+1244,54,Family Suite,4,16436,Maintenance,15,466,No,Yes
+1245,66,Deluxe,6,18529,Maintenance,1,690,Yes,Yes
+1246,39,Standard,5,16668,Available,2,894,No,No
+1247,58,Executive,4,8222,Maintenance,13,212,Yes,No
+1248,79,Suite,5,4796,Maintenance,2,443,No,Yes
+1249,39,Executive,5,13236,Booked,11,833,No,No
+1250,45,Executive,4,17632,Maintenance,4,431,No,Yes
+1251,26,Suite,3,7982,Booked,17,944,Yes,Yes
+1252,60,Family Suite,2,7284,Available,15,965,No,No
+1253,33,Suite,6,11987,Available,16,1061,No,No
+1254,89,Executive,3,13731,Maintenance,9,843,Yes,Yes
+1255,93,Standard,1,7589,Maintenance,4,1050,No,Yes
+1256,54,Executive,3,12130,Booked,7,747,Yes,Yes
+1257,32,Deluxe,3,13408,Maintenance,8,403,No,No
+1258,66,Executive,2,6841,Maintenance,20,1166,No,No
+1259,86,Executive,3,12437,Maintenance,5,860,Yes,Yes
+1260,71,Family Suite,1,6204,Available,8,1008,No,No
+1261,79,Standard,1,14474,Maintenance,15,673,Yes,Yes
+1262,12,Suite,1,5088,Booked,17,290,No,Yes
+1263,9,Deluxe,3,10474,Maintenance,9,344,Yes,Yes
+1264,70,Suite,4,15771,Booked,2,770,Yes,No
+1265,77,Deluxe,4,14437,Available,12,1088,No,Yes
+1266,48,Standard,1,3760,Maintenance,20,750,Yes,Yes
+1267,83,Standard,5,11177,Booked,8,195,Yes,Yes
+1268,63,Executive,2,7032,Available,13,523,No,No
+1269,58,Deluxe,6,16035,Maintenance,7,746,Yes,Yes
+1270,26,Executive,2,15396,Booked,14,934,Yes,Yes
+1271,40,Standard,2,5093,Maintenance,2,649,No,Yes
+1272,65,Family Suite,4,5068,Booked,4,452,Yes,No
+1273,18,Suite,5,9733,Available,13,866,No,No
+1274,37,Standard,2,19087,Maintenance,7,1033,Yes,No
+1275,39,Executive,6,6902,Maintenance,18,923,No,No
+1276,46,Standard,5,11818,Maintenance,16,445,Yes,No
+1277,44,Executive,2,19155,Maintenance,16,1000,Yes,No
+1278,78,Suite,4,8349,Available,10,528,No,No
+1279,94,Standard,6,11660,Available,4,201,Yes,Yes
+1280,82,Suite,5,15589,Available,4,959,No,No
+1281,42,Family Suite,3,14681,Available,19,936,Yes,No
+1282,91,Executive,5,14960,Booked,5,1179,No,Yes
+1283,31,Deluxe,5,13588,Available,1,213,Yes,No
+1284,26,Suite,5,13466,Maintenance,6,1067,No,No
+1285,59,Deluxe,4,9649,Available,6,1016,No,Yes
+1286,47,Suite,5,18539,Available,4,406,Yes,Yes
+1287,57,Standard,3,6495,Booked,8,863,Yes,No
+1288,26,Family Suite,4,7155,Booked,19,827,Yes,Yes
+1289,12,Suite,3,16548,Maintenance,10,498,Yes,No
+1290,61,Family Suite,1,17494,Available,8,511,Yes,No
+1291,88,Family Suite,5,5246,Available,12,982,No,Yes
+1292,56,Suite,2,18356,Available,20,614,No,Yes
+1293,16,Deluxe,4,5201,Available,1,839,Yes,No
+1294,85,Family Suite,6,18085,Maintenance,10,336,No,No
+1295,14,Suite,3,9782,Booked,15,989,Yes,Yes
+1296,57,Family Suite,6,14090,Available,13,564,Yes,Yes
+1297,41,Family Suite,6,15469,Maintenance,11,758,No,No
+1298,54,Standard,3,10252,Available,4,964,Yes,Yes
+1299,49,Suite,6,12910,Booked,1,354,No,Yes
+1300,67,Standard,1,15383,Maintenance,1,912,Yes,No
+1301,22,Deluxe,2,14602,Maintenance,4,743,No,Yes
+1302,77,Deluxe,6,5415,Booked,12,588,Yes,Yes
+1303,57,Standard,6,10379,Maintenance,17,1157,No,Yes
+1304,66,Suite,3,13028,Booked,10,1125,Yes,Yes
+1305,60,Standard,6,12076,Booked,15,935,No,No
+1306,16,Suite,6,12117,Booked,12,1068,Yes,Yes
+1307,52,Standard,2,9074,Available,12,407,Yes,No
+1308,6,Deluxe,3,17467,Maintenance,12,654,No,No
+1309,59,Standard,1,8622,Booked,1,647,No,No
+1310,6,Executive,4,14202,Available,17,1138,No,Yes
+1311,11,Executive,1,16290,Maintenance,20,599,No,No
+1312,18,Deluxe,4,10844,Booked,9,1066,Yes,No
+1313,24,Standard,6,11413,Available,9,380,No,No
+1314,27,Family Suite,3,15206,Available,1,185,Yes,Yes
+1315,66,Standard,4,5962,Booked,7,723,Yes,Yes
+1316,81,Family Suite,6,7254,Booked,3,759,Yes,Yes
+1317,14,Family Suite,5,18159,Maintenance,5,278,No,No
+1318,13,Standard,5,4925,Booked,12,647,No,Yes
+1319,66,Standard,1,19536,Booked,15,880,No,Yes
+1320,53,Deluxe,2,12533,Maintenance,3,521,Yes,Yes
+1321,66,Deluxe,1,15728,Booked,11,992,Yes,No
+1322,26,Executive,1,9257,Available,20,966,No,No
+1323,32,Family Suite,1,10341,Booked,5,910,No,No
+1324,45,Deluxe,3,10594,Booked,14,855,No,Yes
+1325,67,Standard,2,13001,Booked,14,821,No,Yes
+1326,28,Executive,5,6095,Booked,6,660,Yes,No
+1327,69,Suite,6,8866,Booked,6,727,Yes,Yes
+1328,16,Suite,2,13436,Available,7,386,No,No
+1329,92,Standard,4,12696,Maintenance,14,1045,No,No
+1330,39,Executive,6,12191,Booked,11,491,No,Yes
+1331,66,Standard,4,9632,Maintenance,18,855,Yes,Yes
+1332,43,Deluxe,3,19215,Maintenance,16,1161,No,No
+1333,100,Standard,3,4403,Available,3,528,Yes,Yes
+1334,98,Suite,6,14927,Booked,2,738,No,No
+1335,80,Executive,5,16551,Maintenance,8,738,No,No
+1336,62,Suite,4,5062,Available,10,268,Yes,No
+1337,83,Deluxe,5,10656,Booked,3,206,No,No
+1338,18,Executive,5,17099,Booked,13,555,No,Yes
+1339,54,Standard,4,4114,Available,20,418,Yes,No
+1340,88,Executive,4,17381,Booked,10,1047,Yes,Yes
+1341,33,Family Suite,2,17872,Available,4,712,Yes,Yes
+1342,28,Standard,6,11523,Available,20,933,Yes,No
+1343,24,Family Suite,4,6214,Booked,7,883,Yes,Yes
+1344,11,Deluxe,6,2852,Booked,13,584,No,No
+1345,13,Suite,5,11241,Booked,17,989,No,No
+1346,71,Family Suite,5,12479,Booked,17,820,No,No
+1347,90,Executive,5,18133,Available,4,479,Yes,No
+1348,38,Family Suite,4,4696,Maintenance,20,235,No,Yes
+1349,82,Deluxe,6,14111,Available,1,731,Yes,Yes
+1350,86,Executive,5,15532,Booked,17,1057,No,No
+1351,3,Deluxe,1,10003,Available,13,1141,No,Yes
+1352,7,Deluxe,3,7081,Booked,4,278,No,Yes
+1353,94,Standard,4,15836,Booked,4,1005,Yes,Yes
+1354,23,Suite,5,11748,Maintenance,12,667,No,Yes
+1355,92,Deluxe,6,16183,Maintenance,3,1197,Yes,No
+1356,22,Family Suite,6,18158,Available,10,971,No,Yes
+1357,55,Family Suite,5,17056,Booked,3,326,No,No
+1358,49,Executive,2,6220,Maintenance,7,523,No,No
+1359,97,Executive,1,11699,Maintenance,8,1190,Yes,No
+1360,86,Deluxe,5,8764,Maintenance,10,751,No,Yes
+1361,23,Standard,1,3544,Maintenance,11,770,Yes,No
+1362,100,Standard,1,8246,Booked,4,1180,No,Yes
+1363,52,Deluxe,6,10742,Available,8,997,No,Yes
+1364,10,Deluxe,2,12295,Maintenance,5,498,Yes,No
+1365,16,Executive,5,18305,Booked,6,1045,Yes,No
+1366,78,Executive,6,12144,Maintenance,5,1164,Yes,Yes
+1367,14,Standard,4,6949,Booked,9,734,Yes,Yes
+1368,12,Suite,4,13545,Available,16,880,No,Yes
+1369,29,Standard,2,11473,Maintenance,2,858,No,No
+1370,80,Standard,4,12952,Available,20,585,No,Yes
+1371,12,Executive,3,13998,Booked,2,1192,No,No
+1372,89,Family Suite,4,19127,Booked,6,1035,Yes,No
+1373,48,Family Suite,6,17198,Booked,4,872,No,Yes
+1374,9,Deluxe,5,8888,Maintenance,20,986,Yes,No
+1375,93,Executive,6,18172,Available,16,832,Yes,Yes
+1376,22,Deluxe,6,16870,Maintenance,14,973,Yes,No
+1377,44,Suite,2,16998,Maintenance,10,1151,Yes,Yes
+1378,29,Standard,5,18784,Maintenance,2,610,No,No
+1379,73,Suite,3,5373,Maintenance,18,604,No,No
+1380,78,Suite,6,8837,Maintenance,6,187,Yes,Yes
+1381,49,Deluxe,5,15694,Maintenance,16,206,Yes,No
+1382,48,Suite,6,18592,Maintenance,12,984,No,No
+1383,91,Executive,6,15165,Booked,7,184,Yes,No
+1384,37,Executive,2,3091,Maintenance,4,407,Yes,Yes
+1385,45,Deluxe,4,14645,Available,9,257,Yes,Yes
+1386,51,Executive,3,10316,Maintenance,12,928,Yes,No
+1387,48,Suite,6,17033,Available,4,473,Yes,No
+1388,23,Executive,2,10798,Booked,15,618,Yes,Yes
+1389,20,Family Suite,6,18959,Available,16,1164,Yes,Yes
+1390,19,Standard,3,12858,Maintenance,17,873,No,No
+1391,81,Standard,4,10341,Maintenance,20,1038,No,No
+1392,32,Family Suite,6,9834,Maintenance,7,431,Yes,Yes
+1393,58,Family Suite,4,19289,Available,18,916,No,Yes
+1394,66,Suite,1,17160,Available,18,1071,No,Yes
+1395,45,Executive,2,7154,Available,11,218,No,Yes
+1396,70,Executive,4,10129,Maintenance,12,316,Yes,Yes
+1397,67,Executive,3,15734,Available,7,1131,Yes,No
+1398,77,Deluxe,5,13997,Available,18,584,No,Yes
+1399,53,Deluxe,6,16718,Available,18,270,Yes,No
+1400,57,Executive,4,17058,Maintenance,14,1164,No,Yes
+1401,62,Family Suite,1,19957,Available,20,226,No,No
+1402,56,Suite,5,9960,Available,2,550,Yes,No
+1403,6,Suite,6,16408,Available,9,323,No,Yes
+1404,91,Standard,2,10417,Available,9,1187,No,No
+1405,50,Deluxe,3,6061,Maintenance,18,460,Yes,No
+1406,11,Executive,2,7127,Maintenance,10,201,No,Yes
+1407,61,Suite,2,11164,Booked,13,1048,Yes,No
+1408,98,Executive,2,15500,Maintenance,17,510,Yes,Yes
+1409,18,Executive,5,12299,Available,17,843,No,Yes
+1410,75,Standard,5,19243,Booked,14,1100,Yes,No
+1411,89,Suite,1,13206,Available,9,811,Yes,No
+1412,97,Family Suite,4,9823,Booked,20,679,No,No
+1413,37,Deluxe,3,10195,Booked,10,813,No,Yes
+1414,63,Standard,4,17069,Booked,5,333,Yes,Yes
+1415,40,Executive,4,5271,Booked,8,422,Yes,Yes
+1416,64,Deluxe,1,6950,Booked,12,939,Yes,No
+1417,79,Executive,4,16816,Maintenance,19,429,Yes,No
+1418,33,Standard,3,10374,Maintenance,13,844,Yes,Yes
+1419,67,Executive,1,7577,Available,16,530,Yes,Yes
+1420,52,Standard,5,5150,Booked,12,722,No,Yes
+1421,85,Family Suite,2,7207,Booked,9,506,No,No
+1422,24,Suite,2,8447,Available,4,490,No,No
+1423,25,Standard,5,14742,Maintenance,3,1111,No,No
+1424,77,Family Suite,2,9335,Available,8,744,Yes,No
+1425,75,Executive,3,3862,Booked,1,537,No,No
+1426,2,Standard,4,9337,Booked,4,846,Yes,Yes
+1427,63,Family Suite,3,3844,Maintenance,17,843,Yes,Yes
+1428,25,Executive,1,14812,Maintenance,20,414,Yes,Yes
+1429,41,Suite,2,16944,Maintenance,19,796,No,Yes
+1430,74,Family Suite,2,2743,Maintenance,6,745,No,Yes
+1431,19,Suite,1,18964,Booked,2,508,No,Yes
+1432,25,Family Suite,6,6000,Maintenance,4,333,No,Yes
+1433,90,Suite,6,14096,Maintenance,17,760,No,No
+1434,79,Suite,5,4726,Maintenance,9,458,Yes,Yes
+1435,55,Family Suite,3,12587,Booked,3,817,Yes,No
+1436,88,Standard,3,10806,Maintenance,15,493,No,Yes
+1437,52,Suite,4,7519,Available,1,1058,Yes,No
+1438,1,Executive,5,12616,Booked,13,1072,Yes,No
+1439,13,Standard,2,9747,Booked,2,607,No,No
+1440,56,Executive,1,14299,Available,12,812,Yes,No
+1441,90,Suite,4,16531,Booked,16,730,Yes,No
+1442,90,Family Suite,2,5652,Maintenance,10,679,No,Yes
+1443,20,Executive,5,3865,Maintenance,7,513,Yes,Yes
+1444,94,Family Suite,4,3098,Maintenance,4,207,Yes,No
+1445,35,Executive,4,4834,Booked,6,437,Yes,Yes
+1446,13,Standard,1,4111,Available,14,843,No,Yes
+1447,63,Deluxe,4,8796,Maintenance,18,291,Yes,Yes
+1448,79,Standard,5,10474,Available,9,558,Yes,Yes
+1449,69,Executive,1,9292,Booked,13,402,Yes,Yes
+1450,57,Family Suite,3,7526,Booked,14,507,No,No
+1451,98,Executive,5,3616,Maintenance,11,1122,Yes,Yes
+1452,92,Standard,3,13958,Maintenance,7,737,Yes,No
+1453,48,Executive,1,5532,Booked,9,406,No,No
+1454,14,Family Suite,5,4116,Booked,15,815,No,Yes
+1455,68,Suite,5,6250,Booked,4,1158,No,No
+1456,53,Executive,1,13677,Booked,4,645,Yes,Yes
+1457,53,Standard,3,16099,Available,13,580,No,No
+1458,41,Suite,6,13396,Available,13,405,No,No
+1459,56,Executive,3,14040,Maintenance,20,226,Yes,Yes
+1460,37,Suite,2,10134,Maintenance,4,1034,No,Yes
+1461,49,Deluxe,4,11326,Maintenance,10,808,Yes,No
+1462,40,Standard,4,7748,Maintenance,17,419,No,Yes
+1463,69,Suite,1,14756,Available,7,268,No,Yes
+1464,10,Deluxe,6,8954,Booked,14,296,Yes,No
+1465,21,Standard,4,19105,Booked,16,372,No,No
+1466,74,Executive,2,17101,Available,6,412,Yes,No
+1467,10,Executive,5,15846,Maintenance,6,1082,Yes,No
+1468,70,Family Suite,3,19626,Booked,7,303,Yes,No
+1469,39,Executive,1,19792,Booked,10,637,No,Yes
+1470,25,Executive,5,18119,Available,19,823,No,Yes
+1471,45,Executive,4,13691,Booked,16,783,Yes,No
+1472,65,Standard,2,11975,Booked,5,516,Yes,Yes
+1473,5,Family Suite,5,12863,Booked,11,500,Yes,Yes
+1474,14,Suite,3,6738,Maintenance,14,422,No,No
+1475,9,Standard,4,5355,Maintenance,15,229,No,No
+1476,16,Family Suite,3,12524,Booked,7,431,No,No
+1477,3,Deluxe,1,14277,Booked,20,277,No,No
+1478,49,Standard,6,12290,Available,12,1082,No,Yes
+1479,61,Deluxe,4,19464,Booked,1,921,Yes,Yes
+1480,10,Suite,6,18602,Maintenance,3,195,Yes,No
+1481,74,Standard,3,18291,Maintenance,4,852,No,No
+1482,40,Standard,5,14245,Available,9,776,No,No
+1483,100,Family Suite,2,18436,Available,13,742,Yes,No
+1484,77,Deluxe,4,16470,Maintenance,3,1045,Yes,No
+1485,67,Deluxe,5,4747,Booked,18,498,Yes,No
+1486,26,Deluxe,6,3260,Maintenance,20,212,No,Yes
+1487,93,Suite,4,11526,Booked,11,183,Yes,Yes
+1488,49,Standard,6,2584,Booked,12,910,Yes,Yes
+1489,11,Family Suite,5,18209,Available,7,234,Yes,Yes
+1490,82,Executive,4,10336,Maintenance,5,1007,No,Yes
+1491,27,Deluxe,4,9773,Booked,20,1057,No,Yes
+1492,27,Suite,2,15143,Available,11,779,Yes,No
+1493,30,Executive,3,9408,Booked,5,348,No,No
+1494,76,Suite,2,4217,Booked,7,1164,No,Yes
+1495,48,Suite,1,8881,Maintenance,12,1008,No,No
+1496,54,Deluxe,1,14946,Available,1,804,No,Yes
+1497,33,Executive,1,12797,Available,9,850,Yes,Yes
+1498,38,Executive,1,4756,Maintenance,20,1055,Yes,Yes
+1499,47,Executive,4,12673,Maintenance,2,1176,Yes,No
+1500,23,Suite,4,3834,Available,14,310,Yes,Yes
+1501,67,Deluxe,3,9173,Booked,15,803,Yes,No
+1502,39,Family Suite,3,7979,Available,11,245,No,No
+1503,42,Executive,2,11373,Maintenance,15,649,No,No
+1504,41,Suite,1,7821,Maintenance,17,869,No,No
+1505,69,Deluxe,2,16529,Booked,14,613,No,No
+1506,27,Standard,1,2606,Available,6,310,Yes,Yes
+1507,83,Deluxe,6,19402,Booked,12,984,Yes,No
+1508,10,Deluxe,3,11912,Maintenance,17,399,No,No
+1509,97,Suite,4,11954,Maintenance,17,719,Yes,No
+1510,26,Family Suite,5,6667,Booked,5,560,No,Yes
+1511,80,Standard,2,13693,Maintenance,8,1134,No,Yes
+1512,46,Standard,1,18562,Available,10,988,No,No
+1513,56,Standard,5,7468,Maintenance,9,661,Yes,No
+1514,100,Executive,3,16105,Available,1,738,Yes,Yes
+1515,28,Standard,1,7819,Available,4,912,Yes,Yes
+1516,44,Family Suite,3,5993,Available,4,1060,No,Yes
+1517,25,Deluxe,2,14135,Booked,4,448,Yes,Yes
+1518,30,Executive,6,6860,Booked,5,296,No,No
+1519,26,Suite,4,5986,Booked,2,453,No,Yes
+1520,51,Family Suite,4,16937,Booked,18,692,Yes,Yes
+1521,82,Standard,3,5790,Available,6,612,No,Yes
+1522,23,Deluxe,6,15385,Available,11,543,No,No
+1523,88,Family Suite,1,9303,Available,13,1022,Yes,Yes
+1524,44,Standard,4,5215,Maintenance,15,433,Yes,Yes
+1525,13,Family Suite,3,12110,Booked,11,320,No,No
+1526,82,Executive,2,14983,Available,6,1079,Yes,No
+1527,37,Executive,1,10125,Available,20,806,No,Yes
+1528,93,Family Suite,3,2907,Booked,18,627,No,No
+1529,74,Family Suite,5,9621,Maintenance,17,1153,Yes,Yes
+1530,38,Family Suite,5,17577,Booked,13,300,Yes,Yes
+1531,77,Standard,6,2787,Available,5,476,Yes,No
+1532,15,Suite,4,13210,Maintenance,13,1107,Yes,No
+1533,43,Deluxe,2,9142,Available,16,215,Yes,No
+1534,56,Executive,5,16680,Maintenance,12,1012,No,Yes
+1535,12,Standard,4,7794,Available,2,909,No,No
+1536,40,Standard,6,10792,Booked,7,985,No,No
+1537,96,Suite,2,5061,Available,11,542,No,No
+1538,85,Standard,1,9214,Maintenance,2,857,Yes,No
+1539,74,Suite,4,3859,Maintenance,18,1193,No,No
+1540,58,Family Suite,5,8694,Booked,17,486,Yes,No
+1541,25,Deluxe,1,11076,Maintenance,9,967,No,Yes
+1542,22,Standard,3,16696,Available,14,322,Yes,Yes
+1543,6,Family Suite,6,11430,Available,19,1073,Yes,No
+1544,39,Standard,6,5902,Booked,1,546,Yes,No
+1545,86,Standard,1,10434,Maintenance,9,670,No,Yes
+1546,89,Family Suite,4,9681,Booked,9,253,Yes,Yes
+1547,39,Executive,4,6945,Booked,9,885,Yes,Yes
+1548,44,Suite,2,15536,Available,10,309,No,Yes
+1549,11,Family Suite,4,11779,Maintenance,9,321,No,Yes
+1550,90,Family Suite,6,15612,Maintenance,11,949,Yes,No
+1551,65,Executive,2,3127,Maintenance,4,741,Yes,Yes
+1552,40,Deluxe,4,15273,Available,9,1084,Yes,Yes
+1553,63,Family Suite,1,7788,Available,20,960,No,Yes
+1554,56,Family Suite,6,10588,Booked,4,1030,No,Yes
+1555,61,Standard,3,9486,Available,4,630,Yes,Yes
+1556,27,Suite,2,18846,Maintenance,16,181,No,Yes
+1557,83,Suite,2,17825,Booked,12,743,No,Yes
+1558,26,Suite,4,5331,Booked,5,216,Yes,No
+1559,31,Deluxe,2,3313,Available,7,1127,Yes,No
+1560,74,Executive,4,11400,Booked,9,1118,Yes,Yes
+1561,9,Deluxe,1,14191,Available,20,604,Yes,No
+1562,97,Family Suite,6,12367,Available,5,602,No,Yes
+1563,48,Standard,3,9455,Available,19,1081,Yes,Yes
+1564,89,Suite,5,6350,Available,3,544,No,No
+1565,91,Deluxe,4,16659,Booked,3,392,No,No
+1566,91,Executive,2,13270,Available,10,512,Yes,Yes
+1567,97,Family Suite,6,6945,Available,5,1082,No,Yes
+1568,66,Suite,6,13018,Maintenance,6,1023,No,Yes
+1569,77,Suite,4,14142,Booked,15,502,Yes,Yes
+1570,23,Suite,1,18759,Available,13,481,Yes,No
+1571,12,Suite,2,8931,Maintenance,3,511,No,Yes
+1572,40,Deluxe,3,17580,Maintenance,7,188,No,No
+1573,14,Standard,4,8949,Available,16,829,Yes,Yes
+1574,74,Suite,1,10780,Available,1,871,No,Yes
+1575,78,Executive,6,15504,Available,14,1136,No,Yes
+1576,20,Executive,6,4929,Available,13,1149,No,No
+1577,26,Suite,4,18439,Booked,17,843,No,No
+1578,85,Executive,3,15275,Booked,6,575,No,Yes
+1579,12,Standard,6,10117,Available,8,315,No,Yes
+1580,58,Standard,1,8103,Maintenance,14,862,No,Yes
+1581,73,Family Suite,4,4810,Booked,20,469,Yes,No
+1582,40,Standard,6,17562,Booked,14,1153,Yes,No
+1583,27,Standard,5,11778,Maintenance,11,1178,Yes,No
+1584,54,Standard,5,8526,Available,17,649,No,No
+1585,40,Standard,1,2853,Maintenance,13,571,Yes,No
+1586,22,Family Suite,5,8725,Available,11,1156,No,Yes
+1587,65,Family Suite,3,3918,Booked,19,195,Yes,Yes
+1588,37,Deluxe,6,18315,Maintenance,3,260,Yes,Yes
+1589,61,Deluxe,2,3303,Maintenance,5,1105,Yes,No
+1590,43,Family Suite,6,5690,Maintenance,5,786,Yes,Yes
+1591,20,Executive,2,8955,Available,7,428,No,Yes
+1592,29,Deluxe,5,14275,Available,4,895,Yes,Yes
+1593,75,Family Suite,4,17887,Available,18,1023,No,Yes
+1594,71,Executive,4,15280,Booked,18,1021,Yes,Yes
+1595,1,Executive,6,12102,Available,5,787,No,No
+1596,14,Suite,3,10879,Maintenance,9,995,No,No
+1597,35,Executive,2,3274,Booked,5,1019,Yes,No
+1598,9,Family Suite,3,12289,Maintenance,20,821,Yes,No
+1599,7,Deluxe,2,19340,Available,3,393,Yes,Yes
+1600,35,Family Suite,2,9658,Maintenance,4,476,Yes,Yes
+1601,90,Standard,6,16852,Maintenance,14,435,Yes,Yes
+1602,1,Suite,4,11660,Maintenance,11,234,No,No
+1603,22,Deluxe,4,5672,Maintenance,6,764,Yes,Yes
+1604,36,Family Suite,6,11140,Available,14,268,No,Yes
+1605,23,Executive,3,4407,Maintenance,17,965,No,Yes
+1606,30,Executive,2,10381,Maintenance,4,380,No,Yes
+1607,62,Suite,6,12142,Available,2,428,No,No
+1608,23,Deluxe,4,13464,Maintenance,9,305,No,Yes
+1609,69,Suite,2,19748,Booked,3,1001,No,Yes
+1610,64,Suite,5,4900,Available,14,469,No,No
+1611,65,Executive,3,18191,Available,7,354,Yes,Yes
+1612,23,Standard,5,5809,Booked,17,970,No,Yes
+1613,71,Standard,3,19724,Available,4,1026,Yes,Yes
+1614,50,Suite,1,6813,Available,12,435,No,No
+1615,21,Family Suite,5,2983,Available,9,1164,Yes,Yes
+1616,89,Deluxe,2,13529,Booked,8,1011,Yes,No
+1617,49,Executive,4,4107,Available,15,277,No,Yes
+1618,68,Executive,6,11499,Booked,17,969,No,Yes
+1619,10,Family Suite,5,9012,Maintenance,8,494,No,No
+1620,45,Standard,1,2913,Maintenance,9,665,Yes,Yes
+1621,4,Family Suite,2,19446,Available,4,400,Yes,Yes
+1622,66,Suite,2,12692,Maintenance,3,1030,No,Yes
+1623,36,Standard,3,12629,Booked,19,655,No,Yes
+1624,73,Suite,4,9743,Booked,19,1134,Yes,Yes
+1625,76,Standard,4,16255,Maintenance,20,411,Yes,No
+1626,1,Suite,1,10964,Available,20,552,Yes,Yes
+1627,81,Deluxe,1,9527,Available,15,974,No,No
+1628,62,Standard,1,15184,Maintenance,4,577,No,No
+1629,40,Executive,6,6939,Maintenance,1,1133,No,Yes
+1630,40,Family Suite,5,4821,Maintenance,4,727,No,No
+1631,18,Family Suite,2,11700,Booked,9,237,No,No
+1632,19,Executive,3,18833,Booked,6,264,Yes,No
+1633,84,Deluxe,4,7504,Available,19,256,No,Yes
+1634,75,Suite,6,12151,Available,16,933,Yes,Yes
+1635,80,Standard,1,4549,Booked,2,895,No,No
+1636,49,Family Suite,2,16848,Available,4,894,No,Yes
+1637,66,Suite,3,4171,Booked,16,220,No,No
+1638,21,Standard,4,12908,Booked,12,573,No,Yes
+1639,41,Executive,4,15271,Booked,15,277,No,No
+1640,11,Standard,1,7098,Available,16,198,Yes,Yes
+1641,81,Suite,5,8783,Booked,19,612,No,Yes
+1642,24,Executive,3,13610,Available,12,651,No,Yes
+1643,4,Suite,6,10287,Available,12,1072,No,Yes
+1644,54,Family Suite,1,19014,Booked,17,938,Yes,Yes
+1645,27,Suite,3,7253,Available,19,797,No,No
+1646,17,Deluxe,1,2609,Available,8,404,Yes,Yes
+1647,2,Family Suite,3,2741,Available,8,681,No,No
+1648,40,Family Suite,6,3020,Available,10,223,No,No
+1649,95,Suite,1,7351,Booked,15,741,No,Yes
+1650,6,Family Suite,5,13146,Maintenance,2,326,No,Yes
+1651,51,Suite,2,15441,Maintenance,3,976,Yes,Yes
+1652,54,Family Suite,3,19887,Maintenance,7,569,Yes,No
+1653,54,Family Suite,1,16033,Maintenance,7,578,No,No
+1654,59,Standard,6,17497,Booked,6,792,No,No
+1655,89,Deluxe,4,5752,Booked,9,904,No,Yes
+1656,13,Suite,6,7030,Booked,11,1032,Yes,No
+1657,5,Executive,3,3750,Maintenance,16,525,No,Yes
+1658,56,Suite,2,11200,Booked,18,262,No,No
+1659,76,Family Suite,6,14558,Available,4,411,Yes,Yes
+1660,60,Family Suite,1,16860,Booked,3,485,Yes,Yes
+1661,31,Standard,3,12646,Available,18,1188,Yes,Yes
+1662,3,Suite,3,15293,Available,10,666,No,Yes
+1663,57,Suite,2,9566,Booked,6,673,Yes,Yes
+1664,65,Standard,6,2877,Available,10,506,No,No
+1665,84,Executive,5,11783,Available,6,1035,Yes,Yes
+1666,42,Family Suite,3,15182,Maintenance,14,284,No,No
+1667,8,Deluxe,4,2597,Maintenance,20,257,No,No
+1668,54,Executive,1,17749,Available,20,768,No,Yes
+1669,97,Standard,1,9557,Maintenance,12,593,Yes,No
+1670,89,Executive,4,6857,Available,2,1182,Yes,Yes
+1671,4,Family Suite,3,17364,Maintenance,11,562,Yes,Yes
+1672,98,Standard,3,12258,Booked,3,532,No,No
+1673,6,Deluxe,3,17207,Available,16,561,No,Yes
+1674,3,Deluxe,2,6222,Booked,11,733,Yes,Yes
+1675,90,Family Suite,1,12999,Available,15,209,Yes,Yes
+1676,91,Executive,4,3446,Maintenance,15,369,Yes,Yes
+1677,94,Deluxe,3,19520,Maintenance,7,1030,Yes,Yes
+1678,62,Executive,3,16277,Booked,16,806,No,No
+1679,70,Executive,3,9201,Available,9,299,No,No
+1680,54,Deluxe,6,19155,Maintenance,2,1088,No,No
+1681,61,Suite,6,11864,Booked,12,722,No,No
+1682,48,Family Suite,4,12307,Booked,3,974,Yes,No
+1683,58,Deluxe,5,10432,Booked,13,731,Yes,No
+1684,52,Standard,3,7231,Available,17,682,Yes,No
+1685,12,Standard,5,17800,Booked,17,582,Yes,No
+1686,36,Standard,3,18177,Maintenance,16,631,No,No
+1687,100,Executive,2,17107,Maintenance,3,1156,Yes,Yes
+1688,68,Standard,5,16879,Available,16,678,No,Yes
+1689,86,Executive,5,19064,Maintenance,13,628,No,Yes
+1690,43,Standard,6,3496,Maintenance,11,661,No,No
+1691,19,Deluxe,1,15779,Available,9,970,No,No
+1692,69,Standard,6,15760,Booked,4,534,Yes,Yes
+1693,9,Deluxe,3,4850,Maintenance,8,909,Yes,No
+1694,7,Family Suite,5,16595,Maintenance,17,617,No,Yes
+1695,56,Suite,4,4238,Available,16,194,No,Yes
+1696,54,Family Suite,4,3712,Available,11,558,Yes,Yes
+1697,40,Executive,1,6881,Booked,13,1159,No,No
+1698,89,Deluxe,6,14338,Maintenance,16,754,No,Yes
+1699,15,Suite,4,10314,Available,1,1143,Yes,Yes
+1700,92,Executive,1,5204,Available,3,692,Yes,Yes
+1701,11,Deluxe,6,11610,Maintenance,17,232,Yes,No
+1702,88,Executive,3,13407,Booked,15,880,No,Yes
+1703,88,Suite,6,9597,Available,18,364,Yes,Yes
+1704,17,Deluxe,6,4672,Maintenance,8,605,No,No
+1705,67,Family Suite,2,14241,Maintenance,17,836,Yes,No
+1706,77,Executive,5,18793,Available,5,771,No,No
+1707,35,Family Suite,3,16491,Available,16,289,Yes,No
+1708,81,Standard,2,11000,Booked,13,1049,No,No
+1709,70,Family Suite,5,3453,Maintenance,2,568,No,Yes
+1710,39,Family Suite,4,19685,Available,2,1015,No,Yes
+1711,38,Executive,4,13365,Maintenance,18,1124,No,Yes
+1712,35,Suite,3,15241,Available,3,325,No,Yes
+1713,75,Standard,2,17525,Booked,19,431,Yes,Yes
+1714,19,Standard,2,3747,Available,3,529,Yes,Yes
+1715,46,Family Suite,1,9388,Booked,17,465,Yes,No
+1716,14,Suite,6,15204,Maintenance,11,349,Yes,No
+1717,1,Standard,5,17311,Booked,16,560,Yes,Yes
+1718,27,Standard,2,7691,Maintenance,14,207,No,Yes
+1719,98,Suite,4,19194,Maintenance,10,425,Yes,No
+1720,33,Executive,5,12644,Booked,9,1200,Yes,Yes
+1721,27,Standard,2,9652,Available,18,1134,No,No
+1722,58,Deluxe,6,16743,Booked,8,236,No,No
+1723,23,Family Suite,1,16355,Maintenance,9,960,No,No
+1724,20,Family Suite,2,11394,Available,3,1113,Yes,Yes
+1725,46,Deluxe,3,18930,Maintenance,20,712,Yes,Yes
+1726,3,Deluxe,4,6415,Booked,4,310,No,No
+1727,85,Standard,4,17263,Available,15,690,Yes,No
+1728,92,Suite,3,12344,Maintenance,16,513,No,Yes
+1729,30,Standard,1,14750,Maintenance,14,999,No,Yes
+1730,87,Standard,1,6776,Booked,6,576,No,No
+1731,93,Family Suite,4,10063,Maintenance,9,1169,No,No
+1732,66,Suite,2,5761,Available,19,194,Yes,No
+1733,87,Family Suite,3,18996,Maintenance,16,318,No,Yes
+1734,89,Deluxe,4,13967,Available,6,682,Yes,Yes
+1735,40,Executive,2,6119,Maintenance,1,357,Yes,No
+1736,67,Deluxe,5,3516,Booked,8,625,No,No
+1737,64,Family Suite,1,14911,Maintenance,20,1024,No,Yes
+1738,73,Standard,4,11252,Available,8,533,No,Yes
+1739,75,Deluxe,3,3372,Available,3,1091,Yes,Yes
+1740,61,Family Suite,1,3946,Available,2,730,Yes,Yes
+1741,8,Deluxe,3,10226,Available,6,223,Yes,No
+1742,99,Executive,1,19838,Maintenance,17,211,No,No
+1743,10,Executive,4,6318,Available,3,472,No,Yes
+1744,60,Suite,3,5764,Available,16,376,Yes,No
+1745,42,Executive,1,15701,Maintenance,17,824,No,No
+1746,100,Executive,1,8490,Booked,7,304,No,Yes
+1747,45,Deluxe,1,7537,Maintenance,10,1101,No,Yes
+1748,26,Executive,2,17672,Available,12,338,No,Yes
+1749,78,Executive,3,12787,Booked,10,570,No,No
+1750,51,Executive,6,10834,Booked,20,1057,Yes,No
+1751,92,Deluxe,5,12494,Available,1,185,Yes,Yes
+1752,98,Deluxe,4,11121,Available,15,702,No,No
+1753,3,Standard,4,10372,Maintenance,6,375,Yes,Yes
+1754,93,Suite,6,9807,Available,16,617,Yes,Yes
+1755,93,Deluxe,2,11300,Booked,2,298,No,No
+1756,61,Standard,4,15766,Booked,15,731,No,No
+1757,6,Standard,6,4153,Available,1,1088,No,Yes
+1758,68,Standard,4,7830,Maintenance,9,691,Yes,Yes
+1759,39,Deluxe,5,5293,Booked,2,311,No,No
+1760,12,Deluxe,3,13891,Maintenance,12,872,Yes,Yes
+1761,62,Family Suite,3,18827,Booked,15,516,Yes,Yes
+1762,66,Standard,2,6950,Available,16,235,No,No
+1763,50,Suite,5,12975,Available,4,863,Yes,Yes
+1764,65,Deluxe,3,12275,Available,18,1143,No,Yes
+1765,29,Family Suite,2,15703,Maintenance,9,1194,No,No
+1766,9,Standard,4,17206,Available,8,1041,No,Yes
+1767,7,Standard,4,14340,Available,13,225,No,No
+1768,63,Family Suite,1,8524,Booked,19,418,Yes,Yes
+1769,20,Family Suite,4,7907,Maintenance,16,659,No,No
+1770,78,Family Suite,6,2508,Booked,1,487,Yes,No
+1771,50,Family Suite,1,14277,Booked,13,1064,Yes,Yes
+1772,24,Family Suite,5,6748,Available,1,1190,No,No
+1773,56,Family Suite,3,9688,Booked,18,1008,Yes,Yes
+1774,64,Family Suite,3,9814,Available,13,382,Yes,No
+1775,18,Family Suite,5,15871,Maintenance,4,708,No,Yes
+1776,41,Executive,6,15433,Maintenance,14,403,No,No
+1777,76,Suite,4,11667,Maintenance,6,356,Yes,No
+1778,98,Family Suite,5,7519,Booked,11,721,Yes,Yes
+1779,26,Standard,3,4435,Maintenance,18,975,No,No
+1780,81,Executive,2,10821,Maintenance,10,811,Yes,Yes
+1781,67,Family Suite,3,10118,Booked,18,1116,Yes,Yes
+1782,97,Family Suite,2,16939,Maintenance,6,1138,No,No
+1783,27,Family Suite,3,4042,Booked,19,1035,Yes,Yes
+1784,11,Family Suite,5,5414,Booked,16,268,No,No
+1785,16,Standard,1,9902,Booked,2,358,Yes,No
+1786,56,Deluxe,1,18821,Booked,11,645,No,Yes
+1787,81,Executive,5,4674,Maintenance,9,834,Yes,Yes
+1788,4,Standard,1,5456,Available,8,240,Yes,Yes
+1789,71,Suite,5,3103,Booked,1,261,Yes,Yes
+1790,21,Family Suite,1,14140,Maintenance,18,1065,Yes,Yes
+1791,99,Executive,4,7325,Booked,10,435,No,No
+1792,42,Suite,4,4973,Maintenance,10,616,Yes,No
+1793,96,Family Suite,2,9261,Booked,11,815,No,No
+1794,6,Executive,6,5916,Booked,17,652,Yes,Yes
+1795,97,Family Suite,1,19241,Available,8,1145,Yes,No
+1796,55,Suite,1,17904,Maintenance,19,567,Yes,Yes
+1797,52,Executive,4,6372,Booked,19,1044,Yes,No
+1798,87,Executive,1,18961,Maintenance,14,892,No,No
+1799,38,Executive,5,16400,Booked,20,640,No,No
+1800,60,Family Suite,4,16710,Booked,7,888,Yes,Yes
+1801,41,Executive,1,15983,Maintenance,5,376,Yes,No
+1802,29,Deluxe,5,10325,Booked,15,970,No,Yes
+1803,56,Deluxe,4,18887,Booked,11,639,Yes,No
+1804,83,Deluxe,5,14561,Booked,13,183,No,Yes
+1805,59,Standard,2,6933,Available,8,403,Yes,No
+1806,57,Family Suite,6,7987,Maintenance,17,717,Yes,Yes
+1807,76,Deluxe,6,13854,Booked,16,587,Yes,Yes
+1808,67,Family Suite,5,9554,Booked,2,629,Yes,Yes
+1809,17,Executive,2,5223,Booked,10,410,No,No
+1810,11,Family Suite,5,18623,Booked,15,183,No,No
+1811,16,Executive,1,16912,Available,10,804,No,No
+1812,33,Deluxe,2,16344,Booked,2,1173,No,Yes
+1813,19,Executive,6,15338,Booked,6,452,Yes,No
+1814,72,Deluxe,6,18637,Available,3,1091,Yes,Yes
+1815,48,Standard,4,16388,Booked,2,244,Yes,No
+1816,60,Standard,1,2737,Booked,11,912,Yes,Yes
+1817,11,Executive,5,3232,Available,6,260,Yes,Yes
+1818,75,Family Suite,6,15528,Available,11,215,Yes,No
+1819,14,Executive,6,5445,Booked,8,482,Yes,No
+1820,12,Suite,3,15859,Booked,12,487,No,Yes
+1821,32,Deluxe,2,13649,Booked,19,256,No,No
+1822,12,Family Suite,3,15956,Booked,7,204,Yes,No
+1823,30,Deluxe,5,16002,Maintenance,10,701,No,No
+1824,7,Standard,4,12152,Booked,7,513,Yes,No
+1825,9,Standard,5,5371,Booked,12,416,No,No
+1826,3,Executive,4,16759,Maintenance,14,1044,No,No
+1827,81,Family Suite,1,9314,Booked,3,496,No,Yes
+1828,36,Suite,5,16695,Booked,19,246,No,Yes
+1829,4,Suite,5,3067,Maintenance,9,381,No,Yes
+1830,36,Family Suite,1,14906,Available,20,337,No,No
+1831,13,Suite,2,7244,Booked,3,230,Yes,No
+1832,84,Family Suite,5,5898,Available,14,964,No,Yes
+1833,34,Family Suite,4,3347,Maintenance,20,754,Yes,Yes
+1834,47,Standard,1,5615,Booked,7,424,Yes,Yes
+1835,17,Executive,3,9709,Available,18,618,No,No
+1836,15,Standard,6,8032,Maintenance,10,1182,Yes,Yes
+1837,99,Family Suite,6,9443,Available,1,617,Yes,Yes
+1838,15,Family Suite,5,9441,Maintenance,20,354,No,No
+1839,54,Standard,4,5425,Booked,15,589,Yes,No
+1840,63,Standard,5,5297,Available,16,324,Yes,Yes
+1841,91,Deluxe,3,6526,Available,7,550,Yes,Yes
+1842,32,Suite,3,16648,Available,18,1058,No,Yes
+1843,46,Suite,6,3220,Booked,1,768,No,Yes
+1844,58,Suite,6,18766,Available,14,743,Yes,Yes
+1845,69,Standard,6,6713,Booked,10,575,Yes,Yes
+1846,25,Executive,4,6765,Maintenance,16,184,Yes,No
+1847,83,Suite,6,16891,Available,5,1174,Yes,Yes
+1848,18,Deluxe,3,7700,Booked,7,643,Yes,No
+1849,96,Family Suite,1,7695,Booked,9,286,No,No
+1850,67,Deluxe,4,11678,Booked,12,805,Yes,No
+1851,60,Suite,3,5458,Booked,14,499,Yes,No
+1852,10,Suite,1,13778,Booked,19,486,Yes,No
+1853,24,Suite,3,9608,Available,19,432,Yes,No
+1854,35,Suite,6,10100,Booked,12,301,No,No
+1855,97,Standard,5,17231,Booked,11,1124,No,No
+1856,92,Deluxe,5,6461,Maintenance,11,864,No,Yes
+1857,55,Executive,2,13846,Maintenance,1,286,No,Yes
+1858,4,Deluxe,3,8895,Maintenance,15,634,Yes,No
+1859,37,Family Suite,5,18095,Available,10,710,No,Yes
+1860,15,Executive,3,8132,Maintenance,8,185,No,No
+1861,18,Family Suite,6,4182,Maintenance,2,700,Yes,Yes
+1862,83,Executive,5,2641,Maintenance,17,706,Yes,Yes
+1863,75,Standard,2,14179,Available,4,184,No,Yes
+1864,82,Deluxe,3,10994,Booked,19,263,Yes,Yes
+1865,63,Deluxe,5,6782,Maintenance,19,191,Yes,No
+1866,3,Standard,1,7999,Available,16,792,Yes,No
+1867,74,Executive,5,19293,Maintenance,8,520,No,Yes
+1868,56,Deluxe,1,10103,Available,6,486,Yes,Yes
+1869,61,Executive,6,3552,Available,8,672,Yes,No
+1870,45,Standard,1,14944,Maintenance,11,331,No,No
+1871,65,Standard,5,14597,Maintenance,6,1158,Yes,No
+1872,46,Standard,1,8620,Available,17,606,No,Yes
+1873,74,Standard,5,17465,Maintenance,10,771,No,Yes
+1874,100,Standard,4,6103,Booked,19,1099,Yes,Yes
+1875,38,Executive,5,18502,Available,16,308,No,Yes
+1876,19,Standard,3,16461,Maintenance,9,713,Yes,No
+1877,90,Deluxe,2,16969,Maintenance,14,823,No,Yes
+1878,40,Suite,6,8533,Maintenance,19,886,No,No
+1879,11,Executive,5,12396,Booked,16,232,Yes,No
+1880,77,Standard,1,4042,Available,12,373,Yes,No
+1881,45,Deluxe,5,7367,Available,16,363,Yes,No
+1882,44,Standard,6,5339,Booked,11,725,No,No
+1883,15,Deluxe,6,11415,Maintenance,8,734,No,Yes
+1884,15,Executive,1,13734,Booked,5,1058,Yes,Yes
+1885,98,Family Suite,5,13575,Maintenance,9,791,Yes,Yes
+1886,42,Executive,6,13503,Available,16,390,Yes,No
+1887,55,Executive,3,6431,Booked,8,270,Yes,No
+1888,3,Suite,6,2520,Maintenance,3,760,Yes,Yes
+1889,1,Standard,4,10627,Maintenance,6,365,No,No
+1890,21,Deluxe,4,13881,Booked,19,1022,No,Yes
+1891,78,Family Suite,6,18919,Available,19,678,No,No
+1892,58,Standard,5,6195,Booked,10,1073,Yes,No
+1893,72,Family Suite,1,9496,Booked,12,796,No,Yes
+1894,37,Standard,5,11438,Available,17,227,Yes,Yes
+1895,54,Standard,5,13178,Booked,20,733,Yes,Yes
+1896,25,Deluxe,1,15527,Booked,19,1162,Yes,No
+1897,37,Executive,1,10287,Maintenance,2,637,No,Yes
+1898,73,Suite,5,3387,Maintenance,14,464,Yes,Yes
+1899,49,Standard,4,6112,Available,19,287,No,No
+1900,13,Suite,1,13183,Maintenance,6,1029,Yes,No
+1901,28,Suite,6,18844,Booked,19,458,No,No
+1902,26,Family Suite,5,8667,Available,17,553,No,No
+1903,33,Suite,5,10553,Booked,15,1158,Yes,Yes
+1904,67,Executive,5,19341,Maintenance,4,187,No,No
+1905,23,Deluxe,1,5151,Maintenance,15,220,Yes,Yes
+1906,81,Executive,5,6454,Booked,14,311,Yes,Yes
+1907,43,Suite,5,6234,Available,20,845,Yes,Yes
+1908,60,Executive,4,5727,Booked,4,738,Yes,No
+1909,35,Family Suite,3,6655,Booked,13,659,No,Yes
+1910,33,Standard,6,7052,Booked,20,634,No,No
+1911,12,Executive,2,13595,Booked,10,1075,No,No
+1912,73,Executive,6,14062,Available,20,580,Yes,No
+1913,79,Family Suite,1,4686,Maintenance,9,208,Yes,No
+1914,83,Suite,3,12699,Maintenance,14,354,No,Yes
+1915,54,Standard,3,10566,Maintenance,20,647,Yes,Yes
+1916,52,Executive,4,15683,Booked,12,898,Yes,No
+1917,24,Suite,1,10384,Available,11,672,No,Yes
+1918,45,Executive,5,4652,Available,5,464,No,Yes
+1919,57,Executive,5,10160,Booked,8,515,Yes,No
+1920,7,Family Suite,1,7056,Available,15,302,No,No
+1921,27,Deluxe,5,10001,Booked,6,1105,No,Yes
+1922,60,Standard,6,17161,Available,14,531,No,Yes
+1923,17,Deluxe,4,5730,Available,11,851,No,Yes
+1924,1,Executive,1,6694,Available,7,841,Yes,Yes
+1925,22,Standard,3,9799,Available,9,1029,No,No
+1926,3,Suite,4,5576,Maintenance,12,405,Yes,Yes
+1927,44,Standard,4,12167,Maintenance,17,405,No,No
+1928,95,Deluxe,5,17597,Booked,7,882,Yes,No
+1929,31,Family Suite,2,14909,Booked,19,334,Yes,No
+1930,91,Deluxe,5,16097,Booked,12,1154,No,Yes
+1931,50,Executive,2,9356,Maintenance,2,392,Yes,Yes
+1932,56,Standard,5,19326,Available,15,183,Yes,Yes
+1933,90,Standard,3,13517,Booked,9,1172,Yes,Yes
+1934,13,Suite,2,5902,Maintenance,18,375,Yes,No
+1935,84,Standard,1,17873,Maintenance,3,787,No,No
+1936,81,Suite,3,18014,Booked,13,1130,No,Yes
+1937,26,Suite,4,17288,Available,4,677,Yes,Yes
+1938,30,Standard,3,14518,Maintenance,16,888,No,Yes
+1939,44,Executive,4,13788,Maintenance,6,393,Yes,Yes
+1940,24,Deluxe,3,8341,Available,8,1171,No,Yes
+1941,50,Executive,3,9970,Available,7,933,No,Yes
+1942,80,Family Suite,5,17299,Maintenance,6,1119,Yes,Yes
+1943,41,Standard,2,7798,Booked,1,1038,Yes,Yes
+1944,61,Executive,4,10910,Available,2,829,Yes,Yes
+1945,98,Executive,6,10547,Available,2,259,Yes,Yes
+1946,88,Standard,3,15356,Available,2,1020,No,Yes
+1947,40,Standard,5,13654,Booked,14,727,No,No
+1948,3,Standard,2,14241,Available,16,882,Yes,Yes
+1949,99,Executive,6,19844,Available,19,1107,Yes,Yes
+1950,44,Deluxe,2,8443,Booked,9,721,Yes,No
+1951,77,Executive,6,16777,Booked,15,664,No,No
+1952,28,Suite,5,14050,Maintenance,6,747,Yes,No
+1953,31,Executive,1,7945,Maintenance,10,530,Yes,No
+1954,34,Executive,5,4656,Available,13,214,No,No
+1955,88,Family Suite,1,7681,Available,6,398,No,No
+1956,38,Family Suite,3,17379,Maintenance,10,728,No,No
+1957,100,Executive,5,12670,Booked,11,262,No,Yes
+1958,81,Standard,3,17686,Available,20,940,Yes,No
+1959,49,Deluxe,6,4317,Booked,3,404,Yes,Yes
+1960,30,Suite,5,6748,Booked,13,984,No,No
+1961,99,Standard,2,9432,Maintenance,20,540,No,No
+1962,95,Suite,6,7326,Booked,19,976,Yes,Yes
+1963,23,Executive,1,16041,Booked,15,833,Yes,Yes
+1964,87,Family Suite,4,3364,Available,20,806,Yes,No
+1965,72,Executive,4,7772,Available,16,531,Yes,Yes
+1966,12,Family Suite,6,8735,Maintenance,6,709,Yes,Yes
+1967,2,Suite,4,10240,Maintenance,17,490,No,No
+1968,47,Standard,1,15319,Maintenance,4,534,Yes,Yes
+1969,54,Suite,2,17593,Maintenance,11,584,No,Yes
+1970,61,Standard,6,15367,Available,15,1076,Yes,No
+1971,65,Deluxe,1,12494,Booked,12,599,No,Yes
+1972,76,Suite,5,17323,Booked,7,845,Yes,Yes
+1973,34,Suite,4,9460,Available,18,447,No,No
+1974,43,Suite,1,5424,Available,5,323,Yes,No
+1975,13,Family Suite,2,5085,Available,2,1162,No,Yes
+1976,71,Standard,5,19552,Maintenance,8,204,Yes,Yes
+1977,92,Deluxe,1,7904,Maintenance,10,1078,Yes,No
+1978,53,Executive,5,16874,Available,13,1071,Yes,Yes
+1979,22,Family Suite,4,15894,Booked,10,241,Yes,Yes
+1980,85,Family Suite,4,18482,Available,11,887,No,No
+1981,47,Deluxe,6,13970,Maintenance,1,928,Yes,Yes
+1982,28,Standard,3,13392,Available,2,301,Yes,No
+1983,33,Deluxe,6,9005,Booked,9,578,No,Yes
+1984,8,Executive,4,18083,Maintenance,11,1117,No,No
+1985,3,Suite,2,5328,Booked,17,359,Yes,Yes
+1986,80,Standard,6,11031,Booked,16,364,Yes,No
+1987,41,Suite,2,7832,Available,13,1009,No,No
+1988,1,Suite,2,15197,Maintenance,10,997,No,Yes
+1989,67,Suite,2,15338,Available,15,342,Yes,No
+1990,74,Family Suite,2,7408,Maintenance,18,829,No,No
+1991,75,Family Suite,5,2976,Available,1,589,No,Yes
+1992,45,Family Suite,3,12711,Maintenance,7,212,No,Yes
+1993,96,Deluxe,4,5882,Booked,4,622,Yes,No
+1994,59,Standard,6,7804,Booked,9,902,Yes,Yes
+1995,85,Standard,6,13953,Available,6,845,No,Yes
+1996,73,Executive,5,9931,Maintenance,15,665,Yes,Yes
+1997,66,Suite,3,5786,Booked,20,205,No,No
+1998,38,Deluxe,5,17151,Maintenance,10,828,Yes,No
+1999,99,Standard,3,18865,Available,9,186,No,No
+2000,98,Family Suite,3,5040,Booked,13,804,Yes,Yes

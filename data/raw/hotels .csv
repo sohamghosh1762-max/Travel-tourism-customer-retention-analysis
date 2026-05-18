@@ -1,0 +1,101 @@
+hotel_id,hotel_name,city,country,hotel_type,star_rating,total_rooms,hotel_revenue,occupancy_rate,customer_rating
+1,Sky Hotel 1,Ahmedabad,India,City Hotel,3.6,428,21780483,47.45,4.4
+2,Sky Hotel 2,Ahmedabad,India,City Hotel,3.1,87,45132224,92.49,2.5
+3,Elite Hotel 3,Hyderabad,India,City Hotel,4.6,169,47794495,63.98,4.5
+4,Royal Hotel 4,Bangalore,India,Business Hotel,3.7,291,34004340,57.65,3
+5,Grand Hotel 5,Goa,India,Business Hotel,4.9,126,17463444,87.73,4.9
+6,Blue Hotel 6,Chennai,India,Resort,3.1,262,26913285,84.35,2.6
+7,Elite Hotel 7,Ahmedabad,India,Resort,4.9,237,34913856,68.34,3.2
+8,Elite Hotel 8,Ahmedabad,India,Resort,3.7,93,38445427,62.87,2.9
+9,Blue Hotel 9,Ahmedabad,India,Business Hotel,4.7,302,28345547,53.65,5
+10,Elite Hotel 10,Kolkata,India,City Hotel,4.9,317,46905897,82.27,4.6
+11,Sky Hotel 11,Ahmedabad,India,Business Hotel,3.2,467,42167445,90.68,2.7
+12,Grand Hotel 12,Bangalore,India,Resort,3.2,182,15903978,83.34,2.8
+13,Elite Hotel 13,Kolkata,India,City Hotel,5,206,32948745,68.3,2.7
+14,Royal Hotel 14,Chennai,India,Resort,4.8,290,22696456,49.9,4.7
+15,Grand Hotel 15,Hyderabad,India,City Hotel,4.2,208,26305664,79.7,3.9
+16,Blue Hotel 16,Mumbai,India,Resort,3.5,112,48589159,96.97,2.7
+17,Blue Hotel 17,Hyderabad,India,Resort,3.9,248,11997166,55.93,4.7
+18,Grand Hotel 18,Pune,India,Business Hotel,3.3,159,40719216,56.75,2.7
+19,Sky Hotel 19,Pune,India,City Hotel,3.3,175,26333973,69.92,3.5
+20,Blue Hotel 20,Jaipur,India,Resort,3.1,341,9283224,80.28,4.6
+21,Elite Hotel 21,Jaipur,India,Resort,4.6,420,8842032,82.61,4.7
+22,Sky Hotel 22,Delhi,India,City Hotel,3.2,265,23801201,55.91,4.4
+23,Royal Hotel 23,Jaipur,India,Business Hotel,4.4,481,9678622,89.32,3.1
+24,Blue Hotel 24,Bangalore,India,City Hotel,4.3,273,14696819,59.56,4.4
+25,Royal Hotel 25,Delhi,India,Resort,4.9,81,48232925,67.55,5
+26,Elite Hotel 26,Delhi,India,Business Hotel,3.1,90,33368877,93.79,3.2
+27,Grand Hotel 27,Goa,India,Business Hotel,4.6,355,28334191,50.18,4.3
+28,Sky Hotel 28,Delhi,India,Resort,3.6,402,33358156,65.72,2.9
+29,Blue Hotel 29,Jaipur,India,City Hotel,3.5,146,20678015,50.22,3.6
+30,Elite Hotel 30,Ahmedabad,India,City Hotel,3,67,26714983,79.22,3.2
+31,Grand Hotel 31,Goa,India,City Hotel,5,384,11994472,94.36,4.1
+32,Elite Hotel 32,Hyderabad,India,Business Hotel,4.8,173,47462224,50.57,4.2
+33,Blue Hotel 33,Kolkata,India,Business Hotel,4.7,73,47880848,70.63,3.6
+34,Elite Hotel 34,Chennai,India,Business Hotel,3.8,107,42408368,87.44,3.8
+35,Grand Hotel 35,Jaipur,India,Resort,4.4,215,47546918,90.51,3.2
+36,Elite Hotel 36,Chennai,India,City Hotel,4.7,173,20979823,59.18,3.1
+37,Sky Hotel 37,Chennai,India,Resort,3.9,358,37065657,46.82,4.2
+38,Sky Hotel 38,Bangalore,India,Resort,4.7,235,21201401,49.05,4.5
+39,Blue Hotel 39,Bangalore,India,Resort,3.5,52,42816446,56.36,2.5
+40,Grand Hotel 40,Kolkata,India,City Hotel,4.2,335,43406288,81.92,3.2
+41,Grand Hotel 41,Ahmedabad,India,City Hotel,3.3,60,26981529,83.39,4.1
+42,Elite Hotel 42,Mumbai,India,Business Hotel,3.7,342,15278468,71.62,3.8
+43,Blue Hotel 43,Delhi,India,City Hotel,3.8,75,31623977,95.16,4.4
+44,Sky Hotel 44,Ahmedabad,India,Business Hotel,4.8,197,10165017,67.58,4.1
+45,Grand Hotel 45,Ahmedabad,India,City Hotel,4.7,68,47698519,88.95,4.5
+46,Royal Hotel 46,Chennai,India,Business Hotel,4.3,363,6740117,72.06,3.8
+47,Grand Hotel 47,Hyderabad,India,Business Hotel,4.6,95,13236817,52.95,4.2
+48,Grand Hotel 48,Chennai,India,Business Hotel,3.7,121,42205826,52.87,4.6
+49,Royal Hotel 49,Goa,India,Resort,4.9,144,27100538,65.68,3.7
+50,Elite Hotel 50,Mumbai,India,Business Hotel,4.4,159,39836430,90.12,4.9
+51,Blue Hotel 51,Pune,India,City Hotel,3.3,285,12793163,95.77,3.2
+52,Royal Hotel 52,Jaipur,India,Resort,4,412,38189631,55,3
+53,Blue Hotel 53,Goa,India,Business Hotel,4,180,17072761,93.13,2.8
+54,Elite Hotel 54,Delhi,India,Resort,4.2,144,7327746,68.28,3.1
+55,Blue Hotel 55,Jaipur,India,Resort,3.7,310,35557631,48.47,4.3
+56,Elite Hotel 56,Delhi,India,City Hotel,3.1,490,49460378,62.45,3.9
+57,Elite Hotel 57,Goa,India,Business Hotel,4.6,51,43565977,64.3,4.2
+58,Sky Hotel 58,Chennai,India,City Hotel,4.2,411,45726860,56.86,3.2
+59,Royal Hotel 59,Chennai,India,Resort,3.9,228,35456118,52.89,3.8
+60,Grand Hotel 60,Hyderabad,India,Business Hotel,4.6,86,13567095,75.9,2.7
+61,Elite Hotel 61,Pune,India,Resort,4.3,375,9942715,57.69,3
+62,Grand Hotel 62,Mumbai,India,City Hotel,3.7,240,7976365,54.44,3.2
+63,Sky Hotel 63,Jaipur,India,Business Hotel,4.7,466,24350608,82.71,4.7
+64,Royal Hotel 64,Goa,India,Resort,4.6,114,17170855,57.09,2.9
+65,Grand Hotel 65,Kolkata,India,City Hotel,4.6,318,26592555,91.98,4.7
+66,Blue Hotel 66,Mumbai,India,Business Hotel,4.2,156,44243027,89.04,2.8
+67,Blue Hotel 67,Mumbai,India,Business Hotel,4.9,337,34501493,95.82,3
+68,Sky Hotel 68,Delhi,India,Resort,3.5,107,33470995,88.24,4.4
+69,Royal Hotel 69,Delhi,India,City Hotel,4.3,314,5437799,77.72,4.5
+70,Royal Hotel 70,Chennai,India,Resort,3.7,369,20561547,48.95,3.6
+71,Sky Hotel 71,Jaipur,India,City Hotel,4.4,328,42521367,86.7,4.5
+72,Sky Hotel 72,Mumbai,India,Resort,3.9,192,48622310,68.2,4.4
+73,Royal Hotel 73,Kolkata,India,Resort,3.2,456,19016705,68.61,4.2
+74,Sky Hotel 74,Jaipur,India,City Hotel,3.3,481,29578310,61.6,2.6
+75,Blue Hotel 75,Mumbai,India,Resort,3.6,169,28895916,62.06,4.9
+76,Sky Hotel 76,Delhi,India,Resort,4.8,332,11785894,80.36,4.4
+77,Grand Hotel 77,Kolkata,India,Resort,4.1,431,20592203,72.43,3.3
+78,Royal Hotel 78,Kolkata,India,City Hotel,4,352,42133586,85.48,4.9
+79,Sky Hotel 79,Chennai,India,Business Hotel,3.7,287,9707748,97.58,3.6
+80,Elite Hotel 80,Pune,India,City Hotel,4.8,463,20761061,56.47,2.6
+81,Grand Hotel 81,Hyderabad,India,City Hotel,3.8,302,9083839,79.17,4.2
+82,Blue Hotel 82,Goa,India,Resort,3.2,343,9636418,83.09,4.2
+83,Grand Hotel 83,Ahmedabad,India,City Hotel,3.7,162,6715419,76.53,3.7
+84,Grand Hotel 84,Goa,India,City Hotel,4.4,167,37726714,71.12,2.7
+85,Blue Hotel 85,Mumbai,India,Resort,4,373,48763735,56.19,3.5
+86,Sky Hotel 86,Ahmedabad,India,Resort,4.8,57,24246534,97.2,3.4
+87,Royal Hotel 87,Mumbai,India,City Hotel,3.3,99,31249885,54.67,3.2
+88,Elite Hotel 88,Delhi,India,City Hotel,3.9,188,37090236,57.92,3.4
+89,Elite Hotel 89,Mumbai,India,City Hotel,4.9,477,14019543,75.5,4
+90,Elite Hotel 90,Goa,India,City Hotel,4.6,275,46894163,78.69,2.8
+91,Blue Hotel 91,Delhi,India,Business Hotel,4.5,368,28191727,70.26,4.5
+92,Sky Hotel 92,Mumbai,India,Resort,3.6,409,26529957,45.59,4.9
+93,Grand Hotel 93,Ahmedabad,India,Business Hotel,4.5,454,32810697,73.6,4.5
+94,Elite Hotel 94,Jaipur,India,City Hotel,3.9,410,34977413,97.94,4.4
+95,Sky Hotel 95,Pune,India,Business Hotel,3.9,200,17445325,46.78,3.3
+96,Grand Hotel 96,Bangalore,India,Resort,4.9,239,49693247,62.27,3.7
+97,Elite Hotel 97,Mumbai,India,Business Hotel,4.6,74,12854640,83.66,4.1
+98,Elite Hotel 98,Ahmedabad,India,Business Hotel,4.2,174,7378004,94.01,2.6
+99,Royal Hotel 99,Jaipur,India,Business Hotel,3.2,497,7232656,63.5,4.1
+100,Grand Hotel 100,Hyderabad,India,Business Hotel,4,342,9842636,89.67,4.5
