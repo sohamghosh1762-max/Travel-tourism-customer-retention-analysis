@@ -2,151 +2,155 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/PROJECT-LIVE-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-PANDAS%20%7C%20NUMPY-blue?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-DATA%20VISUALIZATION-purple?style=for-the-badge)
-![ML](https://img.shields.io/badge/MACHINE%20LEARNING-SCIKIT--LEARN-orange?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/DASHBOARD-POWER%20BI-yellow?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/VERSION%20CONTROL-GITHUB-black?style=for-the-badge)
+![Status](https://img.shields.io/badge/PROJECT-COMPLETED-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Analytics-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Database-green?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?style=for-the-badge)
 
-### 🌍 Enterprise Hospitality Intelligence & Predictive Analytics Platform
+### Hospitality Analytics | Customer Retention | Revenue Intelligence
 
-#### Data-Driven Decision Intelligence for Revenue Optimization, Customer Retention & Booking Analytics
+**Transforming hospitality booking data into actionable business insights through Data Analytics, Machine Learning, SQL, and Business Intelligence.**
 
 </div>
 
 ---
 
-# 📌 Executive Overview
+# 📌 Executive Summary
 
-The **Travel & Hospitality Analytics Intelligence System** is an enterprise-grade analytics and predictive intelligence platform developed to enhance operational efficiency, customer retention strategies, and revenue optimization within the hospitality industry.
+The **Travel & Hospitality Analytics Intelligence System** is an end-to-end analytics project developed to support strategic decision-making within the hospitality and tourism industry.
 
-The project leverages:
+The solution integrates SQL-based data processing, exploratory data analysis, machine learning, and business intelligence dashboards to uncover customer behavior patterns, booking cancellation risks, pricing trends, and revenue optimization opportunities.
 
-- Advanced Exploratory Data Analysis (EDA)
-- Machine Learning Models
-- Business Intelligence Dashboards
-- Predictive Analytics
-- Data Visualization Techniques
-
-to transform raw hospitality booking data into actionable business intelligence.
-
-The platform simulates a real-world hospitality analytics ecosystem where data engineering, machine learning, and business reporting work together to support strategic business decisions.
+This project demonstrates a complete analytics lifecycle commonly adopted in enterprise hospitality organizations.
 
 ---
 
-# 🚀 Business Problem Statement
+# 🎯 Business Objectives
 
-Hospitality organizations frequently encounter operational and revenue challenges caused by:
-
-- High booking cancellation rates
-- Dynamic pricing fluctuations
-- Seasonal demand instability
-- Inefficient customer retention strategies
-- Limited predictive analytics integration
-- Inconsistent revenue forecasting
-
-This project addresses these challenges by developing an intelligent analytics workflow capable of identifying hidden business patterns and predicting customer booking behavior.
-
----
-
-# 🎯 Core Business Objectives
-
-- Analyze hotel booking and cancellation behavior
+- Analyze customer booking behavior
 - Predict booking cancellation probability
-- Identify seasonal demand and occupancy trends
-- Optimize Average Daily Rate (ADR) strategies
-- Improve customer retention analytics
+- Identify factors impacting revenue generation
+- Evaluate seasonal demand fluctuations
+- Improve customer retention strategies
+- Support dynamic pricing decisions
 - Generate actionable business insights
-- Support strategic revenue management decisions
-- Develop interactive hospitality dashboards
+- Develop interactive executive dashboards
 
 ---
 
-# 🧠 Analytics & Machine Learning Workflow
+# 🧠 Project Workflow
 
-## 🔹 Data Engineering & Processing
-- Data Cleaning
-- Missing Value Handling
-- Duplicate Removal
-- Outlier Detection
-- Feature Engineering
-- Data Transformation
+## 1️⃣ Data Collection & Preparation
 
-## 🔹 Exploratory Data Analysis (EDA)
-- Booking Trend Analysis
-- Correlation Heatmaps
-- Seasonal Trend Visualization
-- Customer Segmentation
-- Revenue Pattern Analysis
-- Cancellation Distribution Analysis
+- Dataset acquisition
+- Data cleaning
+- Missing value treatment
+- Duplicate removal
+- Outlier handling
+- Feature engineering
 
-## 🔹 Predictive Analytics & Machine Learning
-- Logistic Regression Modeling
+## 2️⃣ SQL Data Processing
+
+- Data validation
+- Data transformation
+- Data quality checks
+- Analytical dataset creation
+
+## 3️⃣ Exploratory Data Analysis (EDA)
+
+- Booking trend analysis
+- Customer behavior analysis
+- Cancellation pattern analysis
+- Revenue analysis
+- Correlation analysis
+- Seasonal demand visualization
+
+## 4️⃣ Predictive Analytics
+
+- Logistic Regression Model
 - Booking Cancellation Prediction
 - Classification Analysis
 - Feature Importance Evaluation
-- Model Performance Metrics
-- Predictive Business Intelligence
+- Performance Measurement
 
-## 🔹 Business Intelligence & Reporting
-- Power BI Dashboards
-- Tableau Visualizations
-- KPI Reporting
-- Revenue Analytics
-- Customer Behavior Insights
+## 5️⃣ Business Intelligence
+
+- Power BI Dashboard Development
+- KPI Monitoring
+- Revenue Insights
+- Customer Analytics
+- Executive Reporting
 
 ---
 
-# 🛠️ Enterprise Technology Stack
+# 🛠️ Technology Stack
 
-| Domain | Technologies |
-|---|---|
+| Category | Technologies |
+|-----------|-------------|
 | Programming Language | Python |
-| Data Processing | Pandas, NumPy |
+| Database | SQL |
+| Data Analysis | Pandas, NumPy |
 | Data Visualization | Matplotlib, Seaborn |
 | Machine Learning | Scikit-Learn |
-| Business Intelligence | Power BI, Tableau |
+| Business Intelligence | Power BI |
 | Development Environment | Jupyter Notebook |
-| Version Control | Git, GitHub |
-| Database | SQL |
+| Version Control | Git & GitHub |
 
 ---
 
-# 📈 Key Business Insights Generated
+# 📊 Key Business Insights
 
-The analytics system successfully identified several critical hospitality business patterns:
+The analysis identified several important hospitality trends:
 
-- Customers with longer lead times show higher cancellation probability
-- Seasonal demand significantly impacts room pricing and occupancy
-- Non-refundable deposits reduce cancellation risk
-- Customer segments exhibit distinct booking behaviors
-- ADR fluctuates across market segments and seasonal cycles
-- Predictive modeling improves revenue forecasting capabilities
+- Longer lead times are associated with higher cancellation probability.
+- Seasonal demand significantly affects occupancy and room pricing.
+- Non-refundable deposits reduce cancellation risk.
+- Different customer segments exhibit unique booking behaviors.
+- Average Daily Rate (ADR) varies across seasons and market segments.
+- Predictive analytics improves proactive revenue planning.
 
-These insights assist hospitality businesses in implementing proactive customer retention and dynamic pricing strategies.
+These findings support customer retention initiatives and data-driven pricing strategies.
 
 ---
 
-# 📊 Machine Learning Highlights
+# 🤖 Machine Learning Model
 
-### Predictive Model Implemented
+### Model Implemented
+
 - Logistic Regression Classifier
 
-### Evaluation Metrics Used
+### Evaluation Metrics
+
 - Accuracy Score
 - Precision
 - Recall
 - Confusion Matrix
-- ROC-AUC Analysis
 - Classification Report
 
-### Business Outcome
-The predictive system enables hospitality organizations to identify high-risk cancellations in advance and optimize operational planning.
+### Business Value
+
+The predictive model enables hospitality businesses to identify high-risk bookings before cancellation occurs, improving operational planning and revenue management.
 
 ---
 
-# 📁 Repository Architecture
+# 📈 Power BI Dashboard
+
+The Business Intelligence Dashboard provides:
+
+- Total Bookings Overview
+- Booking Cancellation Analysis
+- Revenue Performance Tracking
+- Average Daily Rate (ADR) Analysis
+- Customer Segment Insights
+- Market Segment Performance
+- Seasonal Demand Trends
+- Executive KPI Monitoring
+
+---
+
+# 📂 Repository Structure
 
 ```plaintext
 Travel-tourism-customer-retention-analysis/
@@ -162,12 +166,83 @@ Travel-tourism-customer-retention-analysis/
 │   ├── eda_analysis.ipynb
 │   └── churn_prediction.ipynb
 │
+├── dashboard/
+│   └── hospitality_dashboard.pbix
+│
 ├── images/
-│   ├── Correlation Matrix.png
-│   ├── Lead_Time_Distribution.png
-│   ├── ADR vs Cancellation.png
-│   └── Booking_status.png
+│   ├── graphical_abstract.png
+│   ├── project_logo.jpg
+│   ├── correlation_matrix.png
+│   ├── lead_time_distribution.png
+│   ├── adr_analysis.png
+│   └── booking_status_analysis.png
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
+---
+
+# 📋 Project Deliverables
+
+✅ SQL Data Cleaning & Transformation
+
+✅ Exploratory Data Analysis (EDA)
+
+✅ Hospitality Business Insights
+
+✅ Customer Retention Analytics
+
+✅ Booking Cancellation Prediction Model
+
+✅ Machine Learning Evaluation Reports
+
+✅ Power BI Business Dashboard
+
+✅ Revenue Optimization Recommendations
+
+✅ GitHub Project Documentation
+
+---
+
+# 🚀 Installation & Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/sohamghosh1762-max/Travel-tourism-customer-retention-analysis.git
+```
+
+## Navigate to Project Directory
+
+```bash
+cd Travel-tourism-customer-retention-analysis
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 📌 Future Enhancements
+
+- Advanced Ensemble Machine Learning Models
+- Real-Time Hospitality Analytics
+- Customer Lifetime Value Prediction
+- Revenue Forecasting Models
+- Cloud-Based Dashboard Deployment
+- AI-Powered Recommendation System
+- Automated Business Reporting
+
+---
+
